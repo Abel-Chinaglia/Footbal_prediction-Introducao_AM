@@ -68,9 +68,9 @@ Os seguintes modelos de classificação serão utilizados via Scikit-learn:
 ## Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu_usuario/nome_do_repositorio.git
+   git clone https://github.com/Abel-Chinaglia/Introducao_AM-5955006.git
    ```
-2. Instale as dependências (assumindo um futuro `requirements.txt`):
+2. Instale as dependências:
    ```bash
    pip install -r requirements.txt
    ```
