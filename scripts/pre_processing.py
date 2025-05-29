@@ -33,14 +33,18 @@ valores = [0, 1, 2]
 
 # Criar a nova coluna 'PF'
 data_money['PF'] = np.select(condicoes, valores)
+data_money.to_csv('data_money.csv', index=False)
+
 
 #Criando banco de dados 1 -  transferencia de jogadores -> posição final
 data_1 = data_money[['age','transfer_period','fee_cleaned','transfer_movement','PF']]
-
+#data_1.to_csv('data_1.csv', index=False)
 #Criando banco de dados 2 -  Desempenho temporada anterior -> posição final
 data_2 = data_money[['Rk','W','D','L','GF','GA','GD','Pts/MP','PF']]
-
+#data_2.to_csv('data_2.csv', index=False)
 #Criando banco de dados 3 -  transferencia de jogadores + desempenho anterior -> posição final
 data_3 = data_money[['age','transfer_period','fee_cleaned','transfer_movement',
                      'Rk','W','D','L','GF','GA','GD','Pts/MP','PF']]
+#data_3.to_csv('data_3.csv', index=False)
+
 
