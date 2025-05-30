@@ -1,0 +1,201 @@
+league_name,club_name,year,Rk,PF,W,D,L,GF,GA,GD,Pts/MP,PF_next_1_years
+Serie A,AC Milan,2009,3,0,20,10,8,60,39,21,1.84,0
+Serie A,AS Roma,2009,2,0,24,8,6,68,41,27,2.11,0
+Serie A,FC Internazionale,2009,1,0,24,10,4,75,34,41,2.16,0
+Serie A,SSC Napoli,2009,6,0,15,14,9,50,43,7,1.55,0
+Serie A,UC Sampdoria,2009,4,0,19,10,9,49,41,8,1.76,2
+Serie A,US Palermo,2009,5,0,18,11,9,59,47,12,1.71,1
+Serie A,ACF Fiorentina,2009,11,1,13,8,17,48,47,1,1.24,1
+Serie A,AS Bari,2009,10,1,13,11,14,49,49,0,1.32,2
+Serie A,Catania SSD,2009,13,1,10,15,13,44,45,-1,1.18,1
+Serie A,Chievo Verona,2009,14,1,12,8,18,37,42,-5,1.16,1
+Serie A,Genoa CFC,2009,9,1,14,9,15,57,61,-4,1.34,1
+Serie A,Juventus FC,2009,7,1,16,7,15,55,56,-1,1.45,1
+Serie A,Parma Calcio 1913,2009,8,1,14,10,14,46,51,-5,1.37,1
+Serie A,SS Lazio,2009,12,1,11,13,14,39,43,-4,1.21,0
+Serie A,AC Siena,2009,19,2,7,10,21,40,67,-27,0.82,2
+Serie A,AS Livorno,2009,20,2,7,8,23,27,61,-34,0.76,2
+Serie A,Atalanta BC,2009,18,2,9,8,21,37,53,-16,0.92,2
+Serie A,Bologna FC 1909,2009,17,2,10,12,16,42,55,-13,1.11,2
+Serie A,Cagliari Calcio,2009,16,2,11,11,16,56,58,-2,1.16,1
+Serie A,Udinese Calcio,2009,15,2,11,11,16,54,59,-5,1.16,0
+Serie A,AC Milan,2010,1,0,24,10,4,65,24,41,2.16,0
+Serie A,AS Roma,2010,6,0,18,9,11,59,52,7,1.66,1
+Serie A,FC Internazionale,2010,2,0,23,7,8,69,42,27,2.0,0
+Serie A,SS Lazio,2010,5,0,20,6,12,55,39,16,1.74,0
+Serie A,SSC Napoli,2010,3,0,21,7,10,59,39,20,1.84,0
+Serie A,Udinese Calcio,2010,4,0,20,6,12,65,43,22,1.74,0
+Serie A,ACF Fiorentina,2010,9,1,12,15,11,49,44,5,1.34,1
+Serie A,Cagliari Calcio,2010,14,1,12,9,17,44,51,-7,1.18,2
+Serie A,Catania SSD,2010,13,1,12,10,16,40,52,-12,1.21,1
+Serie A,Chievo Verona,2010,11,1,11,13,14,38,40,-2,1.21,1
+Serie A,Genoa CFC,2010,10,1,14,9,15,45,47,-2,1.34,2
+Serie A,Juventus FC,2010,7,1,15,13,10,57,47,10,1.53,0
+Serie A,Parma Calcio 1913,2010,12,1,11,13,14,39,47,-8,1.21,1
+Serie A,US Palermo,2010,8,1,17,5,16,58,63,-5,1.47,2
+Serie A,AC Cesena,2010,15,2,11,10,17,38,50,-12,1.13,2
+Serie A,AS Bari,2010,20,2,5,9,24,27,56,-29,0.63,2
+Serie A,Bologna FC 1909,2010,16,2,11,12,15,35,52,-17,1.11,1
+Serie A,Brescia Calcio,2010,19,2,7,11,20,34,52,-18,0.84,2
+Serie A,UC Sampdoria,2010,18,2,8,12,18,33,49,-16,0.95,2
+Serie A,US Lecce,2010,17,2,11,8,19,46,66,-20,1.08,2
+Serie A,AC Milan,2011,2,0,24,8,6,74,33,41,2.11,0
+Serie A,FC Internazionale,2011,6,0,17,7,14,58,55,3,1.53,1
+Serie A,Juventus FC,2011,1,0,23,15,0,68,20,48,2.21,0
+Serie A,SS Lazio,2011,4,0,18,8,12,56,47,9,1.63,1
+Serie A,SSC Napoli,2011,5,0,16,13,9,66,46,20,1.61,0
+Serie A,Udinese Calcio,2011,3,0,18,10,10,52,35,17,1.68,0
+Serie A,AC Siena,2011,14,1,11,11,16,45,45,0,1.16,2
+Serie A,ACF Fiorentina,2011,13,1,11,13,14,37,43,-6,1.21,0
+Serie A,AS Roma,2011,7,1,16,8,14,60,54,6,1.47,0
+Serie A,Atalanta BC,2011,12,1,13,13,12,41,43,-2,1.21,2
+Serie A,Bologna FC 1909,2011,9,1,13,12,13,41,43,-2,1.34,1
+Serie A,Catania SSD,2011,11,1,11,15,12,47,52,-5,1.26,1
+Serie A,Chievo Verona,2011,10,1,12,13,13,35,45,-10,1.29,1
+Serie A,Parma Calcio 1913,2011,8,1,15,11,12,54,53,1,1.47,1
+Serie A,AC Cesena,2011,20,2,4,10,24,24,60,-36,0.58,2
+Serie A,Cagliari Calcio,2011,15,2,10,13,15,37,46,-9,1.13,1
+Serie A,Genoa CFC,2011,17,2,11,9,18,50,69,-19,1.11,2
+Serie A,Novara Calcio 1908,2011,19,2,7,11,20,35,65,-30,0.84,2
+Serie A,US Lecce,2011,18,2,8,12,18,40,56,-16,0.95,2
+Serie A,US Palermo,2011,16,2,11,10,17,52,62,-10,1.13,2
+Serie A,AC Milan,2012,3,0,21,9,8,67,39,28,1.89,1
+Serie A,ACF Fiorentina,2012,4,0,21,7,10,72,44,28,1.84,0
+Serie A,AS Roma,2012,6,0,18,8,12,71,56,15,1.63,0
+Serie A,Juventus FC,2012,1,0,27,6,5,71,24,47,2.29,0
+Serie A,SSC Napoli,2012,2,0,23,9,6,73,36,37,2.05,0
+Serie A,Udinese Calcio,2012,5,0,18,12,8,59,45,14,1.74,1
+Serie A,Bologna FC 1909,2012,13,1,11,11,16,46,52,-6,1.16,2
+Serie A,Cagliari Calcio,2012,11,1,12,11,15,43,55,-12,1.24,2
+Serie A,Catania SSD,2012,8,1,15,11,12,50,46,4,1.47,2
+Serie A,Chievo Verona,2012,12,1,12,9,17,37,52,-15,1.18,2
+Serie A,FC Internazionale,2012,9,1,16,6,16,55,57,-2,1.42,0
+Serie A,Parma Calcio 1913,2012,10,1,13,10,15,45,46,-1,1.29,0
+Serie A,SS Lazio,2012,7,1,18,7,13,51,42,9,1.61,1
+Serie A,UC Sampdoria,2012,14,1,11,10,17,43,51,-8,1.11,1
+Serie A,AC Siena,2012,19,2,9,9,20,36,57,-21,0.79,2
+Serie A,Atalanta BC,2012,15,2,11,9,18,39,56,-17,1.05,1
+Serie A,Genoa CFC,2012,17,2,8,14,16,38,52,-14,1.0,1
+Serie A,Pescara Calcio,2012,20,2,6,4,28,27,84,-57,0.58,2
+Serie A,Torino FC,2012,16,2,8,16,14,46,55,-9,1.03,1
+Serie A,US Palermo,2012,18,2,6,14,18,34,54,-20,0.84,2
+Serie A,ACF Fiorentina,2013,4,0,19,8,11,65,44,21,1.71,0
+Serie A,AS Roma,2013,2,0,26,7,5,72,25,47,2.24,0
+Serie A,FC Internazionale,2013,5,0,15,15,8,62,39,23,1.58,1
+Serie A,Juventus FC,2013,1,0,33,3,2,80,23,57,2.68,0
+Serie A,Parma Calcio 1913,2013,6,0,15,13,10,58,46,12,1.53,2
+Serie A,SSC Napoli,2013,3,0,23,9,6,77,39,38,2.05,0
+Serie A,AC Milan,2013,8,1,16,9,13,57,49,8,1.5,1
+Serie A,Atalanta BC,2013,11,1,15,5,18,43,51,-8,1.32,2
+Serie A,Genoa CFC,2013,14,1,11,11,16,41,50,-9,1.16,0
+Serie A,Hellas Verona,2013,10,1,16,6,16,62,68,-6,1.42,1
+Serie A,SS Lazio,2013,9,1,15,11,12,54,54,0,1.47,0
+Serie A,Torino FC,2013,7,1,15,12,11,58,48,10,1.5,1
+Serie A,UC Sampdoria,2013,12,1,12,9,17,48,62,-14,1.18,1
+Serie A,Udinese Calcio,2013,13,1,12,8,18,46,57,-11,1.16,2
+Serie A,AS Livorno,2013,20,2,6,7,25,39,77,-38,0.66,2
+Serie A,Bologna FC 1909,2013,19,2,5,14,19,28,58,-30,0.76,2
+Serie A,Cagliari Calcio,2013,15,2,9,12,17,34,53,-19,1.03,2
+Serie A,Catania SSD,2013,18,2,8,8,22,34,66,-32,0.84,2
+Serie A,Chievo Verona,2013,16,2,10,6,22,34,54,-20,0.95,1
+Serie A,US Sassuolo,2013,17,2,9,7,22,43,72,-29,0.89,1
+Serie A,ACF Fiorentina,2014,4,0,18,10,10,61,46,15,1.68,0
+Serie A,AS Roma,2014,2,0,19,13,6,54,31,23,1.84,0
+Serie A,Genoa CFC,2014,6,0,16,11,11,62,47,15,1.55,1
+Serie A,Juventus FC,2014,1,0,26,9,3,72,24,48,2.29,0
+Serie A,SS Lazio,2014,3,0,21,6,11,71,38,33,1.82,1
+Serie A,SSC Napoli,2014,5,0,18,9,11,70,54,16,1.66,0
+Serie A,AC Milan,2014,10,1,13,13,12,56,50,6,1.37,1
+Serie A,Chievo Verona,2014,14,1,10,13,15,28,41,-13,1.13,1
+Serie A,FC Internazionale,2014,8,1,14,13,11,59,48,11,1.45,0
+Serie A,Hellas Verona,2014,13,1,11,13,14,49,65,-16,1.21,2
+Serie A,Torino FC,2014,9,1,14,12,12,48,45,3,1.42,1
+Serie A,UC Sampdoria,2014,7,1,13,17,8,48,42,6,1.47,2
+Serie A,US Palermo,2014,11,1,12,13,13,53,55,-2,1.29,2
+Serie A,US Sassuolo,2014,12,1,12,13,13,49,57,-8,1.29,0
+Serie A,AC Cesena,2014,19,2,4,12,22,36,73,-37,0.63,2
+Serie A,Atalanta BC,2014,17,2,7,16,15,38,57,-19,0.97,1
+Serie A,Cagliari Calcio,2014,18,2,8,10,20,48,68,-20,0.89,2
+Serie A,Empoli FC,2014,15,2,8,18,12,46,52,-6,1.11,1
+Serie A,Parma Calcio 1913,2014,20,2,6,8,24,33,75,-42,0.5,2
+Serie A,Udinese Calcio,2014,16,2,10,11,17,43,56,-13,1.08,2
+Serie A,ACF Fiorentina,2015,5,0,18,10,10,60,42,18,1.68,1
+Serie A,AS Roma,2015,3,0,23,11,4,83,41,42,2.11,0
+Serie A,FC Internazionale,2015,4,0,20,7,11,50,38,12,1.76,1
+Serie A,Juventus FC,2015,1,0,29,4,5,75,20,55,2.39,0
+Serie A,SSC Napoli,2015,2,0,25,7,6,80,32,48,2.16,0
+Serie A,US Sassuolo,2015,6,0,16,13,9,49,40,9,1.61,1
+Serie A,AC Milan,2015,7,1,15,12,11,49,43,6,1.5,0
+Serie A,Atalanta BC,2015,13,1,11,12,15,41,47,-6,1.18,0
+Serie A,Bologna FC 1909,2015,14,1,11,9,18,33,45,-12,1.11,2
+Serie A,Chievo Verona,2015,9,1,13,11,14,43,45,-2,1.32,1
+Serie A,Empoli FC,2015,10,1,12,10,16,40,49,-9,1.21,2
+Serie A,Genoa CFC,2015,11,1,13,7,18,45,48,-3,1.21,2
+Serie A,SS Lazio,2015,8,1,15,9,14,52,52,0,1.42,0
+Serie A,Torino FC,2015,12,1,12,9,17,52,55,-3,1.18,1
+Serie A,Carpi FC 1909,2015,18,2,9,11,18,37,57,-20,1.0,2
+Serie A,Frosinone Calcio,2015,19,2,8,7,23,35,76,-41,0.82,2
+Serie A,Hellas Verona,2015,20,2,5,13,20,34,63,-29,0.74,2
+Serie A,UC Sampdoria,2015,15,2,10,10,18,48,61,-13,1.05,1
+Serie A,US Palermo,2015,16,2,10,9,19,38,65,-27,1.03,2
+Serie A,Udinese Calcio,2015,17,2,10,9,19,35,60,-25,1.03,1
+Serie A,AC Milan,2016,6,0,18,9,11,57,45,12,1.66,0
+Serie A,AS Roma,2016,2,0,28,3,7,90,38,52,2.29,0
+Serie A,Atalanta BC,2016,4,0,21,9,8,62,41,21,1.89,1
+Serie A,Juventus FC,2016,1,0,29,4,5,77,27,50,2.39,0
+Serie A,SS Lazio,2016,5,0,21,7,10,74,51,23,1.84,0
+Serie A,SSC Napoli,2016,3,0,26,8,4,94,39,55,2.26,0
+Serie A,ACF Fiorentina,2016,8,1,16,12,10,63,57,6,1.58,1
+Serie A,Cagliari Calcio,2016,11,1,14,5,19,55,76,-21,1.24,2
+Serie A,Chievo Verona,2016,14,1,12,7,19,43,61,-18,1.13,1
+Serie A,FC Internazionale,2016,7,1,19,5,14,72,49,23,1.63,0
+Serie A,Torino FC,2016,9,1,13,14,11,71,66,5,1.39,1
+Serie A,UC Sampdoria,2016,10,1,12,12,14,49,55,-6,1.26,1
+Serie A,US Sassuolo,2016,12,1,13,7,18,58,63,-5,1.21,1
+Serie A,Udinese Calcio,2016,13,1,12,9,17,47,56,-9,1.18,1
+Serie A,Bologna FC 1909,2016,15,2,11,8,19,40,58,-18,1.08,2
+Serie A,Empoli FC,2016,18,2,8,8,22,29,61,-32,0.84,2
+Serie A,FC Crotone,2016,17,2,9,7,22,34,58,-24,0.89,2
+Serie A,Genoa CFC,2016,16,2,9,9,20,38,64,-26,0.95,1
+Serie A,Pescara Calcio,2016,20,2,3,9,26,37,81,-44,0.47,2
+Serie A,US Palermo,2016,19,2,6,8,24,33,77,-44,0.68,2
+Serie A,AC Milan,2017,6,0,18,10,10,56,42,14,1.68,0
+Serie A,AS Roma,2017,3,0,23,8,7,61,28,33,2.03,0
+Serie A,FC Internazionale,2017,4,0,20,12,6,66,30,36,1.89,0
+Serie A,Juventus FC,2017,1,0,30,5,3,86,24,62,2.5,0
+Serie A,SS Lazio,2017,5,0,21,9,8,89,49,40,1.89,1
+Serie A,SSC Napoli,2017,2,0,28,7,3,77,29,48,2.39,0
+Serie A,ACF Fiorentina,2017,8,1,16,9,13,54,46,8,1.5,2
+Serie A,Atalanta BC,2017,7,1,16,12,10,57,39,18,1.58,0
+Serie A,Chievo Verona,2017,13,1,10,10,18,36,59,-23,1.05,2
+Serie A,Genoa CFC,2017,12,1,11,8,19,33,43,-10,1.08,2
+Serie A,Torino FC,2017,9,1,13,15,10,54,46,8,1.42,1
+Serie A,UC Sampdoria,2017,10,1,16,6,16,56,60,-4,1.42,1
+Serie A,US Sassuolo,2017,11,1,11,10,17,29,59,-30,1.13,1
+Serie A,Udinese Calcio,2017,14,1,12,4,22,48,63,-15,1.05,1
+Serie A,Benevento Calcio,2017,20,2,6,3,29,33,84,-51,0.55,2
+Serie A,Bologna FC 1909,2017,15,2,11,6,21,40,52,-12,1.03,1
+Serie A,Cagliari Calcio,2017,16,2,11,6,21,33,61,-28,1.03,2
+Serie A,FC Crotone,2017,18,2,9,8,21,40,66,-26,0.92,2
+Serie A,Hellas Verona,2017,19,2,7,4,27,30,78,-48,0.66,2
+Serie A,SPAL,2017,17,2,8,14,16,39,59,-20,1.0,1
+Serie A,AC Milan,2018,5,0,19,11,8,55,36,19,1.79,0
+Serie A,AS Roma,2018,6,0,18,12,8,66,48,18,1.74,0
+Serie A,Atalanta BC,2018,3,0,20,9,9,77,46,31,1.82,0
+Serie A,FC Internazionale,2018,4,0,20,9,9,57,33,24,1.82,0
+Serie A,Juventus FC,2018,1,0,28,6,4,70,30,40,2.37,0
+Serie A,SSC Napoli,2018,2,0,24,7,7,74,36,38,2.08,1
+Serie A,Bologna FC 1909,2018,10,1,11,11,16,48,56,-8,1.16,1
+Serie A,Parma Calcio 1913,2018,14,1,10,11,17,41,61,-20,1.08,1
+Serie A,SPAL,2018,13,1,11,9,18,44,56,-12,1.11,2
+Serie A,SS Lazio,2018,8,1,17,8,13,56,46,10,1.55,0
+Serie A,Torino FC,2018,7,1,16,15,7,52,37,15,1.66,2
+Serie A,UC Sampdoria,2018,9,1,15,8,15,60,51,9,1.39,2
+Serie A,US Sassuolo,2018,11,1,9,16,13,53,60,-7,1.13,1
+Serie A,Udinese Calcio,2018,12,1,11,10,17,39,53,-14,1.13,1
+Serie A,ACF Fiorentina,2018,16,2,8,17,13,47,45,2,1.08,1
+Serie A,Cagliari Calcio,2018,15,2,10,11,17,36,54,-18,1.08,1
+Serie A,Chievo Verona,2018,20,2,2,14,22,25,75,-50,0.45,2
+Serie A,Empoli FC,2018,18,2,10,8,20,51,70,-19,1.0,2
+Serie A,Frosinone Calcio,2018,19,2,5,10,23,29,69,-40,0.66,2
+Serie A,Genoa CFC,2018,17,2,8,14,16,39,57,-18,1.0,2
