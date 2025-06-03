@@ -1,764 +1,764 @@
-league_name,club_name,year,Rk,PF,W,D,L,GF,GA,GD,Pts/MP,PF_next_3_years
-1 Bundesliga,Bayer 04 Leverkusen,2009,4,0,15,14,5,65,38,27,1.74,0
-1 Bundesliga,Bayern Munich,2009,1,0,20,10,4,72,31,41,2.06,0
-1 Bundesliga,Borussia Dortmund,2009,5,0,16,9,9,54,42,12,1.68,0
-1 Bundesliga,FC Schalke 04,2009,2,0,19,8,7,53,31,22,1.91,0
-1 Bundesliga,SV Werder Bremen,2009,3,0,17,10,7,71,40,31,1.79,1
-1 Bundesliga,VfB Stuttgart,2009,6,0,15,10,9,51,41,10,1.62,1
-1 Bundesliga,1. FC Köln,2009,13,1,9,11,14,33,42,-9,1.12,2
-1 Bundesliga,1.FSV Mainz 05,2009,9,1,12,11,11,36,42,-6,1.38,1
-1 Bundesliga,Borussia Mönchengladbach,2009,12,1,10,9,15,43,60,-17,1.15,1
-1 Bundesliga,Eintracht Frankfurt,2009,10,1,12,10,12,47,54,-7,1.35,0
-1 Bundesliga,Hamburger SV,2009,7,1,13,13,8,56,41,15,1.53,1
-1 Bundesliga,SC Freiburg,2009,14,1,9,8,17,35,59,-24,1.03,0
-1 Bundesliga,TSG 1899 Hoffenheim,2009,11,1,11,9,14,44,42,2,1.24,2
-1 Bundesliga,VfL Wolfsburg,2009,8,1,14,8,12,64,58,6,1.47,1
-1 Bundesliga,1.FC Nuremberg,2009,16,2,8,7,19,32,58,-26,0.91,1
-1 Bundesliga,Hannover 96,2009,15,2,9,6,19,43,67,-24,0.97,1
-1 Bundesliga,Hertha BSC,2009,18,2,5,9,20,34,56,-22,0.71,2
-1 Bundesliga,VfL Bochum,2009,17,2,6,10,18,33,64,-31,0.82,2
-1 Bundesliga,1.FC Nuremberg,2010,6,0,13,8,13,47,45,2,1.38,2
-1 Bundesliga,1.FSV Mainz 05,2010,5,0,18,4,12,52,39,13,1.71,1
-1 Bundesliga,Bayer 04 Leverkusen,2010,2,0,20,8,6,64,44,20,2.0,0
-1 Bundesliga,Bayern Munich,2010,3,0,19,8,7,81,40,41,1.91,0
-1 Bundesliga,Borussia Dortmund,2010,1,0,23,6,5,67,22,45,2.21,0
-1 Bundesliga,Hannover 96,2010,4,0,19,3,12,49,45,4,1.76,1
-1 Bundesliga,1. FC Köln,2010,10,1,13,5,16,47,62,-15,1.29,2
-1 Bundesliga,1.FC Kaiserslautern,2010,7,1,13,7,14,48,51,-3,1.35,2
-1 Bundesliga,FC Schalke 04,2010,14,1,11,7,16,38,44,-6,1.18,0
-1 Bundesliga,Hamburger SV,2010,8,1,12,9,13,46,52,-6,1.32,2
-1 Bundesliga,SC Freiburg,2010,9,1,13,5,16,41,50,-9,1.29,1
-1 Bundesliga,SV Werder Bremen,2010,13,1,10,11,13,47,61,-14,1.21,1
-1 Bundesliga,TSG 1899 Hoffenheim,2010,11,1,11,10,13,50,50,0,1.26,1
-1 Bundesliga,VfB Stuttgart,2010,12,1,12,6,16,60,59,1,1.24,2
-1 Bundesliga,Borussia Mönchengladbach,2010,16,2,10,6,18,48,65,-17,1.06,0
-1 Bundesliga,Eintracht Frankfurt,2010,17,2,9,7,18,31,49,-18,1.0,1
-1 Bundesliga,FC St. Pauli,2010,18,2,8,5,21,35,68,-33,0.85,2
-1 Bundesliga,VfL Wolfsburg,2010,15,2,9,11,14,43,48,-5,1.12,0
-1 Bundesliga,Bayer 04 Leverkusen,2011,5,0,15,9,10,52,44,8,1.59,0
-1 Bundesliga,Bayern Munich,2011,2,0,23,4,7,77,22,55,2.15,0
-1 Bundesliga,Borussia Dortmund,2011,1,0,25,6,3,80,25,55,2.38,1
-1 Bundesliga,Borussia Mönchengladbach,2011,4,0,17,9,8,49,24,25,1.76,0
-1 Bundesliga,FC Schalke 04,2011,3,0,20,4,10,74,44,30,1.88,0
-1 Bundesliga,VfB Stuttgart,2011,6,0,15,8,11,63,46,17,1.56,1
-1 Bundesliga,1.FC Nuremberg,2011,10,1,12,6,16,38,49,-11,1.24,2
-1 Bundesliga,1.FSV Mainz 05,2011,13,1,9,12,13,47,51,-4,1.15,1
-1 Bundesliga,FC Augsburg,2011,14,1,8,14,12,36,49,-13,1.12,0
-1 Bundesliga,Hannover 96,2011,7,1,12,12,10,41,45,-4,1.41,1
-1 Bundesliga,SC Freiburg,2011,12,1,10,10,14,45,61,-16,1.18,2
-1 Bundesliga,SV Werder Bremen,2011,9,1,11,9,14,49,58,-9,1.24,1
-1 Bundesliga,TSG 1899 Hoffenheim,2011,11,1,10,11,13,41,47,-6,1.21,1
-1 Bundesliga,VfL Wolfsburg,2011,8,1,13,5,16,47,60,-13,1.29,0
-1 Bundesliga,1. FC Köln,2011,17,2,8,6,20,39,75,-36,0.88,1
-1 Bundesliga,1.FC Kaiserslautern,2011,18,2,4,11,19,24,54,-30,0.68,2
-1 Bundesliga,Hamburger SV,2011,15,2,8,12,14,35,57,-22,1.06,2
-1 Bundesliga,Hertha BSC,2011,16,2,7,10,17,38,64,-26,0.91,2
-1 Bundesliga,Bayer 04 Leverkusen,2012,3,0,19,8,7,65,39,26,1.91,0
-1 Bundesliga,Bayern Munich,2012,1,0,29,4,1,98,18,80,2.68,0
-1 Bundesliga,Borussia Dortmund,2012,2,0,19,9,6,81,42,39,1.94,0
-1 Bundesliga,Eintracht Frankfurt,2012,6,0,14,9,11,49,46,3,1.5,2
-1 Bundesliga,FC Schalke 04,2012,4,0,16,7,11,58,50,8,1.62,0
-1 Bundesliga,SC Freiburg,2012,5,0,14,9,11,45,40,5,1.5,2
-1 Bundesliga,1.FC Nuremberg,2012,10,1,11,11,12,39,47,-8,1.29,2
-1 Bundesliga,1.FSV Mainz 05,2012,13,1,10,12,12,42,44,-2,1.24,0
-1 Bundesliga,Borussia Mönchengladbach,2012,8,1,12,11,11,45,49,-4,1.38,0
-1 Bundesliga,Hamburger SV,2012,7,1,14,6,14,42,53,-11,1.41,1
-1 Bundesliga,Hannover 96,2012,9,1,13,6,15,60,62,-2,1.32,2
-1 Bundesliga,SV Werder Bremen,2012,14,1,8,10,16,50,66,-16,1.0,1
-1 Bundesliga,VfB Stuttgart,2012,12,1,12,7,15,37,55,-18,1.26,2
-1 Bundesliga,VfL Wolfsburg,2012,11,1,10,13,11,47,52,-5,1.26,1
-1 Bundesliga,FC Augsburg,2012,15,2,8,9,17,33,51,-18,0.97,1
-1 Bundesliga,Fortuna Düsseldorf,2012,17,2,7,9,18,39,57,-18,0.88,2
-1 Bundesliga,SpVgg Greuther Fürth,2012,18,2,4,9,21,26,60,-34,0.62,2
-1 Bundesliga,TSG 1899 Hoffenheim,2012,16,2,8,7,19,42,67,-25,0.91,2
-1 Bundesliga,Bayer 04 Leverkusen,2013,4,0,19,4,11,60,41,19,1.79,1
-1 Bundesliga,Bayern Munich,2013,1,0,29,3,2,94,23,71,2.65,0
-1 Bundesliga,Borussia Dortmund,2013,2,0,22,5,7,80,38,42,2.09,0
-1 Bundesliga,Borussia Mönchengladbach,2013,6,0,16,7,11,59,43,16,1.62,1
-1 Bundesliga,FC Schalke 04,2013,3,0,19,7,8,63,43,20,1.88,1
-1 Bundesliga,VfL Wolfsburg,2013,5,0,18,6,10,63,50,13,1.76,2
-1 Bundesliga,1.FSV Mainz 05,2013,7,1,16,5,13,52,54,-2,1.56,2
-1 Bundesliga,Eintracht Frankfurt,2013,13,1,9,9,16,40,57,-17,1.06,1
-1 Bundesliga,FC Augsburg,2013,8,1,15,7,12,47,47,0,1.53,1
-1 Bundesliga,Hannover 96,2013,10,1,12,6,16,46,59,-13,1.24,2
-1 Bundesliga,Hertha BSC,2013,11,1,11,8,15,40,48,-8,1.21,0
-1 Bundesliga,SC Freiburg,2013,14,1,9,9,16,43,61,-18,1.06,1
-1 Bundesliga,SV Werder Bremen,2013,12,1,10,9,15,42,66,-24,1.15,1
-1 Bundesliga,TSG 1899 Hoffenheim,2013,9,1,11,11,12,72,70,2,1.29,0
-1 Bundesliga,1.FC Nuremberg,2013,17,2,5,11,18,37,70,-33,0.76,2
-1 Bundesliga,Eintracht Braunschweig,2013,18,2,6,7,21,29,60,-31,0.74,2
-1 Bundesliga,Hamburger SV,2013,16,2,7,6,21,51,75,-24,0.79,1
-1 Bundesliga,VfB Stuttgart,2013,15,2,8,8,18,49,62,-13,0.94,2
-1 Bundesliga,Bayer 04 Leverkusen,2014,4,0,17,10,7,62,37,25,1.79,0
-1 Bundesliga,Bayern Munich,2014,1,0,25,4,5,80,18,62,2.32,0
-1 Bundesliga,Borussia Mönchengladbach,2014,3,0,19,9,6,53,26,27,1.94,1
-1 Bundesliga,FC Augsburg,2014,5,0,15,4,15,43,43,0,1.44,1
-1 Bundesliga,FC Schalke 04,2014,6,0,13,9,12,42,40,2,1.41,0
-1 Bundesliga,VfL Wolfsburg,2014,2,0,20,9,5,72,38,34,2.03,2
-1 Bundesliga,1. FC Köln,2014,12,1,9,13,12,34,40,-6,1.18,2
-1 Bundesliga,1.FSV Mainz 05,2014,11,1,9,13,12,45,47,-2,1.18,1
-1 Bundesliga,Borussia Dortmund,2014,7,1,13,7,14,47,42,5,1.35,0
-1 Bundesliga,Eintracht Frankfurt,2014,9,1,11,10,13,56,62,-6,1.26,1
-1 Bundesliga,Hannover 96,2014,13,1,9,10,15,40,56,-16,1.09,1
-1 Bundesliga,SV Werder Bremen,2014,10,1,11,10,13,50,65,-15,1.26,1
-1 Bundesliga,TSG 1899 Hoffenheim,2014,8,1,12,8,14,49,55,-6,1.29,0
-1 Bundesliga,VfB Stuttgart,2014,14,1,9,9,16,42,60,-18,1.06,1
-1 Bundesliga,Hamburger SV,2014,16,2,9,8,17,25,50,-25,1.03,2
-1 Bundesliga,Hertha BSC,2014,15,2,9,8,17,36,52,-16,1.03,1
-1 Bundesliga,SC Freiburg,2014,17,2,7,13,14,36,47,-11,1.0,2
-1 Bundesliga,SC Paderborn 07,2014,18,2,7,10,17,31,65,-34,0.91,2
-1 Bundesliga,1.FSV Mainz 05,2015,6,0,14,8,12,46,42,4,1.47,1
-1 Bundesliga,Bayer 04 Leverkusen,2015,3,0,18,6,10,56,40,16,1.76,0
-1 Bundesliga,Bayern Munich,2015,1,0,28,4,2,80,17,63,2.59,0
-1 Bundesliga,Borussia Dortmund,2015,2,0,24,6,4,82,34,48,2.29,0
-1 Bundesliga,Borussia Mönchengladbach,2015,4,0,17,4,13,67,50,17,1.62,0
-1 Bundesliga,FC Schalke 04,2015,5,0,15,7,12,51,49,2,1.53,1
-1 Bundesliga,1. FC Köln,2015,9,1,10,13,11,38,42,-4,1.26,2
-1 Bundesliga,FC Augsburg,2015,12,1,9,11,14,42,52,-10,1.12,2
-1 Bundesliga,FC Ingolstadt 04,2015,11,1,10,10,14,33,42,-9,1.18,2
-1 Bundesliga,Hamburger SV,2015,10,1,11,8,15,40,46,-6,1.21,2
-1 Bundesliga,Hertha BSC,2015,7,1,14,8,12,42,42,0,1.47,1
-1 Bundesliga,SV Darmstadt 98,2015,14,1,9,11,14,38,53,-15,1.12,2
-1 Bundesliga,SV Werder Bremen,2015,13,1,10,8,16,50,65,-15,1.12,1
-1 Bundesliga,VfL Wolfsburg,2015,8,1,12,9,13,47,49,-2,1.32,0
-1 Bundesliga,Eintracht Frankfurt,2015,16,2,9,9,16,34,52,-18,1.06,1
-1 Bundesliga,Hannover 96,2015,18,2,7,4,23,31,62,-31,0.74,2
-1 Bundesliga,TSG 1899 Hoffenheim,2015,15,2,9,10,15,39,54,-15,1.09,1
-1 Bundesliga,VfB Stuttgart,2015,17,2,9,6,19,50,75,-25,0.97,2
-1 Bundesliga,1. FC Köln,2016,5,0,12,13,9,51,42,9,1.44,1
-1 Bundesliga,Bayern Munich,2016,1,0,25,7,2,89,22,67,2.41,0
-1 Bundesliga,Borussia Dortmund,2016,3,0,18,10,6,72,40,32,1.88,0
-1 Bundesliga,Hertha BSC,2016,6,0,15,4,15,43,47,-4,1.44,1
-1 Bundesliga,RB Leipzig,2016,2,0,20,7,7,66,39,27,1.97,0
-1 Bundesliga,TSG 1899 Hoffenheim,2016,4,0,16,14,4,64,37,27,1.82,0
-1 Bundesliga,Bayer 04 Leverkusen,2016,12,1,11,8,15,53,55,-2,1.21,0
-1 Bundesliga,Borussia Mönchengladbach,2016,9,1,12,9,13,45,49,-4,1.32,0
-1 Bundesliga,Eintracht Frankfurt,2016,11,1,11,9,14,36,43,-7,1.24,1
-1 Bundesliga,FC Augsburg,2016,13,1,9,11,14,35,51,-16,1.12,2
-1 Bundesliga,FC Schalke 04,2016,10,1,11,10,13,45,40,5,1.26,1
-1 Bundesliga,Hamburger SV,2016,14,1,10,8,16,33,61,-28,1.12,2
-1 Bundesliga,SC Freiburg,2016,7,1,14,6,14,42,60,-18,1.41,1
-1 Bundesliga,SV Werder Bremen,2016,8,1,13,6,15,61,64,-3,1.32,2
-1 Bundesliga,1.FSV Mainz 05,2016,15,2,10,7,17,44,55,-11,1.09,1
-1 Bundesliga,FC Ingolstadt 04,2016,17,2,8,8,18,36,57,-21,0.94,2
-1 Bundesliga,SV Darmstadt 98,2016,18,2,7,4,23,28,63,-35,0.74,2
-1 Bundesliga,VfL Wolfsburg,2016,16,2,10,7,17,34,52,-18,1.09,1
-Primera Division,FC Barcelona,2009,1,0,31,6,1,98,24,74,2.61,0
-Primera Division,Getafe CF,2009,6,0,17,7,14,58,48,10,1.53,1
-Primera Division,RCD Mallorca,2009,5,0,18,8,12,59,44,15,1.63,2
-Primera Division,Real Madrid,2009,2,0,31,3,4,102,35,67,2.53,0
-Primera Division,Sevilla FC,2009,4,0,19,6,13,65,49,16,1.66,1
-Primera Division,Valencia CF,2009,3,0,21,8,9,59,40,19,1.87,0
-Primera Division,Athletic Bilbao,2009,8,1,15,9,14,50,53,-3,1.42,1
-Primera Division,CA Osasuna,2009,12,1,11,10,17,37,46,-9,1.13,2
-Primera Division,Deportivo de La Coruña,2009,10,1,13,8,17,35,49,-14,1.24,2
-Primera Division,RCD Espanyol Barcelona,2009,11,1,11,11,16,29,46,-17,1.16,1
-Primera Division,Real Zaragoza,2009,14,1,10,11,17,46,64,-18,1.08,2
-Primera Division,UD Almería,2009,13,1,10,12,16,43,55,-12,1.11,2
-Primera Division,Villarreal CF,2009,7,1,16,8,14,58,57,1,1.47,2
-Primera Division,CD Tenerife,2009,19,2,9,9,20,40,74,-34,0.95,2
-Primera Division,Málaga CF,2009,17,2,7,16,15,42,48,-6,0.97,0
-Primera Division,Racing Santander,2009,16,2,9,12,17,42,59,-17,1.03,2
-Primera Division,Real Valladolid CF,2009,18,2,7,15,16,37,62,-25,0.95,2
-Primera Division,Sporting Gijón,2009,15,2,9,13,16,36,51,-15,1.05,2
-Primera Division,Xerez CD,2009,20,2,8,10,20,38,66,-28,0.89,2
-Primera Division,Athletic Bilbao,2010,6,0,18,4,16,59,55,4,1.53,0
-Primera Division,FC Barcelona,2010,1,0,30,6,2,95,21,74,2.53,0
-Primera Division,Real Madrid,2010,2,0,29,5,4,102,33,69,2.42,0
-Primera Division,Sevilla FC,2010,5,0,17,7,14,62,61,1,1.53,0
-Primera Division,Valencia CF,2010,3,0,21,8,9,64,44,20,1.87,1
-Primera Division,Villarreal CF,2010,4,0,18,8,12,54,44,10,1.63,0
-Primera Division,CA Osasuna,2010,9,1,13,8,17,45,46,-1,1.24,2
-Primera Division,Málaga CF,2010,11,1,13,7,18,54,68,-14,1.21,1
-Primera Division,RCD Espanyol Barcelona,2010,8,1,15,4,19,46,55,-9,1.29,1
-Primera Division,Racing Santander,2010,12,1,12,10,16,41,56,-15,1.21,2
-Primera Division,Real Zaragoza,2010,13,1,12,9,17,40,53,-13,1.18,2
-Primera Division,Sporting Gijón,2010,10,1,11,14,13,35,42,-7,1.24,2
-Primera Division,Deportivo de La Coruña,2010,18,2,10,13,15,31,47,-16,1.13,2
-Primera Division,Getafe CF,2010,16,2,12,8,18,49,60,-11,1.16,1
-Primera Division,Hércules CF,2010,19,2,9,8,21,36,60,-24,0.92,2
-Primera Division,RCD Mallorca,2010,17,2,12,8,18,41,56,-15,1.16,2
-Primera Division,Real Sociedad,2010,15,2,14,3,21,49,66,-17,1.18,1
-Primera Division,UD Almería,2010,20,2,6,12,20,36,70,-34,0.79,2
-Primera Division,FC Barcelona,2011,2,0,28,7,3,114,29,85,2.39,0
-Primera Division,Levante UD,2011,6,0,16,7,15,54,50,4,1.45,1
-Primera Division,Málaga CF,2011,4,0,17,7,14,54,53,1,1.53,1
-Primera Division,Real Madrid,2011,1,0,32,4,2,121,32,89,2.63,0
-Primera Division,Valencia CF,2011,3,0,17,10,11,59,44,15,1.61,0
-Primera Division,Athletic Bilbao,2011,10,1,12,13,13,49,52,-3,1.29,1
-Primera Division,CA Osasuna,2011,7,1,13,15,10,44,61,-17,1.42,2
-Primera Division,Getafe CF,2011,11,1,12,11,15,40,51,-11,1.24,2
-Primera Division,RCD Espanyol Barcelona,2011,14,1,12,10,16,46,56,-10,1.21,1
-Primera Division,RCD Mallorca,2011,8,1,14,10,14,42,46,-4,1.37,2
-Primera Division,Real Betis Balompié,2011,13,1,13,8,17,47,56,-9,1.24,2
-Primera Division,Real Sociedad,2011,12,1,12,11,15,46,52,-6,1.24,1
-Primera Division,Sevilla FC,2011,9,1,13,11,14,48,47,1,1.32,0
-Primera Division,Granada CF,2011,17,2,12,6,20,35,56,-21,1.11,2
-Primera Division,Racing Santander,2011,20,2,4,15,19,28,63,-35,0.71,2
-Primera Division,Rayo Vallecano,2011,15,2,13,4,21,53,73,-20,1.13,1
-Primera Division,Real Zaragoza,2011,16,2,12,7,19,36,61,-25,1.13,2
-Primera Division,Sporting Gijón,2011,19,2,10,7,21,42,69,-27,0.97,2
-Primera Division,Villarreal CF,2011,18,2,9,14,15,39,53,-14,1.08,0
-Primera Division,FC Barcelona,2012,1,0,32,4,2,115,40,75,2.63,0
-Primera Division,Málaga CF,2012,6,0,16,9,13,53,50,3,1.5,1
-Primera Division,Real Madrid,2012,2,0,26,7,5,103,42,61,2.24,0
-Primera Division,Real Sociedad,2012,4,0,18,12,8,70,49,21,1.74,1
-Primera Division,Valencia CF,2012,5,0,19,8,11,67,54,13,1.71,1
-Primera Division,Athletic Bilbao,2012,12,1,12,9,17,44,65,-21,1.18,0
-Primera Division,Getafe CF,2012,10,1,13,8,17,43,57,-14,1.24,2
-Primera Division,Levante UD,2012,11,1,12,10,16,40,57,-17,1.21,2
-Primera Division,RCD Espanyol Barcelona,2012,13,1,11,11,16,43,52,-9,1.16,1
-Primera Division,Rayo Vallecano,2012,8,1,16,5,17,50,66,-16,1.39,2
-Primera Division,Real Betis Balompié,2012,7,1,16,8,14,57,56,1,1.47,1
-Primera Division,Sevilla FC,2012,9,1,14,8,16,58,54,4,1.32,1
-Primera Division,CA Osasuna,2012,16,2,10,9,19,33,50,-17,1.03,2
-Primera Division,Deportivo de La Coruña,2012,19,2,8,11,19,47,70,-23,0.92,2
-Primera Division,Granada CF,2012,15,2,11,9,18,37,54,-17,1.11,2
-Primera Division,RCD Mallorca,2012,18,2,9,9,20,43,72,-29,0.95,2
-Primera Division,Real Zaragoza,2012,20,2,9,7,22,37,62,-25,0.89,2
-Primera Division,Athletic Bilbao,2013,4,0,20,10,8,66,39,27,1.84,2
-Primera Division,FC Barcelona,2013,2,0,27,6,5,100,33,67,2.29,0
-Primera Division,Real Madrid,2013,3,0,27,6,5,104,38,66,2.29,0
-Primera Division,Sevilla FC,2013,5,0,18,9,11,69,52,17,1.66,0
-Primera Division,Villarreal CF,2013,6,0,17,8,13,60,44,16,1.55,0
-Primera Division,Getafe CF,2013,13,1,11,9,18,35,54,-19,1.11,2
-Primera Division,Levante UD,2013,10,1,12,12,14,35,43,-8,1.26,2
-Primera Division,Málaga CF,2013,11,1,12,9,17,39,46,-7,1.18,1
-Primera Division,RCD Espanyol Barcelona,2013,14,1,11,9,18,41,51,-10,1.11,1
-Primera Division,Rayo Vallecano,2013,12,1,13,4,21,46,80,-34,1.13,2
-Primera Division,Real Sociedad,2013,7,1,16,11,11,62,55,7,1.55,0
-Primera Division,Valencia CF,2013,8,1,13,10,15,51,53,-2,1.29,1
-Primera Division,CA Osasuna,2013,18,2,10,9,19,32,62,-30,1.03,2
-Primera Division,Elche CF,2013,16,2,9,13,16,30,50,-20,1.05,2
-Primera Division,Granada CF,2013,15,2,12,5,21,32,56,-24,1.08,2
-Primera Division,Real Betis Balompié,2013,20,2,6,7,25,36,78,-42,0.66,2
-Primera Division,Real Valladolid CF,2013,19,2,7,15,16,38,60,-22,0.95,2
-Primera Division,UD Almería,2013,17,2,11,7,20,43,71,-28,1.05,2
-Primera Division,FC Barcelona,2014,1,0,30,4,4,110,21,89,2.47,0
-Primera Division,Real Madrid,2014,2,0,30,2,6,118,38,80,2.42,0
-Primera Division,Sevilla FC,2014,5,0,23,7,8,71,45,26,2.0,1
-Primera Division,Valencia CF,2014,4,0,22,11,5,70,32,38,2.03,0
-Primera Division,Villarreal CF,2014,6,0,16,12,10,48,37,11,1.58,0
-Primera Division,Athletic Bilbao,2014,7,1,15,10,13,42,41,1,1.45,2
-Primera Division,Elche CF,2014,13,1,11,8,19,35,62,-27,1.08,2
-Primera Division,Levante UD,2014,14,1,9,10,19,34,67,-33,0.97,2
-Primera Division,Málaga CF,2014,9,1,14,8,16,42,48,-6,1.32,2
-Primera Division,RCD Espanyol Barcelona,2014,10,1,13,10,15,47,51,-4,1.29,1
-Primera Division,Rayo Vallecano,2014,11,1,15,4,19,46,68,-22,1.29,2
-Primera Division,Real Sociedad,2014,12,1,11,13,14,44,51,-7,1.21,1
-Primera Division,Córdoba CF,2014,20,2,3,11,24,22,68,-46,0.53,2
-Primera Division,Deportivo de La Coruña,2014,16,2,7,14,17,35,60,-25,0.92,2
-Primera Division,Getafe CF,2014,15,2,10,7,21,33,64,-31,0.97,1
-Primera Division,Granada CF,2014,17,2,7,14,17,29,64,-35,0.92,2
-Primera Division,SD Eibar,2014,18,2,9,8,21,34,55,-21,0.92,1
-Primera Division,UD Almería,2014,19,2,8,8,22,35,64,-29,0.76,2
-Primera Division,Athletic Bilbao,2015,5,0,18,8,12,58,45,13,1.63,1
-Primera Division,FC Barcelona,2015,1,0,29,4,5,112,29,83,2.39,0
-Primera Division,Real Madrid,2015,2,0,28,6,4,110,34,76,2.37,0
-Primera Division,Villarreal CF,2015,4,0,18,10,10,44,35,9,1.68,1
-Primera Division,Málaga CF,2015,8,1,12,12,14,38,35,3,1.26,2
-Primera Division,RCD Espanyol Barcelona,2015,13,1,12,7,19,40,74,-34,1.13,1
-Primera Division,Real Betis Balompié,2015,10,1,11,12,15,34,52,-18,1.18,1
-Primera Division,Real Sociedad,2015,9,1,13,9,16,45,48,-3,1.26,1
-Primera Division,SD Eibar,2015,14,1,11,10,17,49,61,-12,1.13,1
-Primera Division,Sevilla FC,2015,7,1,14,10,14,51,50,1,1.37,0
-Primera Division,UD Las Palmas,2015,11,1,12,8,18,45,53,-8,1.16,2
-Primera Division,Valencia CF,2015,12,1,11,11,16,46,48,-2,1.16,0
-Primera Division,Deportivo de La Coruña,2015,15,2,8,18,12,45,61,-16,1.11,2
-Primera Division,Getafe CF,2015,19,2,9,9,20,37,67,-30,0.95,0
-Primera Division,Granada CF,2015,16,2,10,9,19,46,69,-23,1.03,2
-Primera Division,Levante UD,2015,20,2,8,8,22,37,70,-33,0.84,2
-Primera Division,Rayo Vallecano,2015,18,2,9,11,18,52,73,-21,1.0,2
-Primera Division,FC Barcelona,2016,2,0,28,6,4,116,37,79,2.37,0
-Primera Division,Real Madrid,2016,1,0,29,6,3,106,41,65,2.45,0
-Primera Division,Real Sociedad,2016,6,0,19,7,12,59,53,6,1.68,0
-Primera Division,Sevilla FC,2016,4,0,21,9,8,69,49,20,1.89,0
-Primera Division,Villarreal CF,2016,5,0,19,10,9,56,33,23,1.76,0
-Primera Division,Deportivo Alavés,2016,9,1,14,13,11,41,43,-2,1.45,2
-Primera Division,Málaga CF,2016,11,1,12,10,16,49,55,-6,1.21,2
-Primera Division,RCD Espanyol Barcelona,2016,8,1,15,11,12,49,50,-1,1.47,2
-Primera Division,SD Eibar,2016,10,1,15,9,14,56,51,5,1.42,1
-Primera Division,UD Las Palmas,2016,14,1,10,9,19,53,74,-21,1.03,2
-Primera Division,Valencia CF,2016,12,1,13,7,18,56,65,-9,1.21,1
-Primera Division,CA Osasuna,2016,19,2,4,10,24,40,94,-54,0.58,1
-Primera Division,CD Leganés,2016,17,2,8,11,19,36,55,-19,0.92,2
-Primera Division,Deportivo de La Coruña,2016,16,2,8,12,18,43,61,-18,0.95,2
-Primera Division,Granada CF,2016,20,2,4,8,26,30,82,-52,0.53,1
-Primera Division,Real Betis Balompié,2016,15,2,10,9,19,41,64,-23,1.03,2
-Primera Division,Sporting Gijón,2016,18,2,7,10,21,42,72,-30,0.82,2
-Ligue 1,AJ Auxerre,2009,3,0,20,11,7,42,29,13,1.87,2
-Ligue 1,FC Girondins Bordeaux,2009,6,0,19,7,12,58,40,18,1.68,1
-Ligue 1,LOSC Lille,2009,4,0,21,7,10,72,40,32,1.84,0
-Ligue 1,Olympique Lyon,2009,2,0,20,12,6,64,38,26,1.89,0
-Ligue 1,Olympique Marseille,2009,1,0,23,9,6,69,36,33,2.05,0
-Ligue 1,AS Monaco,2009,8,1,15,10,13,39,45,-6,1.45,2
-Ligue 1,AS Nancy-Lorraine,2009,12,1,13,9,16,46,53,-7,1.26,2
-Ligue 1,FC Lorient,2009,7,1,16,10,12,54,42,12,1.53,1
-Ligue 1,FC Toulouse,2009,14,1,12,11,15,36,36,0,1.24,1
-Ligue 1,Paris Saint-Germain,2009,13,1,12,11,15,50,46,4,1.24,0
-Ligue 1,RC Lens,2009,11,1,12,12,14,40,44,-4,1.26,2
-Ligue 1,Stade Rennais FC,2009,9,1,14,11,13,52,41,11,1.39,1
-Ligue 1,Valenciennes FC,2009,10,1,14,10,14,50,50,0,1.37,1
-Ligue 1,AS Saint-Étienne,2009,17,2,10,10,18,27,45,-18,1.05,0
-Ligue 1,FC Sochaux-Montbéliard,2009,16,2,11,8,19,28,52,-24,1.08,2
-Ligue 1,Grenoble Foot 38,2009,20,2,5,8,25,31,61,-30,0.61,2
-Ligue 1,Le Mans FC,2009,18,2,8,8,22,36,59,-23,0.84,2
-Ligue 1,OGC Nice,2009,15,2,11,11,16,41,57,-16,1.16,0
-Ligue 1,US Boulogne,2009,19,2,7,10,21,31,62,-31,0.82,2
-Ligue 1,FC Sochaux-Montbéliard,2010,5,0,17,7,14,60,43,17,1.53,2
-Ligue 1,LOSC Lille,2010,1,0,21,13,4,68,36,32,2.0,0
-Ligue 1,Olympique Lyon,2010,3,0,17,13,8,61,40,21,1.68,0
-Ligue 1,Olympique Marseille,2010,2,0,18,14,6,62,39,23,1.79,0
-Ligue 1,Paris Saint-Germain,2010,4,0,15,15,8,56,41,15,1.58,0
-Ligue 1,Stade Rennais FC,2010,6,0,15,11,12,38,35,3,1.47,1
-Ligue 1,AJ Auxerre,2010,9,1,10,19,9,45,41,4,1.29,2
-Ligue 1,AS Nancy-Lorraine,2010,13,1,13,9,16,43,48,-5,1.26,2
-Ligue 1,AS Saint-Étienne,2010,10,1,12,13,13,46,47,-1,1.29,0
-Ligue 1,FC Girondins Bordeaux,2010,7,1,12,15,11,43,42,1,1.34,1
-Ligue 1,FC Lorient,2010,11,1,12,13,13,46,48,-2,1.29,1
-Ligue 1,FC Toulouse,2010,8,1,14,8,16,38,36,2,1.32,1
-Ligue 1,Montpellier HSC,2010,14,1,12,11,15,32,43,-11,1.24,2
-Ligue 1,Valenciennes FC,2010,12,1,10,18,10,45,41,4,1.26,2
-Ligue 1,AS Monaco,2010,18,2,9,17,12,36,40,-4,1.16,0
-Ligue 1,Athlétic Club Arlésien,2010,20,2,3,11,24,21,70,-49,0.53,2
-Ligue 1,OGC Nice,2010,17,2,11,13,14,33,48,-15,1.21,2
-Ligue 1,RC Lens,2010,19,2,7,14,17,35,58,-23,0.92,2
-Ligue 1,SM Caen,2010,15,2,11,13,14,46,51,-5,1.21,2
-Ligue 1,Stade Brestois 29,2010,16,2,11,13,14,36,43,-7,1.21,2
-Ligue 1,FC Girondins Bordeaux,2011,5,0,16,13,9,53,41,12,1.61,0
-Ligue 1,LOSC Lille,2011,3,0,21,11,6,72,39,33,1.95,1
-Ligue 1,Montpellier HSC,2011,1,0,25,7,6,68,34,34,2.16,1
-Ligue 1,Olympique Lyon,2011,4,0,19,7,12,64,51,13,1.68,0
-Ligue 1,Paris Saint-Germain,2011,2,0,23,10,5,75,41,34,2.08,0
-Ligue 1,Stade Rennais FC,2011,6,0,17,9,12,53,44,9,1.58,1
-Ligue 1,AS Nancy-Lorraine,2011,11,1,11,12,15,38,48,-10,1.18,2
-Ligue 1,AS Saint-Étienne,2011,7,1,16,9,13,49,45,4,1.5,0
-Ligue 1,FC Sochaux-Montbéliard,2011,14,1,11,9,18,40,60,-20,1.11,2
-Ligue 1,FC Toulouse,2011,8,1,15,11,12,37,34,3,1.47,2
-Ligue 1,FC Évian Thonon Gaillard,2011,9,1,13,11,14,54,55,-1,1.32,2
-Ligue 1,OGC Nice,2011,13,1,10,12,16,39,46,-7,1.11,1
-Ligue 1,Olympique Marseille,2011,10,1,12,12,14,45,41,4,1.26,0
-Ligue 1,Valenciennes FC,2011,12,1,12,7,19,40,50,-10,1.13,2
-Ligue 1,AC Ajaccio,2011,16,2,9,14,15,40,61,-21,1.08,2
-Ligue 1,AJ Auxerre,2011,20,2,7,13,18,46,57,-11,0.89,2
-Ligue 1,Dijon FCO,2011,19,2,9,9,20,38,63,-25,0.95,2
-Ligue 1,FC Lorient,2011,17,2,9,12,17,35,49,-14,1.03,2
-Ligue 1,SM Caen,2011,18,2,9,11,18,39,59,-20,1.0,1
-Ligue 1,Stade Brestois 29,2011,15,2,8,17,13,31,38,-7,1.08,2
-Ligue 1,AS Saint-Étienne,2012,5,0,16,15,7,60,32,28,1.66,0
-Ligue 1,LOSC Lille,2012,6,0,16,14,8,59,40,19,1.63,0
-Ligue 1,OGC Nice,2012,4,0,18,10,10,57,46,11,1.68,0
-Ligue 1,Olympique Lyon,2012,3,0,19,10,9,61,38,23,1.76,0
-Ligue 1,Olympique Marseille,2012,2,0,21,8,9,42,36,6,1.87,1
-Ligue 1,Paris Saint-Germain,2012,1,0,25,8,5,69,23,46,2.18,0
-Ligue 1,FC Girondins Bordeaux,2012,7,1,13,16,9,40,34,6,1.45,1
-Ligue 1,FC Lorient,2012,8,1,14,11,13,57,58,-1,1.39,2
-Ligue 1,FC Toulouse,2012,10,1,13,12,13,49,47,2,1.34,2
-Ligue 1,Montpellier HSC,2012,9,1,15,7,16,54,51,3,1.37,1
-Ligue 1,SC Bastia,2012,12,1,13,8,17,50,66,-16,1.24,1
-Ligue 1,Stade Reims,2012,14,1,10,13,15,33,42,-9,1.13,2
-Ligue 1,Stade Rennais FC,2012,13,1,13,7,18,48,59,-11,1.21,1
-Ligue 1,Valenciennes FC,2012,11,1,12,12,14,49,53,-4,1.26,2
-Ligue 1,AC Ajaccio,2012,17,2,9,15,14,39,51,-12,1.05,2
-Ligue 1,AS Nancy-Lorraine,2012,18,2,9,11,18,38,58,-20,1.0,2
-Ligue 1,ESTAC Troyes,2012,19,2,8,13,17,43,61,-18,0.97,2
-Ligue 1,FC Sochaux-Montbéliard,2012,15,2,10,11,17,41,57,-16,1.08,2
-Ligue 1,FC Évian Thonon Gaillard,2012,16,2,10,10,18,46,53,-7,1.05,2
-Ligue 1,Stade Brestois 29,2012,20,2,8,5,25,32,62,-30,0.76,2
-Ligue 1,AS Monaco,2013,2,0,23,11,4,63,31,32,2.11,0
-Ligue 1,AS Saint-Étienne,2013,4,0,20,9,9,56,34,22,1.82,1
-Ligue 1,LOSC Lille,2013,3,0,20,11,7,46,26,20,1.87,1
-Ligue 1,Olympique Lyon,2013,5,0,17,10,11,56,44,12,1.61,0
-Ligue 1,Olympique Marseille,2013,6,0,16,12,10,53,40,13,1.58,0
-Ligue 1,Paris Saint-Germain,2013,1,0,27,8,3,84,23,61,2.34,0
-Ligue 1,FC Girondins Bordeaux,2013,7,1,13,14,11,49,43,6,1.39,0
-Ligue 1,FC Lorient,2013,8,1,13,10,15,48,53,-5,1.29,2
-Ligue 1,FC Nantes,2013,13,1,12,10,16,38,43,-5,1.21,1
-Ligue 1,FC Toulouse,2013,9,1,12,13,13,46,53,-7,1.29,1
-Ligue 1,FC Évian Thonon Gaillard,2013,14,1,11,11,16,39,51,-12,1.16,2
-Ligue 1,SC Bastia,2013,10,1,13,10,15,42,56,-14,1.29,2
-Ligue 1,Stade Reims,2013,11,1,12,12,14,44,52,-8,1.26,2
-Ligue 1,Stade Rennais FC,2013,12,1,11,13,14,47,45,2,1.21,1
-Ligue 1,EA Guingamp,2013,16,2,11,9,18,34,42,-8,1.11,1
-Ligue 1,FC Sochaux-Montbéliard,2013,18,2,10,10,18,37,61,-24,1.05,2
-Ligue 1,Montpellier HSC,2013,15,2,8,18,12,45,53,-8,1.11,2
-Ligue 1,Valenciennes FC,2013,19,2,7,8,23,37,65,-28,0.76,2
-Ligue 1,AS Monaco,2014,3,0,20,11,7,51,26,25,1.87,0
-Ligue 1,AS Saint-Étienne,2014,5,0,19,12,7,51,30,21,1.82,1
-Ligue 1,FC Girondins Bordeaux,2014,6,0,17,12,9,47,44,3,1.66,0
-Ligue 1,Olympique Lyon,2014,2,0,22,9,7,72,33,39,1.97,0
-Ligue 1,Olympique Marseille,2014,4,0,21,6,11,76,42,34,1.82,0
-Ligue 1,Paris Saint-Germain,2014,1,0,24,11,3,83,36,47,2.18,0
-Ligue 1,EA Guingamp,2014,10,1,15,4,19,41,55,-14,1.29,1
-Ligue 1,FC Nantes,2014,14,1,11,12,15,29,40,-11,1.18,1
-Ligue 1,LOSC Lille,2014,8,1,16,8,14,43,42,1,1.47,2
-Ligue 1,Montpellier HSC,2014,7,1,16,8,14,46,39,7,1.47,1
-Ligue 1,OGC Nice,2014,11,1,13,9,16,44,53,-9,1.26,1
-Ligue 1,SC Bastia,2014,12,1,12,11,15,37,46,-9,1.24,2
-Ligue 1,SM Caen,2014,13,1,12,10,16,54,55,-1,1.21,2
-Ligue 1,Stade Rennais FC,2014,9,1,13,11,14,35,42,-7,1.32,0
-Ligue 1,FC Lorient,2014,16,2,12,7,19,44,50,-6,1.13,2
-Ligue 1,FC Metz,2014,19,2,7,9,22,31,61,-30,0.79,2
-Ligue 1,FC Toulouse,2014,17,2,12,6,20,43,64,-21,1.11,2
-Ligue 1,FC Évian Thonon Gaillard,2014,18,2,11,4,23,41,62,-21,0.97,2
-Ligue 1,RC Lens,2014,20,2,7,8,23,32,61,-29,0.76,2
-Ligue 1,Stade Reims,2014,15,2,12,8,18,47,66,-19,1.16,2
-Ligue 1,AS Monaco,2015,3,0,17,14,7,57,50,7,1.71,2
-Ligue 1,AS Saint-Étienne,2015,6,0,17,7,14,42,37,5,1.53,0
-Ligue 1,LOSC Lille,2015,5,0,15,15,8,39,27,12,1.58,0
-Ligue 1,OGC Nice,2015,4,0,18,9,11,58,41,17,1.66,1
-Ligue 1,Olympique Lyon,2015,2,0,19,8,11,67,43,24,1.71,0
-Ligue 1,Paris Saint-Germain,2015,1,0,30,6,2,102,19,83,2.53,0
-Ligue 1,Angers SCO,2015,9,1,13,11,14,40,38,2,1.32,1
-Ligue 1,FC Girondins Bordeaux,2015,11,1,12,14,12,50,57,-7,1.32,1
-Ligue 1,FC Nantes,2015,14,1,12,12,14,33,44,-11,1.26,1
-Ligue 1,Montpellier HSC,2015,12,1,14,7,17,49,47,2,1.29,0
-Ligue 1,Olympique Marseille,2015,13,1,10,18,10,48,42,6,1.26,0
-Ligue 1,SC Bastia,2015,10,1,14,8,16,36,42,-6,1.32,2
-Ligue 1,SM Caen,2015,7,1,16,6,16,39,52,-13,1.42,2
-Ligue 1,Stade Rennais FC,2015,8,1,13,13,12,52,54,-2,1.37,1
-Ligue 1,EA Guingamp,2015,16,2,11,11,16,47,56,-9,1.16,2
-Ligue 1,ESTAC Troyes,2015,20,2,3,9,26,28,83,-55,0.47,2
-Ligue 1,FC Lorient,2015,15,2,11,13,14,47,58,-11,1.21,2
-Ligue 1,FC Toulouse,2015,17,2,9,13,16,45,55,-10,1.05,2
-Ligue 1,Stade Reims,2015,18,2,10,9,19,44,57,-13,1.03,1
-Ligue 1,AS Monaco,2016,1,0,30,5,3,107,31,76,2.5,1
-Ligue 1,FC Girondins Bordeaux,2016,6,0,15,14,9,53,43,10,1.55,1
-Ligue 1,OGC Nice,2016,3,0,22,12,4,63,36,27,2.05,0
-Ligue 1,Olympique Lyon,2016,4,0,21,4,13,77,48,29,1.76,1
-Ligue 1,Olympique Marseille,2016,5,0,17,11,10,57,41,16,1.63,0
-Ligue 1,Paris Saint-Germain,2016,2,0,27,6,5,83,27,56,2.29,0
-Ligue 1,AS Saint-Étienne,2016,8,1,12,14,12,41,42,-1,1.32,2
-Ligue 1,Angers SCO,2016,12,1,13,7,18,40,49,-9,1.21,1
-Ligue 1,EA Guingamp,2016,10,1,14,8,16,46,53,-7,1.32,2
-Ligue 1,FC Metz,2016,14,1,11,10,17,39,72,-33,1.13,2
-Ligue 1,FC Nantes,2016,7,1,14,9,15,40,54,-14,1.34,1
-Ligue 1,FC Toulouse,2016,13,1,10,14,14,37,41,-4,1.16,2
-Ligue 1,LOSC Lille,2016,11,1,13,7,18,40,47,-7,1.21,0
-Ligue 1,Stade Rennais FC,2016,9,1,12,14,12,36,42,-6,1.32,0
-Ligue 1,AS Nancy-Lorraine,2016,19,2,9,8,21,29,52,-23,0.92,2
-Ligue 1,Dijon FCO,2016,16,2,8,13,17,46,58,-12,0.97,2
-Ligue 1,FC Lorient,2016,18,2,10,6,22,44,70,-26,0.95,2
-Ligue 1,Montpellier HSC,2016,15,2,10,9,19,48,66,-18,1.03,1
-Ligue 1,SC Bastia,2016,20,2,8,10,20,29,54,-25,0.89,2
-Ligue 1,SM Caen,2016,17,2,10,7,21,36,65,-29,0.97,2
-Premier League,Arsenal FC,2009,3,0,23,6,9,83,41,42,1.97,0
-Premier League,Aston Villa,2009,6,0,17,13,8,52,39,13,1.68,2
-Premier League,Chelsea FC,2009,1,0,27,5,6,103,32,71,2.26,0
-Premier League,Manchester City,2009,5,0,18,13,7,73,45,28,1.76,0
-Premier League,Manchester United,2009,2,0,27,4,7,86,28,58,2.24,0
-Premier League,Tottenham Hotspur,2009,4,0,21,7,10,67,41,26,1.84,0
-Premier League,Birmingham City,2009,9,1,13,11,14,38,47,-9,1.32,2
-Premier League,Blackburn Rovers,2009,10,1,13,11,14,41,55,-14,1.32,2
-Premier League,Bolton Wanderers,2009,14,1,10,9,19,42,67,-25,1.03,2
-Premier League,Everton FC,2009,8,1,16,13,9,60,49,11,1.61,0
-Premier League,Fulham FC,2009,12,1,12,10,16,39,46,-7,1.21,1
-Premier League,Liverpool FC,2009,7,1,18,9,11,61,35,26,1.66,1
-Premier League,Stoke City,2009,11,1,11,14,13,34,48,-14,1.24,1
-Premier League,Sunderland AFC,2009,13,1,11,11,16,48,56,-8,1.16,2
-Premier League,Burnley FC,2009,18,2,8,6,24,42,82,-40,0.79,2
-Premier League,Hull City,2009,19,2,6,12,20,34,75,-41,0.79,2
-Premier League,Portsmouth FC,2009,20,2,7,7,24,34,66,-32,0.5,2
-Premier League,West Ham United,2009,17,2,8,11,19,47,66,-19,0.92,1
-Premier League,Wigan Athletic,2009,16,2,9,9,20,37,79,-42,0.95,2
-Premier League,Wolverhampton Wanderers,2009,15,2,9,11,18,32,56,-24,1.0,2
-Premier League,Arsenal FC,2010,4,0,19,11,8,72,43,29,1.79,0
-Premier League,Chelsea FC,2010,2,0,21,8,9,69,33,36,1.87,0
-Premier League,Liverpool FC,2010,6,0,17,7,14,59,44,15,1.53,0
-Premier League,Manchester City,2010,3,0,21,8,9,60,33,27,1.87,0
-Premier League,Manchester United,2010,1,0,23,11,4,78,37,41,2.11,1
-Premier League,Tottenham Hotspur,2010,5,0,16,14,8,55,46,9,1.63,0
-Premier League,Aston Villa,2010,9,1,12,12,14,48,59,-11,1.26,2
-Premier League,Bolton Wanderers,2010,14,1,12,10,16,52,56,-4,1.21,2
-Premier League,Everton FC,2010,7,1,13,15,10,51,45,6,1.42,0
-Premier League,Fulham FC,2010,8,1,11,16,11,49,43,6,1.29,2
-Premier League,Newcastle United,2010,12,1,11,13,14,56,57,-1,1.21,1
-Premier League,Stoke City,2010,13,1,13,7,18,46,48,-2,1.21,1
-Premier League,Sunderland AFC,2010,10,1,12,11,15,45,56,-11,1.24,1
-Premier League,West Bromwich Albion,2010,11,1,12,11,15,56,71,-15,1.24,2
-Premier League,Birmingham City,2010,18,2,8,15,15,37,58,-21,1.03,2
-Premier League,Blackburn Rovers,2010,15,2,11,10,17,46,59,-13,1.13,2
-Premier League,Blackpool FC,2010,19,2,10,9,19,55,78,-23,1.03,2
-Premier League,West Ham United,2010,20,2,7,12,19,43,70,-27,0.87,1
-Premier League,Wigan Athletic,2010,16,2,9,15,14,40,61,-21,1.11,2
-Premier League,Wolverhampton Wanderers,2010,17,2,11,7,20,46,66,-20,1.05,2
-Premier League,Arsenal FC,2011,3,0,21,7,10,74,49,25,1.84,0
-Premier League,Chelsea FC,2011,6,0,18,10,10,65,46,19,1.68,0
-Premier League,Manchester City,2011,1,0,28,5,5,93,29,64,2.34,0
-Premier League,Manchester United,2011,2,0,28,5,5,89,33,56,2.34,0
-Premier League,Newcastle United,2011,5,0,19,8,11,56,51,5,1.71,2
-Premier League,Tottenham Hotspur,2011,4,0,20,9,9,66,41,25,1.82,0
-Premier League,Everton FC,2011,7,1,15,11,12,50,40,10,1.47,1
-Premier League,Fulham FC,2011,9,1,14,10,14,48,51,-3,1.37,2
-Premier League,Liverpool FC,2011,8,1,14,10,14,47,40,7,1.37,0
-Premier League,Norwich City,2011,12,1,12,11,15,52,66,-14,1.24,2
-Premier League,Stoke City,2011,14,1,11,12,15,36,53,-17,1.18,1
-Premier League,Sunderland AFC,2011,13,1,11,12,15,45,46,-1,1.18,2
-Premier League,Swansea City,2011,11,1,12,11,15,44,51,-7,1.24,1
-Premier League,West Bromwich Albion,2011,10,1,13,8,17,45,52,-7,1.24,1
-Premier League,Aston Villa,2011,16,2,7,17,14,37,53,-16,1.0,2
-Premier League,Blackburn Rovers,2011,19,2,8,7,23,48,78,-30,0.82,2
-Premier League,Bolton Wanderers,2011,18,2,10,6,22,46,77,-31,0.95,2
-Premier League,Queens Park Rangers,2011,17,2,10,7,21,43,66,-23,0.97,2
-Premier League,Wigan Athletic,2011,15,2,11,10,17,42,62,-20,1.13,2
-Premier League,Wolverhampton Wanderers,2011,20,2,5,10,23,40,82,-42,0.66,2
-Premier League,Arsenal FC,2012,4,0,21,10,7,72,37,35,1.92,0
-Premier League,Chelsea FC,2012,3,0,22,9,7,75,39,36,1.97,1
-Premier League,Everton FC,2012,6,0,16,15,7,55,40,15,1.66,1
-Premier League,Manchester City,2012,2,0,23,9,6,66,34,32,2.05,0
-Premier League,Manchester United,2012,1,0,28,5,5,86,43,43,2.34,0
-Premier League,Tottenham Hotspur,2012,5,0,21,9,8,66,46,20,1.89,0
-Premier League,Fulham FC,2012,12,1,11,10,17,50,60,-10,1.13,2
-Premier League,Liverpool FC,2012,7,1,16,13,9,71,43,28,1.61,1
-Premier League,Norwich City,2012,11,1,10,14,14,41,58,-17,1.16,2
-Premier League,Southampton FC,2012,14,1,9,14,15,49,60,-11,1.08,0
-Premier League,Stoke City,2012,13,1,9,15,14,34,45,-11,1.11,1
-Premier League,Swansea City,2012,9,1,11,13,14,47,51,-4,1.21,1
-Premier League,West Bromwich Albion,2012,8,1,14,7,17,53,57,-4,1.29,1
-Premier League,West Ham United,2012,10,1,12,10,16,45,53,-8,1.21,1
-Premier League,Aston Villa,2012,15,2,10,11,17,47,69,-22,1.08,2
-Premier League,Newcastle United,2012,16,2,11,8,19,45,68,-23,1.08,2
-Premier League,Queens Park Rangers,2012,20,2,4,13,21,30,60,-30,0.66,2
-Premier League,Reading FC,2012,19,2,6,10,22,43,73,-30,0.74,2
-Premier League,Sunderland AFC,2012,17,2,9,12,17,41,54,-13,1.03,2
-Premier League,Wigan Athletic,2012,18,2,9,9,20,47,73,-26,0.95,2
-Premier League,Arsenal FC,2013,4,0,24,7,7,68,41,27,2.08,0
-Premier League,Chelsea FC,2013,3,0,25,7,6,71,27,44,2.16,0
-Premier League,Everton FC,2013,5,0,21,9,8,61,39,22,1.89,1
-Premier League,Liverpool FC,2013,2,0,26,6,6,101,50,51,2.21,0
-Premier League,Manchester City,2013,1,0,27,5,6,102,37,65,2.26,0
-Premier League,Tottenham Hotspur,2013,6,0,21,6,11,55,51,4,1.82,0
-Premier League,Crystal Palace,2013,11,1,13,6,19,33,48,-15,1.18,1
-Premier League,Manchester United,2013,7,1,19,7,12,64,43,21,1.68,0
-Premier League,Newcastle United,2013,10,1,15,4,19,43,59,-16,1.29,2
-Premier League,Southampton FC,2013,8,1,15,11,12,54,46,8,1.47,1
-Premier League,Stoke City,2013,9,1,13,11,14,45,52,-7,1.32,1
-Premier League,Sunderland AFC,2013,14,1,10,8,20,41,60,-19,1.0,2
-Premier League,Swansea City,2013,12,1,11,9,18,54,54,0,1.11,2
-Premier League,West Ham United,2013,13,1,11,7,20,40,51,-11,1.05,1
-Premier League,Aston Villa,2013,15,2,10,8,20,39,61,-22,1.0,2
-Premier League,Cardiff City,2013,20,2,7,9,22,32,74,-42,0.79,2
-Premier League,Fulham FC,2013,19,2,9,5,24,40,85,-45,0.84,2
-Premier League,Hull City,2013,16,2,10,7,21,38,53,-15,0.97,2
-Premier League,Norwich City,2013,18,2,8,9,21,28,62,-34,0.87,2
-Premier League,West Bromwich Albion,2013,17,2,7,15,16,43,59,-16,0.95,1
-Premier League,Arsenal FC,2014,3,0,22,9,7,71,36,35,1.97,0
-Premier League,Chelsea FC,2014,1,0,26,9,3,73,32,41,2.29,0
-Premier League,Liverpool FC,2014,6,0,18,8,12,52,48,4,1.63,0
-Premier League,Manchester City,2014,2,0,24,7,7,83,38,45,2.08,0
-Premier League,Manchester United,2014,4,0,20,10,8,62,37,25,1.84,0
-Premier League,Tottenham Hotspur,2014,5,0,19,7,12,58,53,5,1.68,0
-Premier League,Crystal Palace,2014,10,1,13,9,16,47,51,-4,1.26,1
-Premier League,Everton FC,2014,11,1,12,11,15,48,50,-2,1.24,1
-Premier League,Leicester City,2014,14,1,11,8,19,46,55,-9,1.08,1
-Premier League,Southampton FC,2014,7,1,18,6,14,54,33,21,1.58,2
-Premier League,Stoke City,2014,9,1,15,9,14,48,45,3,1.42,2
-Premier League,Swansea City,2014,8,1,16,8,14,46,49,-3,1.47,2
-Premier League,West Bromwich Albion,2014,13,1,11,11,16,38,51,-13,1.16,2
-Premier League,West Ham United,2014,12,1,12,11,15,44,47,-3,1.24,1
-Premier League,Aston Villa,2014,17,2,10,8,20,31,57,-26,1.0,2
-Premier League,Burnley FC,2014,19,2,7,12,19,28,53,-25,0.87,1
-Premier League,Hull City,2014,18,2,8,11,19,33,51,-18,0.92,2
-Premier League,Newcastle United,2014,15,2,10,9,19,40,63,-23,1.03,1
-Premier League,Queens Park Rangers,2014,20,2,8,6,24,42,73,-31,0.79,2
-Premier League,Sunderland AFC,2014,16,2,7,17,14,31,53,-22,1.0,2
-Premier League,Arsenal FC,2015,2,0,20,11,7,65,36,29,1.87,0
-Premier League,Leicester City,2015,1,0,23,12,3,68,36,32,2.13,1
-Premier League,Manchester City,2015,4,0,19,9,10,71,41,30,1.74,0
-Premier League,Manchester United,2015,5,0,19,9,10,49,35,14,1.74,0
-Premier League,Southampton FC,2015,6,0,18,9,11,59,41,18,1.66,2
-Premier League,Tottenham Hotspur,2015,3,0,19,13,6,69,35,34,1.84,0
-Premier League,Chelsea FC,2015,10,1,12,14,12,59,53,6,1.32,0
-Premier League,Everton FC,2015,11,1,11,14,13,59,55,4,1.24,1
-Premier League,Liverpool FC,2015,8,1,16,12,10,63,50,13,1.58,0
-Premier League,Stoke City,2015,9,1,14,9,15,41,55,-14,1.34,2
-Premier League,Swansea City,2015,12,1,12,11,15,42,52,-10,1.24,2
-Premier League,Watford FC,2015,13,1,12,9,17,40,50,-10,1.18,1
-Premier League,West Bromwich Albion,2015,14,1,10,13,15,34,48,-14,1.13,2
-Premier League,West Ham United,2015,7,1,16,14,8,65,51,14,1.63,1
-Premier League,AFC Bournemouth,2015,16,2,11,9,18,45,67,-22,1.11,1
-Premier League,Aston Villa,2015,20,2,3,8,27,27,76,-49,0.45,2
-Premier League,Crystal Palace,2015,15,2,11,9,18,39,51,-12,1.11,1
-Premier League,Newcastle United,2015,18,2,9,10,19,44,65,-21,0.97,1
-Premier League,Norwich City,2015,19,2,9,7,22,39,67,-28,0.89,2
-Premier League,Sunderland AFC,2015,17,2,9,12,17,48,62,-14,1.03,2
-Premier League,Arsenal FC,2016,5,0,23,6,9,77,44,33,1.97,1
-Premier League,Chelsea FC,2016,1,0,30,3,5,85,33,52,2.45,0
-Premier League,Liverpool FC,2016,4,0,22,10,6,78,42,36,2.0,0
-Premier League,Manchester City,2016,3,0,23,9,6,80,39,41,2.05,0
-Premier League,Manchester United,2016,6,0,18,15,5,54,29,25,1.82,0
-Premier League,Tottenham Hotspur,2016,2,0,26,8,4,86,26,60,2.26,0
-Premier League,AFC Bournemouth,2016,9,1,12,10,16,55,67,-12,1.21,2
-Premier League,Crystal Palace,2016,14,1,12,5,21,50,63,-13,1.08,1
-Premier League,Everton FC,2016,7,1,17,10,11,62,44,18,1.61,1
-Premier League,Leicester City,2016,12,1,12,8,18,48,63,-15,1.16,0
-Premier League,Southampton FC,2016,8,1,12,10,16,41,48,-7,1.21,1
-Premier League,Stoke City,2016,13,1,11,11,16,41,56,-15,1.16,2
-Premier League,West Bromwich Albion,2016,10,1,12,9,17,43,51,-8,1.18,2
-Premier League,West Ham United,2016,11,1,12,9,17,47,64,-17,1.18,2
-Premier League,Burnley FC,2016,16,2,11,7,20,39,55,-16,1.05,1
-Premier League,Hull City,2016,18,2,9,7,22,37,80,-43,0.89,2
-Premier League,Middlesbrough FC,2016,19,2,5,13,20,27,53,-26,0.74,2
-Premier League,Sunderland AFC,2016,20,2,6,6,26,29,69,-40,0.63,2
-Premier League,Swansea City,2016,15,2,12,5,21,45,70,-25,1.08,2
-Premier League,Watford FC,2016,17,2,11,7,20,40,68,-28,1.05,2
-Serie A,AC Milan,2009,3,0,20,10,8,60,39,21,1.84,0
-Serie A,AS Roma,2009,2,0,24,8,6,68,41,27,2.11,0
-Serie A,FC Internazionale,2009,1,0,24,10,4,75,34,41,2.16,1
-Serie A,SSC Napoli,2009,6,0,15,14,9,50,43,7,1.55,0
-Serie A,UC Sampdoria,2009,4,0,19,10,9,49,41,8,1.76,1
-Serie A,US Palermo,2009,5,0,18,11,9,59,47,12,1.71,2
-Serie A,ACF Fiorentina,2009,11,1,13,8,17,48,47,1,1.24,0
-Serie A,AS Bari,2009,10,1,13,11,14,49,49,0,1.32,2
-Serie A,Catania SSD,2009,13,1,10,15,13,44,45,-1,1.18,1
-Serie A,Chievo Verona,2009,14,1,12,8,18,37,42,-5,1.16,1
-Serie A,Genoa CFC,2009,9,1,14,9,15,57,61,-4,1.34,2
-Serie A,Juventus FC,2009,7,1,16,7,15,55,56,-1,1.45,0
-Serie A,Parma Calcio 1913,2009,8,1,14,10,14,46,51,-5,1.37,1
-Serie A,SS Lazio,2009,12,1,11,13,14,39,43,-4,1.21,1
-Serie A,AC Siena,2009,19,2,7,10,21,40,67,-27,0.82,2
-Serie A,AS Livorno,2009,20,2,7,8,23,27,61,-34,0.76,2
-Serie A,Atalanta BC,2009,18,2,9,8,21,37,53,-16,0.92,2
-Serie A,Bologna FC 1909,2009,17,2,10,12,16,42,55,-13,1.11,1
-Serie A,Cagliari Calcio,2009,16,2,11,11,16,56,58,-2,1.16,1
-Serie A,Udinese Calcio,2009,15,2,11,11,16,54,59,-5,1.16,0
-Serie A,AC Milan,2010,1,0,24,10,4,65,24,41,2.16,1
-Serie A,AS Roma,2010,6,0,18,9,11,59,52,7,1.66,0
-Serie A,FC Internazionale,2010,2,0,23,7,8,69,42,27,2.0,0
-Serie A,SS Lazio,2010,5,0,20,6,12,55,39,16,1.74,1
-Serie A,SSC Napoli,2010,3,0,21,7,10,59,39,20,1.84,0
-Serie A,Udinese Calcio,2010,4,0,20,6,12,65,43,22,1.74,1
-Serie A,ACF Fiorentina,2010,9,1,12,15,11,49,44,5,1.34,0
-Serie A,Cagliari Calcio,2010,14,1,12,9,17,44,51,-7,1.18,2
-Serie A,Catania SSD,2010,13,1,12,10,16,40,52,-12,1.21,2
-Serie A,Chievo Verona,2010,11,1,11,13,14,38,40,-2,1.21,2
-Serie A,Genoa CFC,2010,10,1,14,9,15,45,47,-2,1.34,1
-Serie A,Juventus FC,2010,7,1,15,13,10,57,47,10,1.53,0
-Serie A,Parma Calcio 1913,2010,12,1,11,13,14,39,47,-8,1.21,0
-Serie A,US Palermo,2010,8,1,17,5,16,58,63,-5,1.47,2
-Serie A,AC Cesena,2010,15,2,11,10,17,38,50,-12,1.13,2
-Serie A,AS Bari,2010,20,2,5,9,24,27,56,-29,0.63,2
-Serie A,Bologna FC 1909,2010,16,2,11,12,15,35,52,-17,1.11,2
-Serie A,Brescia Calcio,2010,19,2,7,11,20,34,52,-18,0.84,2
-Serie A,UC Sampdoria,2010,18,2,8,12,18,33,49,-16,0.95,1
-Serie A,US Lecce,2010,17,2,11,8,19,46,66,-20,1.08,2
-Serie A,AC Milan,2011,2,0,24,8,6,74,33,41,2.11,1
-Serie A,FC Internazionale,2011,6,0,17,7,14,58,55,3,1.53,1
-Serie A,Juventus FC,2011,1,0,23,15,0,68,20,48,2.21,0
-Serie A,SS Lazio,2011,4,0,18,8,12,56,47,9,1.63,0
-Serie A,SSC Napoli,2011,5,0,16,13,9,66,46,20,1.61,0
-Serie A,Udinese Calcio,2011,3,0,18,10,10,52,35,17,1.68,2
-Serie A,AC Siena,2011,14,1,11,11,16,45,45,0,1.16,2
-Serie A,ACF Fiorentina,2011,13,1,11,13,14,37,43,-6,1.21,0
-Serie A,AS Roma,2011,7,1,16,8,14,60,54,6,1.47,0
-Serie A,Atalanta BC,2011,12,1,13,13,12,41,43,-2,1.21,2
-Serie A,Bologna FC 1909,2011,9,1,13,12,13,41,43,-2,1.34,2
-Serie A,Catania SSD,2011,11,1,11,15,12,47,52,-5,1.26,2
-Serie A,Chievo Verona,2011,10,1,12,13,13,35,45,-10,1.29,1
-Serie A,Parma Calcio 1913,2011,8,1,15,11,12,54,53,1,1.47,2
-Serie A,AC Cesena,2011,20,2,4,10,24,24,60,-36,0.58,2
-Serie A,Cagliari Calcio,2011,15,2,10,13,15,37,46,-9,1.13,2
-Serie A,Genoa CFC,2011,17,2,11,9,18,50,69,-19,1.11,0
-Serie A,Novara Calcio 1908,2011,19,2,7,11,20,35,65,-30,0.84,2
-Serie A,US Lecce,2011,18,2,8,12,18,40,56,-16,0.95,2
-Serie A,US Palermo,2011,16,2,11,10,17,52,62,-10,1.13,1
-Serie A,AC Milan,2012,3,0,21,9,8,67,39,28,1.89,1
-Serie A,ACF Fiorentina,2012,4,0,21,7,10,72,44,28,1.84,0
-Serie A,AS Roma,2012,6,0,18,8,12,71,56,15,1.63,0
-Serie A,Juventus FC,2012,1,0,27,6,5,71,24,47,2.29,0
-Serie A,SSC Napoli,2012,2,0,23,9,6,73,36,37,2.05,0
-Serie A,Udinese Calcio,2012,5,0,18,12,8,59,45,14,1.74,2
-Serie A,Bologna FC 1909,2012,13,1,11,11,16,46,52,-6,1.16,1
-Serie A,Cagliari Calcio,2012,11,1,12,11,15,43,55,-12,1.24,2
-Serie A,Catania SSD,2012,8,1,15,11,12,50,46,4,1.47,2
-Serie A,Chievo Verona,2012,12,1,12,9,17,37,52,-15,1.18,1
-Serie A,FC Internazionale,2012,9,1,16,6,16,55,57,-2,1.42,0
-Serie A,Parma Calcio 1913,2012,10,1,13,10,15,45,46,-1,1.29,2
-Serie A,SS Lazio,2012,7,1,18,7,13,51,42,9,1.61,1
-Serie A,UC Sampdoria,2012,14,1,11,10,17,43,51,-8,1.11,2
-Serie A,AC Siena,2012,19,2,9,9,20,36,57,-21,0.79,2
-Serie A,Atalanta BC,2012,15,2,11,9,18,39,56,-17,1.05,1
-Serie A,Genoa CFC,2012,17,2,8,14,16,38,52,-14,1.0,1
-Serie A,Pescara Calcio,2012,20,2,6,4,28,27,84,-57,0.58,2
-Serie A,Torino FC,2012,16,2,8,16,14,46,55,-9,1.03,1
-Serie A,US Palermo,2012,18,2,6,14,18,34,54,-20,0.84,2
-Serie A,ACF Fiorentina,2013,4,0,19,8,11,65,44,21,1.71,1
-Serie A,AS Roma,2013,2,0,26,7,5,72,25,47,2.24,0
-Serie A,FC Internazionale,2013,5,0,15,15,8,62,39,23,1.58,1
-Serie A,Juventus FC,2013,1,0,33,3,2,80,23,57,2.68,0
-Serie A,Parma Calcio 1913,2013,6,0,15,13,10,58,46,12,1.53,2
-Serie A,SSC Napoli,2013,3,0,23,9,6,77,39,38,2.05,0
-Serie A,AC Milan,2013,8,1,16,9,13,57,49,8,1.5,0
-Serie A,Atalanta BC,2013,11,1,15,5,18,43,51,-8,1.32,0
-Serie A,Genoa CFC,2013,14,1,11,11,16,41,50,-9,1.16,2
-Serie A,Hellas Verona,2013,10,1,16,6,16,62,68,-6,1.42,2
-Serie A,SS Lazio,2013,9,1,15,11,12,54,54,0,1.47,0
-Serie A,Torino FC,2013,7,1,15,12,11,58,48,10,1.5,1
-Serie A,UC Sampdoria,2013,12,1,12,9,17,48,62,-14,1.18,1
-Serie A,Udinese Calcio,2013,13,1,12,8,18,46,57,-11,1.16,1
-Serie A,AS Livorno,2013,20,2,6,7,25,39,77,-38,0.66,2
-Serie A,Bologna FC 1909,2013,19,2,5,14,19,28,58,-30,0.76,2
-Serie A,Cagliari Calcio,2013,15,2,9,12,17,34,53,-19,1.03,1
-Serie A,Catania SSD,2013,18,2,8,8,22,34,66,-32,0.84,2
-Serie A,Chievo Verona,2013,16,2,10,6,22,34,54,-20,0.95,1
-Serie A,US Sassuolo,2013,17,2,9,7,22,43,72,-29,0.89,1
-Serie A,ACF Fiorentina,2014,4,0,18,10,10,61,46,15,1.68,1
-Serie A,AS Roma,2014,2,0,19,13,6,54,31,23,1.84,0
-Serie A,Genoa CFC,2014,6,0,16,11,11,62,47,15,1.55,1
-Serie A,Juventus FC,2014,1,0,26,9,3,72,24,48,2.29,0
-Serie A,SS Lazio,2014,3,0,21,6,11,71,38,33,1.82,0
-Serie A,SSC Napoli,2014,5,0,18,9,11,70,54,16,1.66,0
-Serie A,AC Milan,2014,10,1,13,13,12,56,50,6,1.37,0
-Serie A,Chievo Verona,2014,14,1,10,13,15,28,41,-13,1.13,1
-Serie A,FC Internazionale,2014,8,1,14,13,11,59,48,11,1.45,0
-Serie A,Hellas Verona,2014,13,1,11,13,14,49,65,-16,1.21,2
-Serie A,Torino FC,2014,9,1,14,12,12,48,45,3,1.42,1
-Serie A,UC Sampdoria,2014,7,1,13,17,8,48,42,6,1.47,1
-Serie A,US Palermo,2014,11,1,12,13,13,53,55,-2,1.29,2
-Serie A,US Sassuolo,2014,12,1,12,13,13,49,57,-8,1.29,1
-Serie A,AC Cesena,2014,19,2,4,12,22,36,73,-37,0.63,2
-Serie A,Atalanta BC,2014,17,2,7,16,15,38,57,-19,0.97,1
-Serie A,Cagliari Calcio,2014,18,2,8,10,20,48,68,-20,0.89,2
-Serie A,Empoli FC,2014,15,2,8,18,12,46,52,-6,1.11,2
-Serie A,Parma Calcio 1913,2014,20,2,6,8,24,33,75,-42,0.5,2
-Serie A,Udinese Calcio,2014,16,2,10,11,17,43,56,-13,1.08,1
-Serie A,ACF Fiorentina,2015,5,0,18,10,10,60,42,18,1.68,2
-Serie A,AS Roma,2015,3,0,23,11,4,83,41,42,2.11,0
-Serie A,FC Internazionale,2015,4,0,20,7,11,50,38,12,1.76,0
-Serie A,Juventus FC,2015,1,0,29,4,5,75,20,55,2.39,0
-Serie A,SSC Napoli,2015,2,0,25,7,6,80,32,48,2.16,0
-Serie A,US Sassuolo,2015,6,0,16,13,9,49,40,9,1.61,1
-Serie A,AC Milan,2015,7,1,15,12,11,49,43,6,1.5,0
-Serie A,Atalanta BC,2015,13,1,11,12,15,41,47,-6,1.18,0
-Serie A,Bologna FC 1909,2015,14,1,11,9,18,33,45,-12,1.11,1
-Serie A,Chievo Verona,2015,9,1,13,11,14,43,45,-2,1.32,2
-Serie A,Empoli FC,2015,10,1,12,10,16,40,49,-9,1.21,2
-Serie A,Genoa CFC,2015,11,1,13,7,18,45,48,-3,1.21,2
-Serie A,SS Lazio,2015,8,1,15,9,14,52,52,0,1.42,1
-Serie A,Torino FC,2015,12,1,12,9,17,52,55,-3,1.18,1
-Serie A,Carpi FC 1909,2015,18,2,9,11,18,37,57,-20,1.0,2
-Serie A,Frosinone Calcio,2015,19,2,8,7,23,35,76,-41,0.82,2
-Serie A,Hellas Verona,2015,20,2,5,13,20,34,63,-29,0.74,2
-Serie A,UC Sampdoria,2015,15,2,10,10,18,48,61,-13,1.05,1
-Serie A,US Palermo,2015,16,2,10,9,19,38,65,-27,1.03,2
-Serie A,Udinese Calcio,2015,17,2,10,9,19,35,60,-25,1.03,1
-Serie A,AC Milan,2016,6,0,18,9,11,57,45,12,1.66,0
-Serie A,AS Roma,2016,2,0,28,3,7,90,38,52,2.29,0
-Serie A,Atalanta BC,2016,4,0,21,9,8,62,41,21,1.89,0
-Serie A,Juventus FC,2016,1,0,29,4,5,77,27,50,2.39,0
-Serie A,SS Lazio,2016,5,0,21,7,10,74,51,23,1.84,0
-Serie A,SSC Napoli,2016,3,0,26,8,4,94,39,55,2.26,1
-Serie A,ACF Fiorentina,2016,8,1,16,12,10,63,57,6,1.58,1
-Serie A,Cagliari Calcio,2016,11,1,14,5,19,55,76,-21,1.24,1
-Serie A,Chievo Verona,2016,14,1,12,7,19,43,61,-18,1.13,2
-Serie A,FC Internazionale,2016,7,1,19,5,14,72,49,23,1.63,0
-Serie A,Torino FC,2016,9,1,13,14,11,71,66,5,1.39,2
-Serie A,UC Sampdoria,2016,10,1,12,12,14,49,55,-6,1.26,2
-Serie A,US Sassuolo,2016,12,1,13,7,18,58,63,-5,1.21,1
-Serie A,Udinese Calcio,2016,13,1,12,9,17,47,56,-9,1.18,1
-Serie A,Bologna FC 1909,2016,15,2,11,8,19,40,58,-18,1.08,1
-Serie A,Empoli FC,2016,18,2,8,8,22,29,61,-32,0.84,2
-Serie A,FC Crotone,2016,17,2,9,7,22,34,58,-24,0.89,2
-Serie A,Genoa CFC,2016,16,2,9,9,20,38,64,-26,0.95,2
-Serie A,Pescara Calcio,2016,20,2,3,9,26,37,81,-44,0.47,2
-Serie A,US Palermo,2016,19,2,6,8,24,33,77,-44,0.68,2
+league_name,club_name,year,Rk,W,D,L,GF,GA,GD,Pts/MP,PF,PF_1_years_future,Rk_1_years_future,W_1_years_future,D_1_years_future,L_1_years_future,GF_1_years_future,GA_1_years_future,GD_1_years_future,Pts/MP_1_years_future,PF_2_years_future,Rk_2_years_future,W_2_years_future,D_2_years_future,L_2_years_future,GF_2_years_future,GA_2_years_future,GD_2_years_future,Pts/MP_2_years_future,PF_3_years_future,Rk_3_years_future,W_3_years_future,D_3_years_future,L_3_years_future,GF_3_years_future,GA_3_years_future,GD_3_years_future,Pts/MP_3_years_future,PF_next_3_years
+1 Bundesliga,Bayer 04 Leverkusen,2009,4,15,14,5,65,38,27,1.74,0,0,2,20,8,6,64,44,20,2.0,0,5,15,9,10,52,44,8,1.59,0,3,19,8,7,65,39,26,1.91,0
+1 Bundesliga,Bayern Munich,2009,1,20,10,4,72,31,41,2.06,0,0,3,19,8,7,81,40,41,1.91,0,2,23,4,7,77,22,55,2.15,0,1,29,4,1,98,18,80,2.68,0
+1 Bundesliga,Borussia Dortmund,2009,5,16,9,9,54,42,12,1.68,0,0,1,23,6,5,67,22,45,2.21,0,1,25,6,3,80,25,55,2.38,0,2,19,9,6,81,42,39,1.94,0
+1 Bundesliga,FC Schalke 04,2009,2,19,8,7,53,31,22,1.91,0,1,14,11,7,16,38,44,-6,1.18,0,3,20,4,10,74,44,30,1.88,0,4,16,7,11,58,50,8,1.62,0
+1 Bundesliga,SV Werder Bremen,2009,3,17,10,7,71,40,31,1.79,0,1,13,10,11,13,47,61,-14,1.21,1,9,11,9,14,49,58,-9,1.24,1,14,8,10,16,50,66,-16,1.0,1
+1 Bundesliga,VfB Stuttgart,2009,6,15,10,9,51,41,10,1.62,0,1,12,12,6,16,60,59,1,1.24,0,6,15,8,11,63,46,17,1.56,1,12,12,7,15,37,55,-18,1.26,1
+1 Bundesliga,1. FC Köln,2009,13,9,11,14,33,42,-9,1.12,1,1,10,13,5,16,47,62,-15,1.29,2,17,8,6,20,39,75,-36,0.88,2,0,0,0,0,0,0,0,0.0,2
+1 Bundesliga,1.FSV Mainz 05,2009,9,12,11,11,36,42,-6,1.38,1,0,5,18,4,12,52,39,13,1.71,1,13,9,12,13,47,51,-4,1.15,1,13,10,12,12,42,44,-2,1.24,1
+1 Bundesliga,Borussia Mönchengladbach,2009,12,10,9,15,43,60,-17,1.15,1,2,16,10,6,18,48,65,-17,1.06,0,4,17,9,8,49,24,25,1.76,1,8,12,11,11,45,49,-4,1.38,1
+1 Bundesliga,Eintracht Frankfurt,2009,10,12,10,12,47,54,-7,1.35,1,2,17,9,7,18,31,49,-18,1.0,2,0,0,0,0,0,0,0,0.0,0,6,14,9,11,49,46,3,1.5,0
+1 Bundesliga,Hamburger SV,2009,7,13,13,8,56,41,15,1.53,1,1,8,12,9,13,46,52,-6,1.32,2,15,8,12,14,35,57,-22,1.06,1,7,14,6,14,42,53,-11,1.41,1
+1 Bundesliga,SC Freiburg,2009,14,9,8,17,35,59,-24,1.03,1,1,9,13,5,16,41,50,-9,1.29,1,12,10,10,14,45,61,-16,1.18,0,5,14,9,11,45,40,5,1.5,0
+1 Bundesliga,TSG 1899 Hoffenheim,2009,11,11,9,14,44,42,2,1.24,1,1,11,11,10,13,50,50,0,1.26,1,11,10,11,13,41,47,-6,1.21,2,16,8,7,19,42,67,-25,0.91,2
+1 Bundesliga,VfL Wolfsburg,2009,8,14,8,12,64,58,6,1.47,1,2,15,9,11,14,43,48,-5,1.12,1,8,13,5,16,47,60,-13,1.29,1,11,10,13,11,47,52,-5,1.26,1
+1 Bundesliga,1.FC Nuremberg,2009,16,8,7,19,32,58,-26,0.91,2,0,6,13,8,13,47,45,2,1.38,1,10,12,6,16,38,49,-11,1.24,1,10,11,11,12,39,47,-8,1.29,1
+1 Bundesliga,Hannover 96,2009,15,9,6,19,43,67,-24,0.97,2,0,4,19,3,12,49,45,4,1.76,1,7,12,12,10,41,45,-4,1.41,1,9,13,6,15,60,62,-2,1.32,1
+1 Bundesliga,Hertha BSC,2009,18,5,9,20,34,56,-22,0.71,2,2,0,0,0,0,0,0,0,0.0,2,16,7,10,17,38,64,-26,0.91,2,0,0,0,0,0,0,0,0.0,2
+1 Bundesliga,VfL Bochum,2009,17,6,10,18,33,64,-31,0.82,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+1 Bundesliga,1.FC Nuremberg,2010,6,13,8,13,47,45,2,1.38,0,1,10,12,6,16,38,49,-11,1.24,1,10,11,11,12,39,47,-8,1.29,2,17,5,11,18,37,70,-33,0.76,2
+1 Bundesliga,1.FSV Mainz 05,2010,5,18,4,12,52,39,13,1.71,0,1,13,9,12,13,47,51,-4,1.15,1,13,10,12,12,42,44,-2,1.24,1,7,16,5,13,52,54,-2,1.56,1
+1 Bundesliga,Bayer 04 Leverkusen,2010,2,20,8,6,64,44,20,2.0,0,0,5,15,9,10,52,44,8,1.59,0,3,19,8,7,65,39,26,1.91,0,4,19,4,11,60,41,19,1.79,0
+1 Bundesliga,Bayern Munich,2010,3,19,8,7,81,40,41,1.91,0,0,2,23,4,7,77,22,55,2.15,0,1,29,4,1,98,18,80,2.68,0,1,29,3,2,94,23,71,2.65,0
+1 Bundesliga,Borussia Dortmund,2010,1,23,6,5,67,22,45,2.21,0,0,1,25,6,3,80,25,55,2.38,0,2,19,9,6,81,42,39,1.94,0,2,22,5,7,80,38,42,2.09,0
+1 Bundesliga,Hannover 96,2010,4,19,3,12,49,45,4,1.76,0,1,7,12,12,10,41,45,-4,1.41,1,9,13,6,15,60,62,-2,1.32,1,10,12,6,16,46,59,-13,1.24,1
+1 Bundesliga,1. FC Köln,2010,10,13,5,16,47,62,-15,1.29,1,2,17,8,6,20,39,75,-36,0.88,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+1 Bundesliga,1.FC Kaiserslautern,2010,7,13,7,14,48,51,-3,1.35,1,2,18,4,11,19,24,54,-30,0.68,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+1 Bundesliga,FC Schalke 04,2010,14,11,7,16,38,44,-6,1.18,1,0,3,20,4,10,74,44,30,1.88,0,4,16,7,11,58,50,8,1.62,0,3,19,7,8,63,43,20,1.88,0
+1 Bundesliga,Hamburger SV,2010,8,12,9,13,46,52,-6,1.32,1,2,15,8,12,14,35,57,-22,1.06,1,7,14,6,14,42,53,-11,1.41,2,16,7,6,21,51,75,-24,0.79,2
+1 Bundesliga,SC Freiburg,2010,9,13,5,16,41,50,-9,1.29,1,1,12,10,10,14,45,61,-16,1.18,0,5,14,9,11,45,40,5,1.5,1,14,9,9,16,43,61,-18,1.06,1
+1 Bundesliga,SV Werder Bremen,2010,13,10,11,13,47,61,-14,1.21,1,1,9,11,9,14,49,58,-9,1.24,1,14,8,10,16,50,66,-16,1.0,1,12,10,9,15,42,66,-24,1.15,1
+1 Bundesliga,TSG 1899 Hoffenheim,2010,11,11,10,13,50,50,0,1.26,1,1,11,10,11,13,41,47,-6,1.21,2,16,8,7,19,42,67,-25,0.91,1,9,11,11,12,72,70,2,1.29,1
+1 Bundesliga,VfB Stuttgart,2010,12,12,6,16,60,59,1,1.24,1,0,6,15,8,11,63,46,17,1.56,1,12,12,7,15,37,55,-18,1.26,2,15,8,8,18,49,62,-13,0.94,2
+1 Bundesliga,Borussia Mönchengladbach,2010,16,10,6,18,48,65,-17,1.06,2,0,4,17,9,8,49,24,25,1.76,1,8,12,11,11,45,49,-4,1.38,0,6,16,7,11,59,43,16,1.62,0
+1 Bundesliga,Eintracht Frankfurt,2010,17,9,7,18,31,49,-18,1.0,2,2,0,0,0,0,0,0,0,0.0,0,6,14,9,11,49,46,3,1.5,1,13,9,9,16,40,57,-17,1.06,1
+1 Bundesliga,FC St. Pauli,2010,18,8,5,21,35,68,-33,0.85,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+1 Bundesliga,VfL Wolfsburg,2010,15,9,11,14,43,48,-5,1.12,2,1,8,13,5,16,47,60,-13,1.29,1,11,10,13,11,47,52,-5,1.26,0,5,18,6,10,63,50,13,1.76,0
+1 Bundesliga,Bayer 04 Leverkusen,2011,5,15,9,10,52,44,8,1.59,0,0,3,19,8,7,65,39,26,1.91,0,4,19,4,11,60,41,19,1.79,0,4,17,10,7,62,37,25,1.79,0
+1 Bundesliga,Bayern Munich,2011,2,23,4,7,77,22,55,2.15,0,0,1,29,4,1,98,18,80,2.68,0,1,29,3,2,94,23,71,2.65,0,1,25,4,5,80,18,62,2.32,0
+1 Bundesliga,Borussia Dortmund,2011,1,25,6,3,80,25,55,2.38,0,0,2,19,9,6,81,42,39,1.94,0,2,22,5,7,80,38,42,2.09,1,7,13,7,14,47,42,5,1.35,1
+1 Bundesliga,Borussia Mönchengladbach,2011,4,17,9,8,49,24,25,1.76,0,1,8,12,11,11,45,49,-4,1.38,0,6,16,7,11,59,43,16,1.62,0,3,19,9,6,53,26,27,1.94,0
+1 Bundesliga,FC Schalke 04,2011,3,20,4,10,74,44,30,1.88,0,0,4,16,7,11,58,50,8,1.62,0,3,19,7,8,63,43,20,1.88,0,6,13,9,12,42,40,2,1.41,0
+1 Bundesliga,VfB Stuttgart,2011,6,15,8,11,63,46,17,1.56,0,1,12,12,7,15,37,55,-18,1.26,2,15,8,8,18,49,62,-13,0.94,1,14,9,9,16,42,60,-18,1.06,1
+1 Bundesliga,1.FC Nuremberg,2011,10,12,6,16,38,49,-11,1.24,1,1,10,11,11,12,39,47,-8,1.29,2,17,5,11,18,37,70,-33,0.76,2,0,0,0,0,0,0,0,0.0,2
+1 Bundesliga,1.FSV Mainz 05,2011,13,9,12,13,47,51,-4,1.15,1,1,13,10,12,12,42,44,-2,1.24,1,7,16,5,13,52,54,-2,1.56,1,11,9,13,12,45,47,-2,1.18,1
+1 Bundesliga,FC Augsburg,2011,14,8,14,12,36,49,-13,1.12,1,2,15,8,9,17,33,51,-18,0.97,1,8,15,7,12,47,47,0,1.53,0,5,15,4,15,43,43,0,1.44,0
+1 Bundesliga,Hannover 96,2011,7,12,12,10,41,45,-4,1.41,1,1,9,13,6,15,60,62,-2,1.32,1,10,12,6,16,46,59,-13,1.24,1,13,9,10,15,40,56,-16,1.09,1
+1 Bundesliga,SC Freiburg,2011,12,10,10,14,45,61,-16,1.18,1,0,5,14,9,11,45,40,5,1.5,1,14,9,9,16,43,61,-18,1.06,2,17,7,13,14,36,47,-11,1.0,2
+1 Bundesliga,SV Werder Bremen,2011,9,11,9,14,49,58,-9,1.24,1,1,14,8,10,16,50,66,-16,1.0,1,12,10,9,15,42,66,-24,1.15,1,10,11,10,13,50,65,-15,1.26,1
+1 Bundesliga,TSG 1899 Hoffenheim,2011,11,10,11,13,41,47,-6,1.21,1,2,16,8,7,19,42,67,-25,0.91,1,9,11,11,12,72,70,2,1.29,1,8,12,8,14,49,55,-6,1.29,1
+1 Bundesliga,VfL Wolfsburg,2011,8,13,5,16,47,60,-13,1.29,1,1,11,10,13,11,47,52,-5,1.26,0,5,18,6,10,63,50,13,1.76,0,2,20,9,5,72,38,34,2.03,0
+1 Bundesliga,1. FC Köln,2011,17,8,6,20,39,75,-36,0.88,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,1,12,9,13,12,34,40,-6,1.18,1
+1 Bundesliga,1.FC Kaiserslautern,2011,18,4,11,19,24,54,-30,0.68,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+1 Bundesliga,Hamburger SV,2011,15,8,12,14,35,57,-22,1.06,2,1,7,14,6,14,42,53,-11,1.41,2,16,7,6,21,51,75,-24,0.79,2,16,9,8,17,25,50,-25,1.03,2
+1 Bundesliga,Hertha BSC,2011,16,7,10,17,38,64,-26,0.91,2,2,0,0,0,0,0,0,0,0.0,1,11,11,8,15,40,48,-8,1.21,2,15,9,8,17,36,52,-16,1.03,2
+1 Bundesliga,Bayer 04 Leverkusen,2012,3,19,8,7,65,39,26,1.91,0,0,4,19,4,11,60,41,19,1.79,0,4,17,10,7,62,37,25,1.79,0,3,18,6,10,56,40,16,1.76,0
+1 Bundesliga,Bayern Munich,2012,1,29,4,1,98,18,80,2.68,0,0,1,29,3,2,94,23,71,2.65,0,1,25,4,5,80,18,62,2.32,0,1,28,4,2,80,17,63,2.59,0
+1 Bundesliga,Borussia Dortmund,2012,2,19,9,6,81,42,39,1.94,0,0,2,22,5,7,80,38,42,2.09,1,7,13,7,14,47,42,5,1.35,0,2,24,6,4,82,34,48,2.29,0
+1 Bundesliga,Eintracht Frankfurt,2012,6,14,9,11,49,46,3,1.5,0,1,13,9,9,16,40,57,-17,1.06,1,9,11,10,13,56,62,-6,1.26,2,16,9,9,16,34,52,-18,1.06,2
+1 Bundesliga,FC Schalke 04,2012,4,16,7,11,58,50,8,1.62,0,0,3,19,7,8,63,43,20,1.88,0,6,13,9,12,42,40,2,1.41,0,5,15,7,12,51,49,2,1.53,0
+1 Bundesliga,SC Freiburg,2012,5,14,9,11,45,40,5,1.5,0,1,14,9,9,16,43,61,-18,1.06,2,17,7,13,14,36,47,-11,1.0,2,0,0,0,0,0,0,0,0.0,2
+1 Bundesliga,1.FC Nuremberg,2012,10,11,11,12,39,47,-8,1.29,1,2,17,5,11,18,37,70,-33,0.76,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+1 Bundesliga,1.FSV Mainz 05,2012,13,10,12,12,42,44,-2,1.24,1,1,7,16,5,13,52,54,-2,1.56,1,11,9,13,12,45,47,-2,1.18,0,6,14,8,12,46,42,4,1.47,0
+1 Bundesliga,Borussia Mönchengladbach,2012,8,12,11,11,45,49,-4,1.38,1,0,6,16,7,11,59,43,16,1.62,0,3,19,9,6,53,26,27,1.94,0,4,17,4,13,67,50,17,1.62,0
+1 Bundesliga,Hamburger SV,2012,7,14,6,14,42,53,-11,1.41,1,2,16,7,6,21,51,75,-24,0.79,2,16,9,8,17,25,50,-25,1.03,1,10,11,8,15,40,46,-6,1.21,1
+1 Bundesliga,Hannover 96,2012,9,13,6,15,60,62,-2,1.32,1,1,10,12,6,16,46,59,-13,1.24,1,13,9,10,15,40,56,-16,1.09,2,18,7,4,23,31,62,-31,0.74,2
+1 Bundesliga,SV Werder Bremen,2012,14,8,10,16,50,66,-16,1.0,1,1,12,10,9,15,42,66,-24,1.15,1,10,11,10,13,50,65,-15,1.26,1,13,10,8,16,50,65,-15,1.12,1
+1 Bundesliga,VfB Stuttgart,2012,12,12,7,15,37,55,-18,1.26,1,2,15,8,8,18,49,62,-13,0.94,1,14,9,9,16,42,60,-18,1.06,2,17,9,6,19,50,75,-25,0.97,2
+1 Bundesliga,VfL Wolfsburg,2012,11,10,13,11,47,52,-5,1.26,1,0,5,18,6,10,63,50,13,1.76,0,2,20,9,5,72,38,34,2.03,1,8,12,9,13,47,49,-2,1.32,1
+1 Bundesliga,FC Augsburg,2012,15,8,9,17,33,51,-18,0.97,2,1,8,15,7,12,47,47,0,1.53,0,5,15,4,15,43,43,0,1.44,1,12,9,11,14,42,52,-10,1.12,1
+1 Bundesliga,Fortuna Düsseldorf,2012,17,7,9,18,39,57,-18,0.88,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+1 Bundesliga,SpVgg Greuther Fürth,2012,18,4,9,21,26,60,-34,0.62,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+1 Bundesliga,TSG 1899 Hoffenheim,2012,16,8,7,19,42,67,-25,0.91,2,1,9,11,11,12,72,70,2,1.29,1,8,12,8,14,49,55,-6,1.29,2,15,9,10,15,39,54,-15,1.09,2
+1 Bundesliga,Bayer 04 Leverkusen,2013,4,19,4,11,60,41,19,1.79,0,0,4,17,10,7,62,37,25,1.79,0,3,18,6,10,56,40,16,1.76,1,12,11,8,15,53,55,-2,1.21,1
+1 Bundesliga,Bayern Munich,2013,1,29,3,2,94,23,71,2.65,0,0,1,25,4,5,80,18,62,2.32,0,1,28,4,2,80,17,63,2.59,0,1,25,7,2,89,22,67,2.41,0
+1 Bundesliga,Borussia Dortmund,2013,2,22,5,7,80,38,42,2.09,0,1,7,13,7,14,47,42,5,1.35,0,2,24,6,4,82,34,48,2.29,0,3,18,10,6,72,40,32,1.88,0
+1 Bundesliga,Borussia Mönchengladbach,2013,6,16,7,11,59,43,16,1.62,0,0,3,19,9,6,53,26,27,1.94,0,4,17,4,13,67,50,17,1.62,1,9,12,9,13,45,49,-4,1.32,1
+1 Bundesliga,FC Schalke 04,2013,3,19,7,8,63,43,20,1.88,0,0,6,13,9,12,42,40,2,1.41,0,5,15,7,12,51,49,2,1.53,1,10,11,10,13,45,40,5,1.26,1
+1 Bundesliga,VfL Wolfsburg,2013,5,18,6,10,63,50,13,1.76,0,0,2,20,9,5,72,38,34,2.03,1,8,12,9,13,47,49,-2,1.32,2,16,10,7,17,34,52,-18,1.09,2
+1 Bundesliga,1.FSV Mainz 05,2013,7,16,5,13,52,54,-2,1.56,1,1,11,9,13,12,45,47,-2,1.18,0,6,14,8,12,46,42,4,1.47,2,15,10,7,17,44,55,-11,1.09,2
+1 Bundesliga,Eintracht Frankfurt,2013,13,9,9,16,40,57,-17,1.06,1,1,9,11,10,13,56,62,-6,1.26,2,16,9,9,16,34,52,-18,1.06,1,11,11,9,14,36,43,-7,1.24,1
+1 Bundesliga,FC Augsburg,2013,8,15,7,12,47,47,0,1.53,1,0,5,15,4,15,43,43,0,1.44,1,12,9,11,14,42,52,-10,1.12,1,13,9,11,14,35,51,-16,1.12,1
+1 Bundesliga,Hannover 96,2013,10,12,6,16,46,59,-13,1.24,1,1,13,9,10,15,40,56,-16,1.09,2,18,7,4,23,31,62,-31,0.74,2,0,0,0,0,0,0,0,0.0,2
+1 Bundesliga,Hertha BSC,2013,11,11,8,15,40,48,-8,1.21,1,2,15,9,8,17,36,52,-16,1.03,1,7,14,8,12,42,42,0,1.47,0,6,15,4,15,43,47,-4,1.44,0
+1 Bundesliga,SC Freiburg,2013,14,9,9,16,43,61,-18,1.06,1,2,17,7,13,14,36,47,-11,1.0,2,0,0,0,0,0,0,0,0.0,1,7,14,6,14,42,60,-18,1.41,1
+1 Bundesliga,SV Werder Bremen,2013,12,10,9,15,42,66,-24,1.15,1,1,10,11,10,13,50,65,-15,1.26,1,13,10,8,16,50,65,-15,1.12,1,8,13,6,15,61,64,-3,1.32,1
+1 Bundesliga,TSG 1899 Hoffenheim,2013,9,11,11,12,72,70,2,1.29,1,1,8,12,8,14,49,55,-6,1.29,2,15,9,10,15,39,54,-15,1.09,0,4,16,14,4,64,37,27,1.82,0
+1 Bundesliga,1.FC Nuremberg,2013,17,5,11,18,37,70,-33,0.76,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+1 Bundesliga,Eintracht Braunschweig,2013,18,6,7,21,29,60,-31,0.74,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+1 Bundesliga,Hamburger SV,2013,16,7,6,21,51,75,-24,0.79,2,2,16,9,8,17,25,50,-25,1.03,1,10,11,8,15,40,46,-6,1.21,1,14,10,8,16,33,61,-28,1.12,1
+1 Bundesliga,VfB Stuttgart,2013,15,8,8,18,49,62,-13,0.94,2,1,14,9,9,16,42,60,-18,1.06,2,17,9,6,19,50,75,-25,0.97,2,0,0,0,0,0,0,0,0.0,2
+1 Bundesliga,Bayer 04 Leverkusen,2014,4,17,10,7,62,37,25,1.79,0,0,3,18,6,10,56,40,16,1.76,1,12,11,8,15,53,55,-2,1.21,0,5,15,10,9,58,44,14,1.62,0
+1 Bundesliga,Bayern Munich,2014,1,25,4,5,80,18,62,2.32,0,0,1,28,4,2,80,17,63,2.59,0,1,25,7,2,89,22,67,2.41,0,1,27,3,4,92,28,64,2.47,0
+1 Bundesliga,Borussia Mönchengladbach,2014,3,19,9,6,53,26,27,1.94,0,0,4,17,4,13,67,50,17,1.62,1,9,12,9,13,45,49,-4,1.32,1,9,13,8,13,47,52,-5,1.38,1
+1 Bundesliga,FC Augsburg,2014,5,15,4,15,43,43,0,1.44,0,1,12,9,11,14,42,52,-10,1.12,1,13,9,11,14,35,51,-16,1.12,1,12,10,11,13,43,46,-3,1.21,1
+1 Bundesliga,FC Schalke 04,2014,6,13,9,12,42,40,2,1.41,0,0,5,15,7,12,51,49,2,1.53,1,10,11,10,13,45,40,5,1.26,0,2,18,9,7,53,37,16,1.85,0
+1 Bundesliga,VfL Wolfsburg,2014,2,20,9,5,72,38,34,2.03,0,1,8,12,9,13,47,49,-2,1.32,2,16,10,7,17,34,52,-18,1.09,2,16,6,15,13,36,48,-12,0.97,2
+1 Bundesliga,1. FC Köln,2014,12,9,13,12,34,40,-6,1.18,1,1,9,10,13,11,38,42,-4,1.26,0,5,12,13,9,51,42,9,1.44,2,18,5,7,22,35,70,-35,0.65,2
+1 Bundesliga,1.FSV Mainz 05,2014,11,9,13,12,45,47,-2,1.18,1,0,6,14,8,12,46,42,4,1.47,2,15,10,7,17,44,55,-11,1.09,1,14,9,9,16,38,52,-14,1.06,1
+1 Bundesliga,Borussia Dortmund,2014,7,13,7,14,47,42,5,1.35,1,0,2,24,6,4,82,34,48,2.29,0,3,18,10,6,72,40,32,1.88,0,4,15,10,9,64,47,17,1.62,0
+1 Bundesliga,Eintracht Frankfurt,2014,9,11,10,13,56,62,-6,1.26,1,2,16,9,9,16,34,52,-18,1.06,1,11,11,9,14,36,43,-7,1.24,1,8,14,7,13,45,45,0,1.44,1
+1 Bundesliga,Hannover 96,2014,13,9,10,15,40,56,-16,1.09,1,2,18,7,4,23,31,62,-31,0.74,2,0,0,0,0,0,0,0,0.0,1,13,10,9,15,44,54,-10,1.15,1
+1 Bundesliga,SV Werder Bremen,2014,10,11,10,13,50,65,-15,1.26,1,1,13,10,8,16,50,65,-15,1.12,1,8,13,6,15,61,64,-3,1.32,1,11,10,12,12,37,40,-3,1.24,1
+1 Bundesliga,TSG 1899 Hoffenheim,2014,8,12,8,14,49,55,-6,1.29,1,2,15,9,10,15,39,54,-15,1.09,0,4,16,14,4,64,37,27,1.82,0,3,15,10,9,66,48,18,1.62,0
+1 Bundesliga,VfB Stuttgart,2014,14,9,9,16,42,60,-18,1.06,1,2,17,9,6,19,50,75,-25,0.97,2,0,0,0,0,0,0,0,0.0,1,7,15,6,13,36,36,0,1.5,1
+1 Bundesliga,Hamburger SV,2014,16,9,8,17,25,50,-25,1.03,2,1,10,11,8,15,40,46,-6,1.21,1,14,10,8,16,33,61,-28,1.12,2,17,8,7,19,29,53,-24,0.91,2
+1 Bundesliga,Hertha BSC,2014,15,9,8,17,36,52,-16,1.03,2,1,7,14,8,12,42,42,0,1.47,0,6,15,4,15,43,47,-4,1.44,1,10,10,13,11,43,46,-3,1.26,1
+1 Bundesliga,SC Freiburg,2014,17,7,13,14,36,47,-11,1.0,2,2,0,0,0,0,0,0,0,0.0,1,7,14,6,14,42,60,-18,1.41,2,15,8,12,14,32,56,-24,1.06,2
+1 Bundesliga,SC Paderborn 07,2014,18,7,10,17,31,65,-34,0.91,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+1 Bundesliga,1.FSV Mainz 05,2015,6,14,8,12,46,42,4,1.47,0,2,15,10,7,17,44,55,-11,1.09,1,14,9,9,16,38,52,-14,1.06,1,12,12,7,15,46,57,-11,1.26,1
+1 Bundesliga,Bayer 04 Leverkusen,2015,3,18,6,10,56,40,16,1.76,0,1,12,11,8,15,53,55,-2,1.21,0,5,15,10,9,58,44,14,1.62,0,4,18,4,12,69,52,17,1.71,0
+1 Bundesliga,Bayern Munich,2015,1,28,4,2,80,17,63,2.59,0,0,1,25,7,2,89,22,67,2.41,0,1,27,3,4,92,28,64,2.47,0,1,24,6,4,88,32,56,2.29,0
+1 Bundesliga,Borussia Dortmund,2015,2,24,6,4,82,34,48,2.29,0,0,3,18,10,6,72,40,32,1.88,0,4,15,10,9,64,47,17,1.62,0,2,23,7,4,81,44,37,2.24,0
+1 Bundesliga,Borussia Mönchengladbach,2015,4,17,4,13,67,50,17,1.62,0,1,9,12,9,13,45,49,-4,1.32,1,9,13,8,13,47,52,-5,1.38,0,5,16,7,11,55,42,13,1.62,0
+1 Bundesliga,FC Schalke 04,2015,5,15,7,12,51,49,2,1.53,0,1,10,11,10,13,45,40,5,1.26,0,2,18,9,7,53,37,16,1.85,1,14,8,9,17,37,55,-18,0.97,1
+1 Bundesliga,1. FC Köln,2015,9,10,13,11,38,42,-4,1.26,1,0,5,12,13,9,51,42,9,1.44,2,18,5,7,22,35,70,-35,0.65,2,0,0,0,0,0,0,0,0.0,2
+1 Bundesliga,FC Augsburg,2015,12,9,11,14,42,52,-10,1.12,1,1,13,9,11,14,35,51,-16,1.12,1,12,10,11,13,43,46,-3,1.21,2,15,8,8,18,51,71,-20,0.94,2
+1 Bundesliga,FC Ingolstadt 04,2015,11,10,10,14,33,42,-9,1.18,1,2,17,8,8,18,36,57,-21,0.94,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+1 Bundesliga,Hamburger SV,2015,10,11,8,15,40,46,-6,1.21,1,1,14,10,8,16,33,61,-28,1.12,2,17,8,7,19,29,53,-24,0.91,2,0,0,0,0,0,0,0,0.0,2
+1 Bundesliga,Hertha BSC,2015,7,14,8,12,42,42,0,1.47,1,0,6,15,4,15,43,47,-4,1.44,1,10,10,13,11,43,46,-3,1.26,1,11,11,10,13,49,57,-8,1.26,1
+1 Bundesliga,SV Darmstadt 98,2015,14,9,11,14,38,53,-15,1.12,1,2,18,7,4,23,28,63,-35,0.74,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+1 Bundesliga,SV Werder Bremen,2015,13,10,8,16,50,65,-15,1.12,1,1,8,13,6,15,61,64,-3,1.32,1,11,10,12,12,37,40,-3,1.24,1,8,14,11,9,58,49,9,1.56,1
+1 Bundesliga,VfL Wolfsburg,2015,8,12,9,13,47,49,-2,1.32,1,2,16,10,7,17,34,52,-18,1.09,2,16,6,15,13,36,48,-12,0.97,0,6,16,7,11,62,50,12,1.62,0
+1 Bundesliga,Eintracht Frankfurt,2015,16,9,9,16,34,52,-18,1.06,2,1,11,11,9,14,36,43,-7,1.24,1,8,14,7,13,45,45,0,1.44,1,7,15,9,10,60,48,12,1.59,1
+1 Bundesliga,Hannover 96,2015,18,7,4,23,31,62,-31,0.74,2,2,0,0,0,0,0,0,0,0.0,1,13,10,9,15,44,54,-10,1.15,2,17,5,6,23,31,71,-40,0.62,2
+1 Bundesliga,TSG 1899 Hoffenheim,2015,15,9,10,15,39,54,-15,1.09,2,0,4,16,14,4,64,37,27,1.82,0,3,15,10,9,66,48,18,1.62,1,9,13,12,9,70,52,18,1.5,1
+1 Bundesliga,VfB Stuttgart,2015,17,9,6,19,50,75,-25,0.97,2,2,0,0,0,0,0,0,0,0.0,1,7,15,6,13,36,36,0,1.5,2,16,7,7,20,32,70,-38,0.82,2
+1 Bundesliga,1. FC Köln,2016,5,12,13,9,51,42,9,1.44,0,2,18,5,7,22,35,70,-35,0.65,2,0,0,0,0,0,0,0,0.0,1,14,10,6,18,51,69,-18,1.06,1
+1 Bundesliga,Bayern Munich,2016,1,25,7,2,89,22,67,2.41,0,0,1,27,3,4,92,28,64,2.47,0,1,24,6,4,88,32,56,2.29,0,1,26,4,4,100,32,68,2.41,0
+1 Bundesliga,Borussia Dortmund,2016,3,18,10,6,72,40,32,1.88,0,0,4,15,10,9,64,47,17,1.62,0,2,23,7,4,81,44,37,2.24,0,2,21,6,7,84,41,43,2.03,0
+1 Bundesliga,Hertha BSC,2016,6,15,4,15,43,47,-4,1.44,0,1,10,10,13,11,43,46,-3,1.26,1,11,11,10,13,49,57,-8,1.26,1,10,11,8,15,48,59,-11,1.21,1
+1 Bundesliga,RB Leipzig,2016,2,20,7,7,66,39,27,1.97,0,0,6,15,8,11,57,53,4,1.56,0,3,19,9,6,63,29,34,1.94,0,3,18,12,4,81,37,44,1.94,0
+1 Bundesliga,TSG 1899 Hoffenheim,2016,4,16,14,4,64,37,27,1.82,0,0,3,15,10,9,66,48,18,1.62,1,9,13,12,9,70,52,18,1.5,0,6,15,7,12,53,53,0,1.53,0
+1 Bundesliga,Bayer 04 Leverkusen,2016,12,11,8,15,53,55,-2,1.21,1,0,5,15,10,9,58,44,14,1.62,0,4,18,4,12,69,52,17,1.71,0,5,19,6,9,61,44,17,1.85,0
+1 Bundesliga,Borussia Mönchengladbach,2016,9,12,9,13,45,49,-4,1.32,1,1,9,13,8,13,47,52,-5,1.38,0,5,16,7,11,55,42,13,1.62,0,4,20,5,9,66,40,26,1.91,0
+1 Bundesliga,Eintracht Frankfurt,2016,11,11,9,14,36,43,-7,1.24,1,1,8,14,7,13,45,45,0,1.44,1,7,15,9,10,60,48,12,1.59,1,9,13,6,15,59,60,-1,1.32,1
+1 Bundesliga,FC Augsburg,2016,13,9,11,14,35,51,-16,1.12,1,1,12,10,11,13,43,46,-3,1.21,2,15,8,8,18,51,71,-20,0.94,2,15,9,9,16,45,63,-18,1.06,2
+1 Bundesliga,FC Schalke 04,2016,10,11,10,13,45,40,5,1.26,1,0,2,18,9,7,53,37,16,1.85,1,14,8,9,17,37,55,-18,0.97,1,12,9,12,13,38,58,-20,1.15,1
+1 Bundesliga,Hamburger SV,2016,14,10,8,16,33,61,-28,1.12,1,2,17,8,7,19,29,53,-24,0.91,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+1 Bundesliga,SC Freiburg,2016,7,14,6,14,42,60,-18,1.41,1,2,15,8,12,14,32,56,-24,1.06,1,13,8,12,14,46,61,-15,1.06,1,8,13,9,12,48,47,1,1.41,1
+1 Bundesliga,SV Werder Bremen,2016,8,13,6,15,61,64,-3,1.32,1,1,11,10,12,12,37,40,-3,1.24,1,8,14,11,9,58,49,9,1.56,2,16,8,7,19,42,69,-27,0.91,2
+1 Bundesliga,1.FSV Mainz 05,2016,15,10,7,17,44,55,-11,1.09,2,1,14,9,9,16,38,52,-14,1.06,1,12,12,7,15,46,57,-11,1.26,1,13,11,4,19,44,65,-21,1.09,1
+1 Bundesliga,FC Ingolstadt 04,2016,17,8,8,18,36,57,-21,0.94,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+1 Bundesliga,SV Darmstadt 98,2016,18,7,4,23,28,63,-35,0.74,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+1 Bundesliga,VfL Wolfsburg,2016,16,10,7,17,34,52,-18,1.09,2,2,16,6,15,13,36,48,-12,0.97,0,6,16,7,11,62,50,12,1.62,1,7,13,10,11,48,46,2,1.44,1
+Primera Division,FC Barcelona,2009,1,31,6,1,98,24,74,2.61,0,0,1,30,6,2,95,21,74,2.53,0,2,28,7,3,114,29,85,2.39,0,1,32,4,2,115,40,75,2.63,0
+Primera Division,Getafe CF,2009,6,17,7,14,58,48,10,1.53,0,2,16,12,8,18,49,60,-11,1.16,1,11,12,11,15,40,51,-11,1.24,1,10,13,8,17,43,57,-14,1.24,1
+Primera Division,RCD Mallorca,2009,5,18,8,12,59,44,15,1.63,0,2,17,12,8,18,41,56,-15,1.16,1,8,14,10,14,42,46,-4,1.37,2,18,9,9,20,43,72,-29,0.95,2
+Primera Division,Real Madrid,2009,2,31,3,4,102,35,67,2.53,0,0,2,29,5,4,102,33,69,2.42,0,1,32,4,2,121,32,89,2.63,0,2,26,7,5,103,42,61,2.24,0
+Primera Division,Sevilla FC,2009,4,19,6,13,65,49,16,1.66,0,0,5,17,7,14,62,61,1,1.53,1,9,13,11,14,48,47,1,1.32,1,9,14,8,16,58,54,4,1.32,1
+Primera Division,Valencia CF,2009,3,21,8,9,59,40,19,1.87,0,0,3,21,8,9,64,44,20,1.87,0,3,17,10,11,59,44,15,1.61,0,5,19,8,11,67,54,13,1.71,0
+Primera Division,Athletic Bilbao,2009,8,15,9,14,50,53,-3,1.42,1,0,6,18,4,16,59,55,4,1.53,1,10,12,13,13,49,52,-3,1.29,1,12,12,9,17,44,65,-21,1.18,1
+Primera Division,CA Osasuna,2009,12,11,10,17,37,46,-9,1.13,1,1,9,13,8,17,45,46,-1,1.24,1,7,13,15,10,44,61,-17,1.42,2,16,10,9,19,33,50,-17,1.03,2
+Primera Division,Deportivo de La Coruña,2009,10,13,8,17,35,49,-14,1.24,1,2,18,10,13,15,31,47,-16,1.13,2,0,0,0,0,0,0,0,0.0,2,19,8,11,19,47,70,-23,0.92,2
+Primera Division,RCD Espanyol Barcelona,2009,11,11,11,16,29,46,-17,1.16,1,1,8,15,4,19,46,55,-9,1.29,1,14,12,10,16,46,56,-10,1.21,1,13,11,11,16,43,52,-9,1.16,1
+Primera Division,Real Zaragoza,2009,14,10,11,17,46,64,-18,1.08,1,1,13,12,9,17,40,53,-13,1.18,2,16,12,7,19,36,61,-25,1.13,2,20,9,7,22,37,62,-25,0.89,2
+Primera Division,UD Almería,2009,13,10,12,16,43,55,-12,1.11,1,2,20,6,12,20,36,70,-34,0.79,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Villarreal CF,2009,7,16,8,14,58,57,1,1.47,1,0,4,18,8,12,54,44,10,1.63,2,18,9,14,15,39,53,-14,1.08,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,CD Tenerife,2009,19,9,9,20,40,74,-34,0.95,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Málaga CF,2009,17,7,16,15,42,48,-6,0.97,2,1,11,13,7,18,54,68,-14,1.21,0,4,17,7,14,54,53,1,1.53,0,6,16,9,13,53,50,3,1.5,0
+Primera Division,Racing Santander,2009,16,9,12,17,42,59,-17,1.03,2,1,12,12,10,16,41,56,-15,1.21,2,20,4,15,19,28,63,-35,0.71,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Real Valladolid CF,2009,18,7,15,16,37,62,-25,0.95,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Sporting Gijón,2009,15,9,13,16,36,51,-15,1.05,2,1,10,11,14,13,35,42,-7,1.24,2,19,10,7,21,42,69,-27,0.97,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Xerez CD,2009,20,8,10,20,38,66,-28,0.89,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Athletic Bilbao,2010,6,18,4,16,59,55,4,1.53,0,1,10,12,13,13,49,52,-3,1.29,1,12,12,9,17,44,65,-21,1.18,0,4,20,10,8,66,39,27,1.84,0
+Primera Division,FC Barcelona,2010,1,30,6,2,95,21,74,2.53,0,0,2,28,7,3,114,29,85,2.39,0,1,32,4,2,115,40,75,2.63,0,2,27,6,5,100,33,67,2.29,0
+Primera Division,Real Madrid,2010,2,29,5,4,102,33,69,2.42,0,0,1,32,4,2,121,32,89,2.63,0,2,26,7,5,103,42,61,2.24,0,3,27,6,5,104,38,66,2.29,0
+Primera Division,Sevilla FC,2010,5,17,7,14,62,61,1,1.53,0,1,9,13,11,14,48,47,1,1.32,1,9,14,8,16,58,54,4,1.32,0,5,18,9,11,69,52,17,1.66,0
+Primera Division,Valencia CF,2010,3,21,8,9,64,44,20,1.87,0,0,3,17,10,11,59,44,15,1.61,0,5,19,8,11,67,54,13,1.71,1,8,13,10,15,51,53,-2,1.29,1
+Primera Division,Villarreal CF,2010,4,18,8,12,54,44,10,1.63,0,2,18,9,14,15,39,53,-14,1.08,2,0,0,0,0,0,0,0,0.0,0,6,17,8,13,60,44,16,1.55,0
+Primera Division,CA Osasuna,2010,9,13,8,17,45,46,-1,1.24,1,1,7,13,15,10,44,61,-17,1.42,2,16,10,9,19,33,50,-17,1.03,2,18,10,9,19,32,62,-30,1.03,2
+Primera Division,Málaga CF,2010,11,13,7,18,54,68,-14,1.21,1,0,4,17,7,14,54,53,1,1.53,0,6,16,9,13,53,50,3,1.5,1,11,12,9,17,39,46,-7,1.18,1
+Primera Division,RCD Espanyol Barcelona,2010,8,15,4,19,46,55,-9,1.29,1,1,14,12,10,16,46,56,-10,1.21,1,13,11,11,16,43,52,-9,1.16,1,14,11,9,18,41,51,-10,1.11,1
+Primera Division,Racing Santander,2010,12,12,10,16,41,56,-15,1.21,1,2,20,4,15,19,28,63,-35,0.71,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Real Zaragoza,2010,13,12,9,17,40,53,-13,1.18,1,2,16,12,7,19,36,61,-25,1.13,2,20,9,7,22,37,62,-25,0.89,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Sporting Gijón,2010,10,11,14,13,35,42,-7,1.24,1,2,19,10,7,21,42,69,-27,0.97,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Deportivo de La Coruña,2010,18,10,13,15,31,47,-16,1.13,2,2,0,0,0,0,0,0,0,0.0,2,19,8,11,19,47,70,-23,0.92,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Getafe CF,2010,16,12,8,18,49,60,-11,1.16,2,1,11,12,11,15,40,51,-11,1.24,1,10,13,8,17,43,57,-14,1.24,1,13,11,9,18,35,54,-19,1.11,1
+Primera Division,Hércules CF,2010,19,9,8,21,36,60,-24,0.92,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,RCD Mallorca,2010,17,12,8,18,41,56,-15,1.16,2,1,8,14,10,14,42,46,-4,1.37,2,18,9,9,20,43,72,-29,0.95,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Real Sociedad,2010,15,14,3,21,49,66,-17,1.18,2,1,12,12,11,15,46,52,-6,1.24,0,4,18,12,8,70,49,21,1.74,1,7,16,11,11,62,55,7,1.55,1
+Primera Division,UD Almería,2010,20,6,12,20,36,70,-34,0.79,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,17,11,7,20,43,71,-28,1.05,2
+Primera Division,FC Barcelona,2011,2,28,7,3,114,29,85,2.39,0,0,1,32,4,2,115,40,75,2.63,0,2,27,6,5,100,33,67,2.29,0,1,30,4,4,110,21,89,2.47,0
+Primera Division,Levante UD,2011,6,16,7,15,54,50,4,1.45,0,1,11,12,10,16,40,57,-17,1.21,1,10,12,12,14,35,43,-8,1.26,1,14,9,10,19,34,67,-33,0.97,1
+Primera Division,Málaga CF,2011,4,17,7,14,54,53,1,1.53,0,0,6,16,9,13,53,50,3,1.5,1,11,12,9,17,39,46,-7,1.18,1,9,14,8,16,42,48,-6,1.32,1
+Primera Division,Real Madrid,2011,1,32,4,2,121,32,89,2.63,0,0,2,26,7,5,103,42,61,2.24,0,3,27,6,5,104,38,66,2.29,0,2,30,2,6,118,38,80,2.42,0
+Primera Division,Valencia CF,2011,3,17,10,11,59,44,15,1.61,0,0,5,19,8,11,67,54,13,1.71,1,8,13,10,15,51,53,-2,1.29,0,4,22,11,5,70,32,38,2.03,0
+Primera Division,Athletic Bilbao,2011,10,12,13,13,49,52,-3,1.29,1,1,12,12,9,17,44,65,-21,1.18,0,4,20,10,8,66,39,27,1.84,1,7,15,10,13,42,41,1,1.45,1
+Primera Division,CA Osasuna,2011,7,13,15,10,44,61,-17,1.42,1,2,16,10,9,19,33,50,-17,1.03,2,18,10,9,19,32,62,-30,1.03,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Getafe CF,2011,11,12,11,15,40,51,-11,1.24,1,1,10,13,8,17,43,57,-14,1.24,1,13,11,9,18,35,54,-19,1.11,2,15,10,7,21,33,64,-31,0.97,2
+Primera Division,RCD Espanyol Barcelona,2011,14,12,10,16,46,56,-10,1.21,1,1,13,11,11,16,43,52,-9,1.16,1,14,11,9,18,41,51,-10,1.11,1,10,13,10,15,47,51,-4,1.29,1
+Primera Division,RCD Mallorca,2011,8,14,10,14,42,46,-4,1.37,1,2,18,9,9,20,43,72,-29,0.95,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Real Betis Balompié,2011,13,13,8,17,47,56,-9,1.24,1,1,7,16,8,14,57,56,1,1.47,2,20,6,7,25,36,78,-42,0.66,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Real Sociedad,2011,12,12,11,15,46,52,-6,1.24,1,0,4,18,12,8,70,49,21,1.74,1,7,16,11,11,62,55,7,1.55,1,12,11,13,14,44,51,-7,1.21,1
+Primera Division,Sevilla FC,2011,9,13,11,14,48,47,1,1.32,1,1,9,14,8,16,58,54,4,1.32,0,5,18,9,11,69,52,17,1.66,0,5,23,7,8,71,45,26,2.0,0
+Primera Division,Granada CF,2011,17,12,6,20,35,56,-21,1.11,2,2,15,11,9,18,37,54,-17,1.11,2,15,12,5,21,32,56,-24,1.08,2,17,7,14,17,29,64,-35,0.92,2
+Primera Division,Racing Santander,2011,20,4,15,19,28,63,-35,0.71,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Rayo Vallecano,2011,15,13,4,21,53,73,-20,1.13,2,1,8,16,5,17,50,66,-16,1.39,1,12,13,4,21,46,80,-34,1.13,1,11,15,4,19,46,68,-22,1.29,1
+Primera Division,Real Zaragoza,2011,16,12,7,19,36,61,-25,1.13,2,2,20,9,7,22,37,62,-25,0.89,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Sporting Gijón,2011,19,10,7,21,42,69,-27,0.97,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Villarreal CF,2011,18,9,14,15,39,53,-14,1.08,2,2,0,0,0,0,0,0,0,0.0,0,6,17,8,13,60,44,16,1.55,0,6,16,12,10,48,37,11,1.58,0
+Primera Division,FC Barcelona,2012,1,32,4,2,115,40,75,2.63,0,0,2,27,6,5,100,33,67,2.29,0,1,30,4,4,110,21,89,2.47,0,1,29,4,5,112,29,83,2.39,0
+Primera Division,Málaga CF,2012,6,16,9,13,53,50,3,1.5,0,1,11,12,9,17,39,46,-7,1.18,1,9,14,8,16,42,48,-6,1.32,1,8,12,12,14,38,35,3,1.26,1
+Primera Division,Real Madrid,2012,2,26,7,5,103,42,61,2.24,0,0,3,27,6,5,104,38,66,2.29,0,2,30,2,6,118,38,80,2.42,0,2,28,6,4,110,34,76,2.37,0
+Primera Division,Real Sociedad,2012,4,18,12,8,70,49,21,1.74,0,1,7,16,11,11,62,55,7,1.55,1,12,11,13,14,44,51,-7,1.21,1,9,13,9,16,45,48,-3,1.26,1
+Primera Division,Valencia CF,2012,5,19,8,11,67,54,13,1.71,0,1,8,13,10,15,51,53,-2,1.29,0,4,22,11,5,70,32,38,2.03,1,12,11,11,16,46,48,-2,1.16,1
+Primera Division,Athletic Bilbao,2012,12,12,9,17,44,65,-21,1.18,1,0,4,20,10,8,66,39,27,1.84,1,7,15,10,13,42,41,1,1.45,0,5,18,8,12,58,45,13,1.63,0
+Primera Division,Getafe CF,2012,10,13,8,17,43,57,-14,1.24,1,1,13,11,9,18,35,54,-19,1.11,2,15,10,7,21,33,64,-31,0.97,2,19,9,9,20,37,67,-30,0.95,2
+Primera Division,Levante UD,2012,11,12,10,16,40,57,-17,1.21,1,1,10,12,12,14,35,43,-8,1.26,1,14,9,10,19,34,67,-33,0.97,2,20,8,8,22,37,70,-33,0.84,2
+Primera Division,RCD Espanyol Barcelona,2012,13,11,11,16,43,52,-9,1.16,1,1,14,11,9,18,41,51,-10,1.11,1,10,13,10,15,47,51,-4,1.29,1,13,12,7,19,40,74,-34,1.13,1
+Primera Division,Rayo Vallecano,2012,8,16,5,17,50,66,-16,1.39,1,1,12,13,4,21,46,80,-34,1.13,1,11,15,4,19,46,68,-22,1.29,2,18,9,11,18,52,73,-21,1.0,2
+Primera Division,Real Betis Balompié,2012,7,16,8,14,57,56,1,1.47,1,2,20,6,7,25,36,78,-42,0.66,2,0,0,0,0,0,0,0,0.0,1,10,11,12,15,34,52,-18,1.18,1
+Primera Division,Sevilla FC,2012,9,14,8,16,58,54,4,1.32,1,0,5,18,9,11,69,52,17,1.66,0,5,23,7,8,71,45,26,2.0,1,7,14,10,14,51,50,1,1.37,1
+Primera Division,CA Osasuna,2012,16,10,9,19,33,50,-17,1.03,2,2,18,10,9,19,32,62,-30,1.03,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Deportivo de La Coruña,2012,19,8,11,19,47,70,-23,0.92,2,2,0,0,0,0,0,0,0,0.0,2,16,7,14,17,35,60,-25,0.92,2,15,8,18,12,45,61,-16,1.11,2
+Primera Division,Granada CF,2012,15,11,9,18,37,54,-17,1.11,2,2,15,12,5,21,32,56,-24,1.08,2,17,7,14,17,29,64,-35,0.92,2,16,10,9,19,46,69,-23,1.03,2
+Primera Division,RCD Mallorca,2012,18,9,9,20,43,72,-29,0.95,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Real Zaragoza,2012,20,9,7,22,37,62,-25,0.89,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Athletic Bilbao,2013,4,20,10,8,66,39,27,1.84,0,1,7,15,10,13,42,41,1,1.45,0,5,18,8,12,58,45,13,1.63,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,FC Barcelona,2013,2,27,6,5,100,33,67,2.29,0,0,1,30,4,4,110,21,89,2.47,0,1,29,4,5,112,29,83,2.39,0,2,28,6,4,116,37,79,2.37,0
+Primera Division,Real Madrid,2013,3,27,6,5,104,38,66,2.29,0,0,2,30,2,6,118,38,80,2.42,0,2,28,6,4,110,34,76,2.37,0,1,29,6,3,106,41,65,2.45,0
+Primera Division,Sevilla FC,2013,5,18,9,11,69,52,17,1.66,0,0,5,23,7,8,71,45,26,2.0,1,7,14,10,14,51,50,1,1.37,0,4,21,9,8,69,49,20,1.89,0
+Primera Division,Villarreal CF,2013,6,17,8,13,60,44,16,1.55,0,0,6,16,12,10,48,37,11,1.58,0,4,18,10,10,44,35,9,1.68,0,5,19,10,9,56,33,23,1.76,0
+Primera Division,Getafe CF,2013,13,11,9,18,35,54,-19,1.11,1,2,15,10,7,21,33,64,-31,0.97,2,19,9,9,20,37,67,-30,0.95,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Levante UD,2013,10,12,12,14,35,43,-8,1.26,1,1,14,9,10,19,34,67,-33,0.97,2,20,8,8,22,37,70,-33,0.84,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Málaga CF,2013,11,12,9,17,39,46,-7,1.18,1,1,9,14,8,16,42,48,-6,1.32,1,8,12,12,14,38,35,3,1.26,1,11,12,10,16,49,55,-6,1.21,1
+Primera Division,RCD Espanyol Barcelona,2013,14,11,9,18,41,51,-10,1.11,1,1,10,13,10,15,47,51,-4,1.29,1,13,12,7,19,40,74,-34,1.13,1,8,15,11,12,49,50,-1,1.47,1
+Primera Division,Rayo Vallecano,2013,12,13,4,21,46,80,-34,1.13,1,1,11,15,4,19,46,68,-22,1.29,2,18,9,11,18,52,73,-21,1.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Real Sociedad,2013,7,16,11,11,62,55,7,1.55,1,1,12,11,13,14,44,51,-7,1.21,1,9,13,9,16,45,48,-3,1.26,0,6,19,7,12,59,53,6,1.68,0
+Primera Division,Valencia CF,2013,8,13,10,15,51,53,-2,1.29,1,0,4,22,11,5,70,32,38,2.03,1,12,11,11,16,46,48,-2,1.16,1,12,13,7,18,56,65,-9,1.21,1
+Primera Division,CA Osasuna,2013,18,10,9,19,32,62,-30,1.03,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,19,4,10,24,40,94,-54,0.58,2
+Primera Division,Elche CF,2013,16,9,13,16,30,50,-20,1.05,2,1,13,11,8,19,35,62,-27,1.08,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Granada CF,2013,15,12,5,21,32,56,-24,1.08,2,2,17,7,14,17,29,64,-35,0.92,2,16,10,9,19,46,69,-23,1.03,2,20,4,8,26,30,82,-52,0.53,2
+Primera Division,Real Betis Balompié,2013,20,6,7,25,36,78,-42,0.66,2,2,0,0,0,0,0,0,0,0.0,1,10,11,12,15,34,52,-18,1.18,2,15,10,9,19,41,64,-23,1.03,2
+Primera Division,Real Valladolid CF,2013,19,7,15,16,38,60,-22,0.95,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,UD Almería,2013,17,11,7,20,43,71,-28,1.05,2,2,19,8,8,22,35,64,-29,0.76,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,FC Barcelona,2014,1,30,4,4,110,21,89,2.47,0,0,1,29,4,5,112,29,83,2.39,0,2,28,6,4,116,37,79,2.37,0,1,28,9,1,99,29,70,2.45,0
+Primera Division,Real Madrid,2014,2,30,2,6,118,38,80,2.42,0,0,2,28,6,4,110,34,76,2.37,0,1,29,6,3,106,41,65,2.45,0,3,22,10,6,94,44,50,2.0,0
+Primera Division,Sevilla FC,2014,5,23,7,8,71,45,26,2.0,0,1,7,14,10,14,51,50,1,1.37,0,4,21,9,8,69,49,20,1.89,1,7,17,7,14,49,58,-9,1.53,1
+Primera Division,Valencia CF,2014,4,22,11,5,70,32,38,2.03,0,1,12,11,11,16,46,48,-2,1.16,1,12,13,7,18,56,65,-9,1.21,0,4,22,7,9,65,38,27,1.92,0
+Primera Division,Villarreal CF,2014,6,16,12,10,48,37,11,1.58,0,0,4,18,10,10,44,35,9,1.68,0,5,19,10,9,56,33,23,1.76,0,5,18,7,13,57,50,7,1.61,0
+Primera Division,Athletic Bilbao,2014,7,15,10,13,42,41,1,1.45,1,0,5,18,8,12,58,45,13,1.63,2,0,0,0,0,0,0,0,0.0,2,16,10,13,15,41,49,-8,1.13,2
+Primera Division,Elche CF,2014,13,11,8,19,35,62,-27,1.08,1,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Levante UD,2014,14,9,10,19,34,67,-33,0.97,1,2,20,8,8,22,37,70,-33,0.84,2,0,0,0,0,0,0,0,0.0,2,15,11,13,14,44,58,-14,1.21,2
+Primera Division,Málaga CF,2014,9,14,8,16,42,48,-6,1.32,1,1,8,12,12,14,38,35,3,1.26,1,11,12,10,16,49,55,-6,1.21,2,20,5,5,28,24,61,-37,0.53,2
+Primera Division,RCD Espanyol Barcelona,2014,10,13,10,15,47,51,-4,1.29,1,1,13,12,7,19,40,74,-34,1.13,1,8,15,11,12,49,50,-1,1.47,1,11,12,13,13,36,42,-6,1.29,1
+Primera Division,Rayo Vallecano,2014,11,15,4,19,46,68,-22,1.29,1,2,18,9,11,18,52,73,-21,1.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Real Sociedad,2014,12,11,13,14,44,51,-7,1.21,1,1,9,13,9,16,45,48,-3,1.26,0,6,19,7,12,59,53,6,1.68,1,12,14,7,17,66,59,7,1.29,1
+Primera Division,Córdoba CF,2014,20,3,11,24,22,68,-46,0.53,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Deportivo de La Coruña,2014,16,7,14,17,35,60,-25,0.92,2,2,15,8,18,12,45,61,-16,1.11,2,16,8,12,18,43,61,-18,0.95,2,18,6,11,21,38,76,-38,0.76,2
+Primera Division,Getafe CF,2014,15,10,7,21,33,64,-31,0.97,2,2,19,9,9,20,37,67,-30,0.95,2,0,0,0,0,0,0,0,0.0,1,8,15,10,13,42,33,9,1.45,1
+Primera Division,Granada CF,2014,17,7,14,17,29,64,-35,0.92,2,2,16,10,9,19,46,69,-23,1.03,2,20,4,8,26,30,82,-52,0.53,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,SD Eibar,2014,18,9,8,21,34,55,-21,0.92,2,1,14,11,10,17,49,61,-12,1.13,1,10,15,9,14,56,51,5,1.42,1,9,14,9,15,44,50,-6,1.34,1
+Primera Division,UD Almería,2014,19,8,8,22,35,64,-29,0.76,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Athletic Bilbao,2015,5,18,8,12,58,45,13,1.63,0,2,0,0,0,0,0,0,0,0.0,2,16,10,13,15,41,49,-8,1.13,1,8,13,14,11,41,45,-4,1.39,1
+Primera Division,FC Barcelona,2015,1,29,4,5,112,29,83,2.39,0,0,2,28,6,4,116,37,79,2.37,0,1,28,9,1,99,29,70,2.45,0,1,26,9,3,90,36,54,2.29,0
+Primera Division,Real Madrid,2015,2,28,6,4,110,34,76,2.37,0,0,1,29,6,3,106,41,65,2.45,0,3,22,10,6,94,44,50,2.0,0,3,21,5,12,63,46,17,1.79,0
+Primera Division,Villarreal CF,2015,4,18,10,10,44,35,9,1.68,0,0,5,19,10,9,56,33,23,1.76,0,5,18,7,13,57,50,7,1.61,1,14,10,14,14,49,52,-3,1.16,1
+Primera Division,Málaga CF,2015,8,12,12,14,38,35,3,1.26,1,1,11,12,10,16,49,55,-6,1.21,2,20,5,5,28,24,61,-37,0.53,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,RCD Espanyol Barcelona,2015,13,12,7,19,40,74,-34,1.13,1,1,8,15,11,12,49,50,-1,1.47,1,11,12,13,13,36,42,-6,1.29,1,7,14,11,13,48,50,-2,1.39,1
+Primera Division,Real Betis Balompié,2015,10,11,12,15,34,52,-18,1.18,1,2,15,10,9,19,41,64,-23,1.03,0,6,18,6,14,60,61,-1,1.58,1,10,14,8,16,44,52,-8,1.32,1
+Primera Division,Real Sociedad,2015,9,13,9,16,45,48,-3,1.26,1,0,6,19,7,12,59,53,6,1.68,1,12,14,7,17,66,59,7,1.29,1,9,13,11,14,45,46,-1,1.32,1
+Primera Division,SD Eibar,2015,14,11,10,17,49,61,-12,1.13,1,1,10,15,9,14,56,51,5,1.42,1,9,14,9,15,44,50,-6,1.34,1,12,11,14,13,46,50,-4,1.24,1
+Primera Division,Sevilla FC,2015,7,14,10,14,51,50,1,1.37,1,0,4,21,9,8,69,49,20,1.89,1,7,17,7,14,49,58,-9,1.53,0,6,17,8,13,62,47,15,1.55,0
+Primera Division,UD Las Palmas,2015,11,12,8,18,45,53,-8,1.16,1,1,14,10,9,19,53,74,-21,1.03,2,19,5,7,26,24,74,-50,0.58,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Valencia CF,2015,12,11,11,16,46,48,-2,1.16,1,1,12,13,7,18,56,65,-9,1.21,0,4,22,7,9,65,38,27,1.92,0,4,15,16,7,51,35,16,1.61,0
+Primera Division,Deportivo de La Coruña,2015,15,8,18,12,45,61,-16,1.11,2,2,16,8,12,18,43,61,-18,0.95,2,18,6,11,21,38,76,-38,0.76,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Getafe CF,2015,19,9,9,20,37,67,-30,0.95,2,2,0,0,0,0,0,0,0,0.0,1,8,15,10,13,42,33,9,1.45,0,5,15,14,9,48,35,13,1.55,0
+Primera Division,Granada CF,2015,16,10,9,19,46,69,-23,1.03,2,2,20,4,8,26,30,82,-52,0.53,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Levante UD,2015,20,8,8,22,37,70,-33,0.84,2,2,0,0,0,0,0,0,0,0.0,2,15,11,13,14,44,58,-14,1.21,2,15,11,11,16,59,66,-7,1.16,2
+Primera Division,Rayo Vallecano,2015,18,9,11,18,52,73,-21,1.0,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,20,8,8,22,41,70,-29,0.84,2
+Primera Division,FC Barcelona,2016,2,28,6,4,116,37,79,2.37,0,0,1,28,9,1,99,29,70,2.45,0,1,26,9,3,90,36,54,2.29,0,2,25,7,6,86,38,48,2.16,0
+Primera Division,Real Madrid,2016,1,29,6,3,106,41,65,2.45,0,0,3,22,10,6,94,44,50,2.0,0,3,21,5,12,63,46,17,1.79,0,1,26,9,3,70,25,45,2.29,0
+Primera Division,Real Sociedad,2016,6,19,7,12,59,53,6,1.68,0,1,12,14,7,17,66,59,7,1.29,1,9,13,11,14,45,46,-1,1.32,0,6,16,8,14,56,48,8,1.47,0
+Primera Division,Sevilla FC,2016,4,21,9,8,69,49,20,1.89,0,1,7,17,7,14,49,58,-9,1.53,0,6,17,8,13,62,47,15,1.55,0,4,19,13,6,54,34,20,1.84,0
+Primera Division,Villarreal CF,2016,5,19,10,9,56,33,23,1.76,0,0,5,18,7,13,57,50,7,1.61,1,14,10,14,14,49,52,-3,1.16,0,5,18,6,14,63,49,14,1.58,0
+Primera Division,Deportivo Alavés,2016,9,14,13,11,41,43,-2,1.45,1,1,14,15,2,21,40,50,-10,1.24,1,11,13,11,14,39,50,-11,1.32,2,16,10,9,19,34,59,-25,1.03,2
+Primera Division,Málaga CF,2016,11,12,10,16,49,55,-6,1.21,1,2,20,5,5,28,24,61,-37,0.53,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,RCD Espanyol Barcelona,2016,8,15,11,12,49,50,-1,1.47,1,1,11,12,13,13,36,42,-6,1.29,1,7,14,11,13,48,50,-2,1.39,2,20,5,10,23,27,58,-31,0.66,2
+Primera Division,SD Eibar,2016,10,15,9,14,56,51,5,1.42,1,1,9,14,9,15,44,50,-6,1.34,1,12,11,14,13,46,50,-4,1.24,1,14,11,9,18,39,56,-17,1.11,1
+Primera Division,UD Las Palmas,2016,14,10,9,19,53,74,-21,1.03,1,2,19,5,7,26,24,74,-50,0.58,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Valencia CF,2016,12,13,7,18,56,65,-9,1.21,1,0,4,22,7,9,65,38,27,1.92,0,4,15,16,7,51,35,16,1.61,1,9,14,11,13,46,53,-7,1.39,1
+Primera Division,CA Osasuna,2016,19,4,10,24,40,94,-54,0.58,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,1,10,13,13,12,46,54,-8,1.37,1
+Primera Division,CD Leganés,2016,17,8,11,19,36,55,-19,0.92,2,2,17,12,7,19,34,51,-17,1.13,1,13,11,12,15,37,43,-6,1.18,2,18,8,12,18,30,51,-21,0.95,2
+Primera Division,Deportivo de La Coruña,2016,16,8,12,18,43,61,-18,0.95,2,2,18,6,11,21,38,76,-38,0.76,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Primera Division,Granada CF,2016,20,4,8,26,30,82,-52,0.53,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,1,7,16,8,14,52,45,7,1.47,1
+Primera Division,Real Betis Balompié,2016,15,10,9,19,41,64,-23,1.03,2,0,6,18,6,14,60,61,-1,1.58,1,10,14,8,16,44,52,-8,1.32,2,15,10,11,17,48,60,-12,1.08,2
+Primera Division,Sporting Gijón,2016,18,7,10,21,42,72,-30,0.82,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,AJ Auxerre,2009,3,20,11,7,42,29,13,1.87,0,1,9,10,19,9,45,41,4,1.29,2,20,7,13,18,46,57,-11,0.89,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,FC Girondins Bordeaux,2009,6,19,7,12,58,40,18,1.68,0,1,7,12,15,11,43,42,1,1.34,0,5,16,13,9,53,41,12,1.61,1,7,13,16,9,40,34,6,1.45,1
+Ligue 1,LOSC Lille,2009,4,21,7,10,72,40,32,1.84,0,0,1,21,13,4,68,36,32,2.0,0,3,21,11,6,72,39,33,1.95,0,6,16,14,8,59,40,19,1.63,0
+Ligue 1,Olympique Lyon,2009,2,20,12,6,64,38,26,1.89,0,0,3,17,13,8,61,40,21,1.68,0,4,19,7,12,64,51,13,1.68,0,3,19,10,9,61,38,23,1.76,0
+Ligue 1,Olympique Marseille,2009,1,23,9,6,69,36,33,2.05,0,0,2,18,14,6,62,39,23,1.79,1,10,12,12,14,45,41,4,1.26,0,2,21,8,9,42,36,6,1.87,0
+Ligue 1,AS Monaco,2009,8,15,10,13,39,45,-6,1.45,1,2,18,9,17,12,36,40,-4,1.16,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,AS Nancy-Lorraine,2009,12,13,9,16,46,53,-7,1.26,1,1,13,13,9,16,43,48,-5,1.26,1,11,11,12,15,38,48,-10,1.18,2,18,9,11,18,38,58,-20,1.0,2
+Ligue 1,FC Lorient,2009,7,16,10,12,54,42,12,1.53,1,1,11,12,13,13,46,48,-2,1.29,2,17,9,12,17,35,49,-14,1.03,1,8,14,11,13,57,58,-1,1.39,1
+Ligue 1,FC Toulouse,2009,14,12,11,15,36,36,0,1.24,1,1,8,14,8,16,38,36,2,1.32,1,8,15,11,12,37,34,3,1.47,1,10,13,12,13,49,47,2,1.34,1
+Ligue 1,Paris Saint-Germain,2009,13,12,11,15,50,46,4,1.24,1,0,4,15,15,8,56,41,15,1.58,0,2,23,10,5,75,41,34,2.08,0,1,25,8,5,69,23,46,2.18,0
+Ligue 1,RC Lens,2009,11,12,12,14,40,44,-4,1.26,1,2,19,7,14,17,35,58,-23,0.92,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,Stade Rennais FC,2009,9,14,11,13,52,41,11,1.39,1,0,6,15,11,12,38,35,3,1.47,0,6,17,9,12,53,44,9,1.58,1,13,13,7,18,48,59,-11,1.21,1
+Ligue 1,Valenciennes FC,2009,10,14,10,14,50,50,0,1.37,1,1,12,10,18,10,45,41,4,1.26,1,12,12,7,19,40,50,-10,1.13,1,11,12,12,14,49,53,-4,1.26,1
+Ligue 1,AS Saint-Étienne,2009,17,10,10,18,27,45,-18,1.05,2,1,10,12,13,13,46,47,-1,1.29,1,7,16,9,13,49,45,4,1.5,0,5,16,15,7,60,32,28,1.66,0
+Ligue 1,FC Sochaux-Montbéliard,2009,16,11,8,19,28,52,-24,1.08,2,0,5,17,7,14,60,43,17,1.53,1,14,11,9,18,40,60,-20,1.11,2,15,10,11,17,41,57,-16,1.08,2
+Ligue 1,Grenoble Foot 38,2009,20,5,8,25,31,61,-30,0.61,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,Le Mans FC,2009,18,8,8,22,36,59,-23,0.84,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,OGC Nice,2009,15,11,11,16,41,57,-16,1.16,2,2,17,11,13,14,33,48,-15,1.21,1,13,10,12,16,39,46,-7,1.11,0,4,18,10,10,57,46,11,1.68,0
+Ligue 1,US Boulogne,2009,19,7,10,21,31,62,-31,0.82,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,FC Sochaux-Montbéliard,2010,5,17,7,14,60,43,17,1.53,0,1,14,11,9,18,40,60,-20,1.11,2,15,10,11,17,41,57,-16,1.08,2,18,10,10,18,37,61,-24,1.05,2
+Ligue 1,LOSC Lille,2010,1,21,13,4,68,36,32,2.0,0,0,3,21,11,6,72,39,33,1.95,0,6,16,14,8,59,40,19,1.63,0,3,20,11,7,46,26,20,1.87,0
+Ligue 1,Olympique Lyon,2010,3,17,13,8,61,40,21,1.68,0,0,4,19,7,12,64,51,13,1.68,0,3,19,10,9,61,38,23,1.76,0,5,17,10,11,56,44,12,1.61,0
+Ligue 1,Olympique Marseille,2010,2,18,14,6,62,39,23,1.79,0,1,10,12,12,14,45,41,4,1.26,0,2,21,8,9,42,36,6,1.87,0,6,16,12,10,53,40,13,1.58,0
+Ligue 1,Paris Saint-Germain,2010,4,15,15,8,56,41,15,1.58,0,0,2,23,10,5,75,41,34,2.08,0,1,25,8,5,69,23,46,2.18,0,1,27,8,3,84,23,61,2.34,0
+Ligue 1,Stade Rennais FC,2010,6,15,11,12,38,35,3,1.47,0,0,6,17,9,12,53,44,9,1.58,1,13,13,7,18,48,59,-11,1.21,1,12,11,13,14,47,45,2,1.21,1
+Ligue 1,AJ Auxerre,2010,9,10,19,9,45,41,4,1.29,1,2,20,7,13,18,46,57,-11,0.89,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,AS Nancy-Lorraine,2010,13,13,9,16,43,48,-5,1.26,1,1,11,11,12,15,38,48,-10,1.18,2,18,9,11,18,38,58,-20,1.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,AS Saint-Étienne,2010,10,12,13,13,46,47,-1,1.29,1,1,7,16,9,13,49,45,4,1.5,0,5,16,15,7,60,32,28,1.66,0,4,20,9,9,56,34,22,1.82,0
+Ligue 1,FC Girondins Bordeaux,2010,7,12,15,11,43,42,1,1.34,1,0,5,16,13,9,53,41,12,1.61,1,7,13,16,9,40,34,6,1.45,1,7,13,14,11,49,43,6,1.39,1
+Ligue 1,FC Lorient,2010,11,12,13,13,46,48,-2,1.29,1,2,17,9,12,17,35,49,-14,1.03,1,8,14,11,13,57,58,-1,1.39,1,8,13,10,15,48,53,-5,1.29,1
+Ligue 1,FC Toulouse,2010,8,14,8,16,38,36,2,1.32,1,1,8,15,11,12,37,34,3,1.47,1,10,13,12,13,49,47,2,1.34,1,9,12,13,13,46,53,-7,1.29,1
+Ligue 1,Montpellier HSC,2010,14,12,11,15,32,43,-11,1.24,1,0,1,25,7,6,68,34,34,2.16,1,9,15,7,16,54,51,3,1.37,2,15,8,18,12,45,53,-8,1.11,2
+Ligue 1,Valenciennes FC,2010,12,10,18,10,45,41,4,1.26,1,1,12,12,7,19,40,50,-10,1.13,1,11,12,12,14,49,53,-4,1.26,2,19,7,8,23,37,65,-28,0.76,2
+Ligue 1,AS Monaco,2010,18,9,17,12,36,40,-4,1.16,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,0,2,23,11,4,63,31,32,2.11,0
+Ligue 1,Athlétic Club Arlésien,2010,20,3,11,24,21,70,-49,0.53,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,OGC Nice,2010,17,11,13,14,33,48,-15,1.21,2,1,13,10,12,16,39,46,-7,1.11,0,4,18,10,10,57,46,11,1.68,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,RC Lens,2010,19,7,14,17,35,58,-23,0.92,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,SM Caen,2010,15,11,13,14,46,51,-5,1.21,2,2,18,9,11,18,39,59,-20,1.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,Stade Brestois 29,2010,16,11,13,14,36,43,-7,1.21,2,2,15,8,17,13,31,38,-7,1.08,2,20,8,5,25,32,62,-30,0.76,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,FC Girondins Bordeaux,2011,5,16,13,9,53,41,12,1.61,0,1,7,13,16,9,40,34,6,1.45,1,7,13,14,11,49,43,6,1.39,0,6,17,12,9,47,44,3,1.66,0
+Ligue 1,LOSC Lille,2011,3,21,11,6,72,39,33,1.95,0,0,6,16,14,8,59,40,19,1.63,0,3,20,11,7,46,26,20,1.87,1,8,16,8,14,43,42,1,1.47,1
+Ligue 1,Montpellier HSC,2011,1,25,7,6,68,34,34,2.16,0,1,9,15,7,16,54,51,3,1.37,2,15,8,18,12,45,53,-8,1.11,1,7,16,8,14,46,39,7,1.47,1
+Ligue 1,Olympique Lyon,2011,4,19,7,12,64,51,13,1.68,0,0,3,19,10,9,61,38,23,1.76,0,5,17,10,11,56,44,12,1.61,0,2,22,9,7,72,33,39,1.97,0
+Ligue 1,Paris Saint-Germain,2011,2,23,10,5,75,41,34,2.08,0,0,1,25,8,5,69,23,46,2.18,0,1,27,8,3,84,23,61,2.34,0,1,24,11,3,83,36,47,2.18,0
+Ligue 1,Stade Rennais FC,2011,6,17,9,12,53,44,9,1.58,0,1,13,13,7,18,48,59,-11,1.21,1,12,11,13,14,47,45,2,1.21,1,9,13,11,14,35,42,-7,1.32,1
+Ligue 1,AS Nancy-Lorraine,2011,11,11,12,15,38,48,-10,1.18,1,2,18,9,11,18,38,58,-20,1.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,AS Saint-Étienne,2011,7,16,9,13,49,45,4,1.5,1,0,5,16,15,7,60,32,28,1.66,0,4,20,9,9,56,34,22,1.82,0,5,19,12,7,51,30,21,1.82,0
+Ligue 1,FC Sochaux-Montbéliard,2011,14,11,9,18,40,60,-20,1.11,1,2,15,10,11,17,41,57,-16,1.08,2,18,10,10,18,37,61,-24,1.05,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,FC Toulouse,2011,8,15,11,12,37,34,3,1.47,1,1,10,13,12,13,49,47,2,1.34,1,9,12,13,13,46,53,-7,1.29,2,17,12,6,20,43,64,-21,1.11,2
+Ligue 1,FC Évian Thonon Gaillard,2011,9,13,11,14,54,55,-1,1.32,1,2,16,10,10,18,46,53,-7,1.05,1,14,11,11,16,39,51,-12,1.16,2,18,11,4,23,41,62,-21,0.97,2
+Ligue 1,OGC Nice,2011,13,10,12,16,39,46,-7,1.11,1,0,4,18,10,10,57,46,11,1.68,2,0,0,0,0,0,0,0,0.0,1,11,13,9,16,44,53,-9,1.26,1
+Ligue 1,Olympique Marseille,2011,10,12,12,14,45,41,4,1.26,1,0,2,21,8,9,42,36,6,1.87,0,6,16,12,10,53,40,13,1.58,0,4,21,6,11,76,42,34,1.82,0
+Ligue 1,Valenciennes FC,2011,12,12,7,19,40,50,-10,1.13,1,1,11,12,12,14,49,53,-4,1.26,2,19,7,8,23,37,65,-28,0.76,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,AC Ajaccio,2011,16,9,14,15,40,61,-21,1.08,2,2,17,9,15,14,39,51,-12,1.05,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,AJ Auxerre,2011,20,7,13,18,46,57,-11,0.89,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,Dijon FCO,2011,19,9,9,20,38,63,-25,0.95,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,FC Lorient,2011,17,9,12,17,35,49,-14,1.03,2,1,8,14,11,13,57,58,-1,1.39,1,8,13,10,15,48,53,-5,1.29,2,16,12,7,19,44,50,-6,1.13,2
+Ligue 1,SM Caen,2011,18,9,11,18,39,59,-20,1.0,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,1,13,12,10,16,54,55,-1,1.21,1
+Ligue 1,Stade Brestois 29,2011,15,8,17,13,31,38,-7,1.08,2,2,20,8,5,25,32,62,-30,0.76,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,AS Saint-Étienne,2012,5,16,15,7,60,32,28,1.66,0,0,4,20,9,9,56,34,22,1.82,0,5,19,12,7,51,30,21,1.82,0,6,17,7,14,42,37,5,1.53,0
+Ligue 1,LOSC Lille,2012,6,16,14,8,59,40,19,1.63,0,0,3,20,11,7,46,26,20,1.87,1,8,16,8,14,43,42,1,1.47,0,5,15,15,8,39,27,12,1.58,0
+Ligue 1,OGC Nice,2012,4,18,10,10,57,46,11,1.68,0,2,0,0,0,0,0,0,0,0.0,1,11,13,9,16,44,53,-9,1.26,0,4,18,9,11,58,41,17,1.66,0
+Ligue 1,Olympique Lyon,2012,3,19,10,9,61,38,23,1.76,0,0,5,17,10,11,56,44,12,1.61,0,2,22,9,7,72,33,39,1.97,0,2,19,8,11,67,43,24,1.71,0
+Ligue 1,Olympique Marseille,2012,2,21,8,9,42,36,6,1.87,0,0,6,16,12,10,53,40,13,1.58,0,4,21,6,11,76,42,34,1.82,1,13,10,18,10,48,42,6,1.26,1
+Ligue 1,Paris Saint-Germain,2012,1,25,8,5,69,23,46,2.18,0,0,1,27,8,3,84,23,61,2.34,0,1,24,11,3,83,36,47,2.18,0,1,30,6,2,102,19,83,2.53,0
+Ligue 1,FC Girondins Bordeaux,2012,7,13,16,9,40,34,6,1.45,1,1,7,13,14,11,49,43,6,1.39,0,6,17,12,9,47,44,3,1.66,1,11,12,14,12,50,57,-7,1.32,1
+Ligue 1,FC Lorient,2012,8,14,11,13,57,58,-1,1.39,1,1,8,13,10,15,48,53,-5,1.29,2,16,12,7,19,44,50,-6,1.13,2,15,11,13,14,47,58,-11,1.21,2
+Ligue 1,FC Toulouse,2012,10,13,12,13,49,47,2,1.34,1,1,9,12,13,13,46,53,-7,1.29,2,17,12,6,20,43,64,-21,1.11,2,17,9,13,16,45,55,-10,1.05,2
+Ligue 1,Montpellier HSC,2012,9,15,7,16,54,51,3,1.37,1,2,15,8,18,12,45,53,-8,1.11,1,7,16,8,14,46,39,7,1.47,1,12,14,7,17,49,47,2,1.29,1
+Ligue 1,SC Bastia,2012,12,13,8,17,50,66,-16,1.24,1,1,10,13,10,15,42,56,-14,1.29,1,12,12,11,15,37,46,-9,1.24,1,10,14,8,16,36,42,-6,1.32,1
+Ligue 1,Stade Reims,2012,14,10,13,15,33,42,-9,1.13,1,1,11,12,12,14,44,52,-8,1.26,2,15,12,8,18,47,66,-19,1.16,2,18,10,9,19,44,57,-13,1.03,2
+Ligue 1,Stade Rennais FC,2012,13,13,7,18,48,59,-11,1.21,1,1,12,11,13,14,47,45,2,1.21,1,9,13,11,14,35,42,-7,1.32,1,8,13,13,12,52,54,-2,1.37,1
+Ligue 1,Valenciennes FC,2012,11,12,12,14,49,53,-4,1.26,1,2,19,7,8,23,37,65,-28,0.76,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,AC Ajaccio,2012,17,9,15,14,39,51,-12,1.05,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,AS Nancy-Lorraine,2012,18,9,11,18,38,58,-20,1.0,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,ESTAC Troyes,2012,19,8,13,17,43,61,-18,0.97,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,20,3,9,26,28,83,-55,0.47,2
+Ligue 1,FC Sochaux-Montbéliard,2012,15,10,11,17,41,57,-16,1.08,2,2,18,10,10,18,37,61,-24,1.05,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,FC Évian Thonon Gaillard,2012,16,10,10,18,46,53,-7,1.05,2,1,14,11,11,16,39,51,-12,1.16,2,18,11,4,23,41,62,-21,0.97,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,Stade Brestois 29,2012,20,8,5,25,32,62,-30,0.76,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,AS Monaco,2013,2,23,11,4,63,31,32,2.11,0,0,3,20,11,7,51,26,25,1.87,0,3,17,14,7,57,50,7,1.71,0,1,30,5,3,107,31,76,2.5,0
+Ligue 1,AS Saint-Étienne,2013,4,20,9,9,56,34,22,1.82,0,0,5,19,12,7,51,30,21,1.82,0,6,17,7,14,42,37,5,1.53,1,8,12,14,12,41,42,-1,1.32,1
+Ligue 1,LOSC Lille,2013,3,20,11,7,46,26,20,1.87,0,1,8,16,8,14,43,42,1,1.47,0,5,15,15,8,39,27,12,1.58,1,11,13,7,18,40,47,-7,1.21,1
+Ligue 1,Olympique Lyon,2013,5,17,10,11,56,44,12,1.61,0,0,2,22,9,7,72,33,39,1.97,0,2,19,8,11,67,43,24,1.71,0,4,21,4,13,77,48,29,1.76,0
+Ligue 1,Olympique Marseille,2013,6,16,12,10,53,40,13,1.58,0,0,4,21,6,11,76,42,34,1.82,1,13,10,18,10,48,42,6,1.26,0,5,17,11,10,57,41,16,1.63,0
+Ligue 1,Paris Saint-Germain,2013,1,27,8,3,84,23,61,2.34,0,0,1,24,11,3,83,36,47,2.18,0,1,30,6,2,102,19,83,2.53,0,2,27,6,5,83,27,56,2.29,0
+Ligue 1,FC Girondins Bordeaux,2013,7,13,14,11,49,43,6,1.39,1,0,6,17,12,9,47,44,3,1.66,1,11,12,14,12,50,57,-7,1.32,0,6,15,14,9,53,43,10,1.55,0
+Ligue 1,FC Lorient,2013,8,13,10,15,48,53,-5,1.29,1,2,16,12,7,19,44,50,-6,1.13,2,15,11,13,14,47,58,-11,1.21,2,18,10,6,22,44,70,-26,0.95,2
+Ligue 1,FC Nantes,2013,13,12,10,16,38,43,-5,1.21,1,1,14,11,12,15,29,40,-11,1.18,1,14,12,12,14,33,44,-11,1.26,1,7,14,9,15,40,54,-14,1.34,1
+Ligue 1,FC Toulouse,2013,9,12,13,13,46,53,-7,1.29,1,2,17,12,6,20,43,64,-21,1.11,2,17,9,13,16,45,55,-10,1.05,1,13,10,14,14,37,41,-4,1.16,1
+Ligue 1,FC Évian Thonon Gaillard,2013,14,11,11,16,39,51,-12,1.16,1,2,18,11,4,23,41,62,-21,0.97,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,SC Bastia,2013,10,13,10,15,42,56,-14,1.29,1,1,12,12,11,15,37,46,-9,1.24,1,10,14,8,16,36,42,-6,1.32,2,20,8,10,20,29,54,-25,0.89,2
+Ligue 1,Stade Reims,2013,11,12,12,14,44,52,-8,1.26,1,2,15,12,8,18,47,66,-19,1.16,2,18,10,9,19,44,57,-13,1.03,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,Stade Rennais FC,2013,12,11,13,14,47,45,2,1.21,1,1,9,13,11,14,35,42,-7,1.32,1,8,13,13,12,52,54,-2,1.37,1,9,12,14,12,36,42,-6,1.32,1
+Ligue 1,EA Guingamp,2013,16,11,9,18,34,42,-8,1.11,2,1,10,15,4,19,41,55,-14,1.29,2,16,11,11,16,47,56,-9,1.16,1,10,14,8,16,46,53,-7,1.32,1
+Ligue 1,FC Sochaux-Montbéliard,2013,18,10,10,18,37,61,-24,1.05,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,Montpellier HSC,2013,15,8,18,12,45,53,-8,1.11,2,1,7,16,8,14,46,39,7,1.47,1,12,14,7,17,49,47,2,1.29,2,15,10,9,19,48,66,-18,1.03,2
+Ligue 1,Valenciennes FC,2013,19,7,8,23,37,65,-28,0.76,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,AS Monaco,2014,3,20,11,7,51,26,25,1.87,0,0,3,17,14,7,57,50,7,1.71,0,1,30,5,3,107,31,76,2.5,0,2,24,8,6,85,45,40,2.11,0
+Ligue 1,AS Saint-Étienne,2014,5,19,12,7,51,30,21,1.82,0,0,6,17,7,14,42,37,5,1.53,1,8,12,14,12,41,42,-1,1.32,1,7,15,10,13,47,50,-3,1.45,1
+Ligue 1,FC Girondins Bordeaux,2014,6,17,12,9,47,44,3,1.66,0,1,11,12,14,12,50,57,-7,1.32,0,6,15,14,9,53,43,10,1.55,0,6,16,7,15,53,48,5,1.45,0
+Ligue 1,Olympique Lyon,2014,2,22,9,7,72,33,39,1.97,0,0,2,19,8,11,67,43,24,1.71,0,4,21,4,13,77,48,29,1.76,0,3,23,9,6,87,43,44,2.05,0
+Ligue 1,Olympique Marseille,2014,4,21,6,11,76,42,34,1.82,0,1,13,10,18,10,48,42,6,1.26,0,5,17,11,10,57,41,16,1.63,0,4,22,11,5,80,47,33,2.03,0
+Ligue 1,Paris Saint-Germain,2014,1,24,11,3,83,36,47,2.18,0,0,1,30,6,2,102,19,83,2.53,0,2,27,6,5,83,27,56,2.29,0,1,29,6,3,108,29,79,2.45,0
+Ligue 1,EA Guingamp,2014,10,15,4,19,41,55,-14,1.29,1,2,16,11,11,16,47,56,-9,1.16,1,10,14,8,16,46,53,-7,1.32,1,12,12,11,15,48,59,-11,1.24,1
+Ligue 1,FC Nantes,2014,14,11,12,15,29,40,-11,1.18,1,1,14,12,12,14,33,44,-11,1.26,1,7,14,9,15,40,54,-14,1.34,1,9,14,10,14,36,41,-5,1.37,1
+Ligue 1,LOSC Lille,2014,8,16,8,14,43,42,1,1.47,1,0,5,15,15,8,39,27,12,1.58,1,11,13,7,18,40,47,-7,1.21,2,17,10,8,20,41,67,-26,1.0,2
+Ligue 1,Montpellier HSC,2014,7,16,8,14,46,39,7,1.47,1,1,12,14,7,17,49,47,2,1.29,2,15,10,9,19,48,66,-18,1.03,1,10,11,18,9,36,33,3,1.34,1
+Ligue 1,OGC Nice,2014,11,13,9,16,44,53,-9,1.26,1,0,4,18,9,11,58,41,17,1.66,0,3,22,12,4,63,36,27,2.05,1,8,15,9,14,53,52,1,1.42,1
+Ligue 1,SC Bastia,2014,12,12,11,15,37,46,-9,1.24,1,1,10,14,8,16,36,42,-6,1.32,2,20,8,10,20,29,54,-25,0.89,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,SM Caen,2014,13,12,10,16,54,55,-1,1.21,1,1,7,16,6,16,39,52,-13,1.42,2,17,10,7,21,36,65,-29,0.97,2,16,10,8,20,27,52,-25,1.0,2
+Ligue 1,Stade Rennais FC,2014,9,13,11,14,35,42,-7,1.32,1,1,8,13,13,12,52,54,-2,1.37,1,9,12,14,12,36,42,-6,1.32,0,5,16,10,12,50,44,6,1.53,0
+Ligue 1,FC Lorient,2014,16,12,7,19,44,50,-6,1.13,2,2,15,11,13,14,47,58,-11,1.21,2,18,10,6,22,44,70,-26,0.95,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,FC Metz,2014,19,7,9,22,31,61,-30,0.79,2,2,0,0,0,0,0,0,0,0.0,1,14,11,10,17,39,72,-33,1.13,2,20,6,8,24,34,76,-42,0.68,2
+Ligue 1,FC Toulouse,2014,17,12,6,20,43,64,-21,1.11,2,2,17,9,13,16,45,55,-10,1.05,1,13,10,14,14,37,41,-4,1.16,2,18,9,10,19,38,54,-16,0.97,2
+Ligue 1,FC Évian Thonon Gaillard,2014,18,11,4,23,41,62,-21,0.97,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,RC Lens,2014,20,7,8,23,32,61,-29,0.76,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,Stade Reims,2014,15,12,8,18,47,66,-19,1.16,2,2,18,10,9,19,44,57,-13,1.03,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,AS Monaco,2015,3,17,14,7,57,50,7,1.71,0,0,1,30,5,3,107,31,76,2.5,0,2,24,8,6,85,45,40,2.11,2,17,8,12,18,38,57,-19,0.95,2
+Ligue 1,AS Saint-Étienne,2015,6,17,7,14,42,37,5,1.53,0,1,8,12,14,12,41,42,-1,1.32,1,7,15,10,13,47,50,-3,1.45,0,4,19,9,10,59,41,18,1.74,0
+Ligue 1,LOSC Lille,2015,5,15,15,8,39,27,12,1.58,0,1,11,13,7,18,40,47,-7,1.21,2,17,10,8,20,41,67,-26,1.0,0,2,22,9,7,68,33,35,1.97,0
+Ligue 1,OGC Nice,2015,4,18,9,11,58,41,17,1.66,0,0,3,22,12,4,63,36,27,2.05,1,8,15,9,14,53,52,1,1.42,1,7,15,11,12,30,35,-5,1.47,1
+Ligue 1,Olympique Lyon,2015,2,19,8,11,67,43,24,1.71,0,0,4,21,4,13,77,48,29,1.76,0,3,23,9,6,87,43,44,2.05,0,3,21,9,8,70,47,23,1.89,0
+Ligue 1,Paris Saint-Germain,2015,1,30,6,2,102,19,83,2.53,0,0,2,27,6,5,83,27,56,2.29,0,1,29,6,3,108,29,79,2.45,0,1,29,4,5,105,35,70,2.39,0
+Ligue 1,Angers SCO,2015,9,13,11,14,40,38,2,1.32,1,1,12,13,7,18,40,49,-9,1.21,1,14,9,14,15,42,52,-10,1.08,1,13,10,16,12,44,49,-5,1.21,1
+Ligue 1,FC Girondins Bordeaux,2015,11,12,14,12,50,57,-7,1.32,1,0,6,15,14,9,53,43,10,1.55,0,6,16,7,15,53,48,5,1.45,1,14,10,11,17,34,42,-8,1.08,1
+Ligue 1,FC Nantes,2015,14,12,12,14,33,44,-11,1.26,1,1,7,14,9,15,40,54,-14,1.34,1,9,14,10,14,36,41,-5,1.37,1,12,13,9,16,48,48,0,1.26,1
+Ligue 1,Montpellier HSC,2015,12,14,7,17,49,47,2,1.29,1,2,15,10,9,19,48,66,-18,1.03,1,10,11,18,9,36,33,3,1.34,0,6,15,14,9,53,42,11,1.55,0
+Ligue 1,Olympique Marseille,2015,13,10,18,10,48,42,6,1.26,1,0,5,17,11,10,57,41,16,1.63,0,4,22,11,5,80,47,33,2.03,0,5,18,7,13,60,52,8,1.61,0
+Ligue 1,SC Bastia,2015,10,14,8,16,36,42,-6,1.32,1,2,20,8,10,20,29,54,-25,0.89,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,SM Caen,2015,7,16,6,16,39,52,-13,1.42,1,2,17,10,7,21,36,65,-29,0.97,2,16,10,8,20,27,52,-25,1.0,2,19,7,12,19,29,54,-25,0.87,2
+Ligue 1,Stade Rennais FC,2015,8,13,13,12,52,54,-2,1.37,1,1,9,12,14,12,36,42,-6,1.32,0,5,16,10,12,50,44,6,1.53,1,10,13,13,12,55,52,3,1.37,1
+Ligue 1,EA Guingamp,2015,16,11,11,16,47,56,-9,1.16,2,1,10,14,8,16,46,53,-7,1.32,1,12,12,11,15,48,59,-11,1.24,2,20,5,12,21,28,68,-40,0.71,2
+Ligue 1,ESTAC Troyes,2015,20,3,9,26,28,83,-55,0.47,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,FC Lorient,2015,15,11,13,14,47,58,-11,1.21,2,2,18,10,6,22,44,70,-26,0.95,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,FC Toulouse,2015,17,9,13,16,45,55,-10,1.05,2,1,13,10,14,14,37,41,-4,1.16,2,18,9,10,19,38,54,-16,0.97,2,16,8,14,16,35,57,-22,1.0,2
+Ligue 1,Stade Reims,2015,18,10,9,19,44,57,-13,1.03,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,1,8,13,16,9,39,42,-3,1.45,1
+Ligue 1,AS Monaco,2016,1,30,5,3,107,31,76,2.5,0,0,2,24,8,6,85,45,40,2.11,2,17,8,12,18,38,57,-19,0.95,1,9,11,7,10,44,44,0,1.43,1
+Ligue 1,FC Girondins Bordeaux,2016,6,15,14,9,53,43,10,1.55,0,0,6,16,7,15,53,48,5,1.45,1,14,10,11,17,34,42,-8,1.08,1,12,9,10,9,40,34,6,1.32,1
+Ligue 1,OGC Nice,2016,3,22,12,4,63,36,27,2.05,0,1,8,15,9,14,53,52,1,1.42,1,7,15,11,12,30,35,-5,1.47,0,5,11,8,9,41,38,3,1.46,0
+Ligue 1,Olympique Lyon,2016,4,21,4,13,77,48,29,1.76,0,0,3,23,9,6,87,43,44,2.05,0,3,21,9,8,70,47,23,1.89,1,7,11,7,10,42,27,15,1.43,1
+Ligue 1,Olympique Marseille,2016,5,17,11,10,57,41,16,1.63,0,0,4,22,11,5,80,47,33,2.03,0,5,18,7,13,60,52,8,1.61,0,2,16,8,4,41,29,12,2.0,0
+Ligue 1,Paris Saint-Germain,2016,2,27,6,5,83,27,56,2.29,0,0,1,29,6,3,108,29,79,2.45,0,1,29,4,5,105,35,70,2.39,0,1,22,2,3,75,24,51,2.52,0
+Ligue 1,AS Saint-Étienne,2016,8,12,14,12,41,42,-1,1.32,1,1,7,15,10,13,47,50,-3,1.45,0,4,19,9,10,59,41,18,1.74,2,17,8,6,14,29,45,-16,1.07,2
+Ligue 1,Angers SCO,2016,12,13,7,18,40,49,-9,1.21,1,1,14,9,14,15,42,52,-10,1.08,1,13,10,16,12,44,49,-5,1.21,1,11,11,6,11,28,33,-5,1.39,1
+Ligue 1,EA Guingamp,2016,10,14,8,16,46,53,-7,1.32,1,1,12,12,11,15,48,59,-11,1.24,2,20,5,12,21,28,68,-40,0.71,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,FC Metz,2016,14,11,10,17,39,72,-33,1.13,1,2,20,6,8,24,34,76,-42,0.68,2,0,0,0,0,0,0,0,0.0,2,15,8,10,10,27,35,-8,1.21,2
+Ligue 1,FC Nantes,2016,7,14,9,15,40,54,-14,1.34,1,1,9,14,10,14,36,41,-5,1.37,1,12,13,9,16,48,48,0,1.26,1,13,11,4,13,28,31,-3,1.32,1
+Ligue 1,FC Toulouse,2016,13,10,14,14,37,41,-4,1.16,1,2,18,9,10,19,38,54,-16,0.97,2,16,8,14,16,35,57,-22,1.0,2,20,3,4,21,22,58,-36,0.46,2
+Ligue 1,LOSC Lille,2016,11,13,7,18,40,47,-7,1.21,1,2,17,10,8,20,41,67,-26,1.0,0,2,22,9,7,68,33,35,1.97,0,4,15,4,9,35,27,8,1.75,0
+Ligue 1,Stade Rennais FC,2016,9,12,14,12,36,42,-6,1.32,1,0,5,16,10,12,50,44,6,1.53,1,10,13,13,12,55,52,3,1.37,0,3,15,5,8,38,24,14,1.79,0
+Ligue 1,AS Nancy-Lorraine,2016,19,9,8,21,29,52,-23,0.92,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,Dijon FCO,2016,16,8,13,17,46,58,-12,0.97,2,1,11,13,9,16,55,73,-18,1.26,2,18,9,7,22,31,60,-29,0.89,2,16,7,9,12,27,37,-10,1.07,2
+Ligue 1,FC Lorient,2016,18,10,6,22,44,70,-26,0.95,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,Montpellier HSC,2016,15,10,9,19,48,66,-18,1.03,2,1,10,11,18,9,36,33,3,1.34,0,6,15,14,9,53,42,11,1.55,1,8,11,7,10,35,34,1,1.43,1
+Ligue 1,SC Bastia,2016,20,8,10,20,29,54,-25,0.89,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Ligue 1,SM Caen,2016,17,10,7,21,36,65,-29,0.97,2,2,16,10,8,20,27,52,-25,1.0,2,19,7,12,19,29,54,-25,0.87,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Arsenal FC,2009,3,23,6,9,83,41,42,1.97,0,0,4,19,11,8,72,43,29,1.79,0,3,21,7,10,74,49,25,1.84,0,4,21,10,7,72,37,35,1.92,0
+Premier League,Aston Villa,2009,6,17,13,8,52,39,13,1.68,0,1,9,12,12,14,48,59,-11,1.26,2,16,7,17,14,37,53,-16,1.0,2,15,10,11,17,47,69,-22,1.08,2
+Premier League,Chelsea FC,2009,1,27,5,6,103,32,71,2.26,0,0,2,21,8,9,69,33,36,1.87,0,6,18,10,10,65,46,19,1.68,0,3,22,9,7,75,39,36,1.97,0
+Premier League,Manchester City,2009,5,18,13,7,73,45,28,1.76,0,0,3,21,8,9,60,33,27,1.87,0,1,28,5,5,93,29,64,2.34,0,2,23,9,6,66,34,32,2.05,0
+Premier League,Manchester United,2009,2,27,4,7,86,28,58,2.24,0,0,1,23,11,4,78,37,41,2.11,0,2,28,5,5,89,33,56,2.34,0,1,28,5,5,86,43,43,2.34,0
+Premier League,Tottenham Hotspur,2009,4,21,7,10,67,41,26,1.84,0,0,5,16,14,8,55,46,9,1.63,0,4,20,9,9,66,41,25,1.82,0,5,21,9,8,66,46,20,1.89,0
+Premier League,Birmingham City,2009,9,13,11,14,38,47,-9,1.32,1,2,18,8,15,15,37,58,-21,1.03,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Blackburn Rovers,2009,10,13,11,14,41,55,-14,1.32,1,2,15,11,10,17,46,59,-13,1.13,2,19,8,7,23,48,78,-30,0.82,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Bolton Wanderers,2009,14,10,9,19,42,67,-25,1.03,1,1,14,12,10,16,52,56,-4,1.21,2,18,10,6,22,46,77,-31,0.95,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Everton FC,2009,8,16,13,9,60,49,11,1.61,1,1,7,13,15,10,51,45,6,1.42,1,7,15,11,12,50,40,10,1.47,0,6,16,15,7,55,40,15,1.66,0
+Premier League,Fulham FC,2009,12,12,10,16,39,46,-7,1.21,1,1,8,11,16,11,49,43,6,1.29,1,9,14,10,14,48,51,-3,1.37,1,12,11,10,17,50,60,-10,1.13,1
+Premier League,Liverpool FC,2009,7,18,9,11,61,35,26,1.66,1,0,6,17,7,14,59,44,15,1.53,1,8,14,10,14,47,40,7,1.37,1,7,16,13,9,71,43,28,1.61,1
+Premier League,Stoke City,2009,11,11,14,13,34,48,-14,1.24,1,1,13,13,7,18,46,48,-2,1.21,1,14,11,12,15,36,53,-17,1.18,1,13,9,15,14,34,45,-11,1.11,1
+Premier League,Sunderland AFC,2009,13,11,11,16,48,56,-8,1.16,1,1,10,12,11,15,45,56,-11,1.24,1,13,11,12,15,45,46,-1,1.18,2,17,9,12,17,41,54,-13,1.03,2
+Premier League,Burnley FC,2009,18,8,6,24,42,82,-40,0.79,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Hull City,2009,19,6,12,20,34,75,-41,0.79,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Portsmouth FC,2009,20,7,7,24,34,66,-32,0.5,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,West Ham United,2009,17,8,11,19,47,66,-19,0.92,2,2,20,7,12,19,43,70,-27,0.87,2,0,0,0,0,0,0,0,0.0,1,10,12,10,16,45,53,-8,1.21,1
+Premier League,Wigan Athletic,2009,16,9,9,20,37,79,-42,0.95,2,2,16,9,15,14,40,61,-21,1.11,2,15,11,10,17,42,62,-20,1.13,2,18,9,9,20,47,73,-26,0.95,2
+Premier League,Wolverhampton Wanderers,2009,15,9,11,18,32,56,-24,1.0,2,2,17,11,7,20,46,66,-20,1.05,2,20,5,10,23,40,82,-42,0.66,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Arsenal FC,2010,4,19,11,8,72,43,29,1.79,0,0,3,21,7,10,74,49,25,1.84,0,4,21,10,7,72,37,35,1.92,0,4,24,7,7,68,41,27,2.08,0
+Premier League,Chelsea FC,2010,2,21,8,9,69,33,36,1.87,0,0,6,18,10,10,65,46,19,1.68,0,3,22,9,7,75,39,36,1.97,0,3,25,7,6,71,27,44,2.16,0
+Premier League,Liverpool FC,2010,6,17,7,14,59,44,15,1.53,0,1,8,14,10,14,47,40,7,1.37,1,7,16,13,9,71,43,28,1.61,0,2,26,6,6,101,50,51,2.21,0
+Premier League,Manchester City,2010,3,21,8,9,60,33,27,1.87,0,0,1,28,5,5,93,29,64,2.34,0,2,23,9,6,66,34,32,2.05,0,1,27,5,6,102,37,65,2.26,0
+Premier League,Manchester United,2010,1,23,11,4,78,37,41,2.11,0,0,2,28,5,5,89,33,56,2.34,0,1,28,5,5,86,43,43,2.34,1,7,19,7,12,64,43,21,1.68,1
+Premier League,Tottenham Hotspur,2010,5,16,14,8,55,46,9,1.63,0,0,4,20,9,9,66,41,25,1.82,0,5,21,9,8,66,46,20,1.89,0,6,21,6,11,55,51,4,1.82,0
+Premier League,Aston Villa,2010,9,12,12,14,48,59,-11,1.26,1,2,16,7,17,14,37,53,-16,1.0,2,15,10,11,17,47,69,-22,1.08,2,15,10,8,20,39,61,-22,1.0,2
+Premier League,Bolton Wanderers,2010,14,12,10,16,52,56,-4,1.21,1,2,18,10,6,22,46,77,-31,0.95,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Everton FC,2010,7,13,15,10,51,45,6,1.42,1,1,7,15,11,12,50,40,10,1.47,0,6,16,15,7,55,40,15,1.66,0,5,21,9,8,61,39,22,1.89,0
+Premier League,Fulham FC,2010,8,11,16,11,49,43,6,1.29,1,1,9,14,10,14,48,51,-3,1.37,1,12,11,10,17,50,60,-10,1.13,2,19,9,5,24,40,85,-45,0.84,2
+Premier League,Newcastle United,2010,12,11,13,14,56,57,-1,1.21,1,0,5,19,8,11,56,51,5,1.71,2,16,11,8,19,45,68,-23,1.08,1,10,15,4,19,43,59,-16,1.29,1
+Premier League,Stoke City,2010,13,13,7,18,46,48,-2,1.21,1,1,14,11,12,15,36,53,-17,1.18,1,13,9,15,14,34,45,-11,1.11,1,9,13,11,14,45,52,-7,1.32,1
+Premier League,Sunderland AFC,2010,10,12,11,15,45,56,-11,1.24,1,1,13,11,12,15,45,46,-1,1.18,2,17,9,12,17,41,54,-13,1.03,1,14,10,8,20,41,60,-19,1.0,1
+Premier League,West Bromwich Albion,2010,11,12,11,15,56,71,-15,1.24,1,1,10,13,8,17,45,52,-7,1.24,1,8,14,7,17,53,57,-4,1.29,2,17,7,15,16,43,59,-16,0.95,2
+Premier League,Birmingham City,2010,18,8,15,15,37,58,-21,1.03,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Blackburn Rovers,2010,15,11,10,17,46,59,-13,1.13,2,2,19,8,7,23,48,78,-30,0.82,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Blackpool FC,2010,19,10,9,19,55,78,-23,1.03,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,West Ham United,2010,20,7,12,19,43,70,-27,0.87,2,2,0,0,0,0,0,0,0,0.0,1,10,12,10,16,45,53,-8,1.21,1,13,11,7,20,40,51,-11,1.05,1
+Premier League,Wigan Athletic,2010,16,9,15,14,40,61,-21,1.11,2,2,15,11,10,17,42,62,-20,1.13,2,18,9,9,20,47,73,-26,0.95,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Wolverhampton Wanderers,2010,17,11,7,20,46,66,-20,1.05,2,2,20,5,10,23,40,82,-42,0.66,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Arsenal FC,2011,3,21,7,10,74,49,25,1.84,0,0,4,21,10,7,72,37,35,1.92,0,4,24,7,7,68,41,27,2.08,0,3,22,9,7,71,36,35,1.97,0
+Premier League,Chelsea FC,2011,6,18,10,10,65,46,19,1.68,0,0,3,22,9,7,75,39,36,1.97,0,3,25,7,6,71,27,44,2.16,0,1,26,9,3,73,32,41,2.29,0
+Premier League,Manchester City,2011,1,28,5,5,93,29,64,2.34,0,0,2,23,9,6,66,34,32,2.05,0,1,27,5,6,102,37,65,2.26,0,2,24,7,7,83,38,45,2.08,0
+Premier League,Manchester United,2011,2,28,5,5,89,33,56,2.34,0,0,1,28,5,5,86,43,43,2.34,1,7,19,7,12,64,43,21,1.68,0,4,20,10,8,62,37,25,1.84,0
+Premier League,Newcastle United,2011,5,19,8,11,56,51,5,1.71,0,2,16,11,8,19,45,68,-23,1.08,1,10,15,4,19,43,59,-16,1.29,2,15,10,9,19,40,63,-23,1.03,2
+Premier League,Tottenham Hotspur,2011,4,20,9,9,66,41,25,1.82,0,0,5,21,9,8,66,46,20,1.89,0,6,21,6,11,55,51,4,1.82,0,5,19,7,12,58,53,5,1.68,0
+Premier League,Everton FC,2011,7,15,11,12,50,40,10,1.47,1,0,6,16,15,7,55,40,15,1.66,0,5,21,9,8,61,39,22,1.89,1,11,12,11,15,48,50,-2,1.24,1
+Premier League,Fulham FC,2011,9,14,10,14,48,51,-3,1.37,1,1,12,11,10,17,50,60,-10,1.13,2,19,9,5,24,40,85,-45,0.84,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Liverpool FC,2011,8,14,10,14,47,40,7,1.37,1,1,7,16,13,9,71,43,28,1.61,0,2,26,6,6,101,50,51,2.21,0,6,18,8,12,52,48,4,1.63,0
+Premier League,Norwich City,2011,12,12,11,15,52,66,-14,1.24,1,1,11,10,14,14,41,58,-17,1.16,2,18,8,9,21,28,62,-34,0.87,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Stoke City,2011,14,11,12,15,36,53,-17,1.18,1,1,13,9,15,14,34,45,-11,1.11,1,9,13,11,14,45,52,-7,1.32,1,9,15,9,14,48,45,3,1.42,1
+Premier League,Sunderland AFC,2011,13,11,12,15,45,46,-1,1.18,1,2,17,9,12,17,41,54,-13,1.03,1,14,10,8,20,41,60,-19,1.0,2,16,7,17,14,31,53,-22,1.0,2
+Premier League,Swansea City,2011,11,12,11,15,44,51,-7,1.24,1,1,9,11,13,14,47,51,-4,1.21,1,12,11,9,18,54,54,0,1.11,1,8,16,8,14,46,49,-3,1.47,1
+Premier League,West Bromwich Albion,2011,10,13,8,17,45,52,-7,1.24,1,1,8,14,7,17,53,57,-4,1.29,2,17,7,15,16,43,59,-16,0.95,1,13,11,11,16,38,51,-13,1.16,1
+Premier League,Aston Villa,2011,16,7,17,14,37,53,-16,1.0,2,2,15,10,11,17,47,69,-22,1.08,2,15,10,8,20,39,61,-22,1.0,2,17,10,8,20,31,57,-26,1.0,2
+Premier League,Blackburn Rovers,2011,19,8,7,23,48,78,-30,0.82,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Bolton Wanderers,2011,18,10,6,22,46,77,-31,0.95,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Queens Park Rangers,2011,17,10,7,21,43,66,-23,0.97,2,2,20,4,13,21,30,60,-30,0.66,2,0,0,0,0,0,0,0,0.0,2,20,8,6,24,42,73,-31,0.79,2
+Premier League,Wigan Athletic,2011,15,11,10,17,42,62,-20,1.13,2,2,18,9,9,20,47,73,-26,0.95,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Wolverhampton Wanderers,2011,20,5,10,23,40,82,-42,0.66,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Arsenal FC,2012,4,21,10,7,72,37,35,1.92,0,0,4,24,7,7,68,41,27,2.08,0,3,22,9,7,71,36,35,1.97,0,2,20,11,7,65,36,29,1.87,0
+Premier League,Chelsea FC,2012,3,22,9,7,75,39,36,1.97,0,0,3,25,7,6,71,27,44,2.16,0,1,26,9,3,73,32,41,2.29,1,10,12,14,12,59,53,6,1.32,1
+Premier League,Everton FC,2012,6,16,15,7,55,40,15,1.66,0,0,5,21,9,8,61,39,22,1.89,1,11,12,11,15,48,50,-2,1.24,1,11,11,14,13,59,55,4,1.24,1
+Premier League,Manchester City,2012,2,23,9,6,66,34,32,2.05,0,0,1,27,5,6,102,37,65,2.26,0,2,24,7,7,83,38,45,2.08,0,4,19,9,10,71,41,30,1.74,0
+Premier League,Manchester United,2012,1,28,5,5,86,43,43,2.34,0,1,7,19,7,12,64,43,21,1.68,0,4,20,10,8,62,37,25,1.84,0,5,19,9,10,49,35,14,1.74,0
+Premier League,Tottenham Hotspur,2012,5,21,9,8,66,46,20,1.89,0,0,6,21,6,11,55,51,4,1.82,0,5,19,7,12,58,53,5,1.68,0,3,19,13,6,69,35,34,1.84,0
+Premier League,Fulham FC,2012,12,11,10,17,50,60,-10,1.13,1,2,19,9,5,24,40,85,-45,0.84,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Liverpool FC,2012,7,16,13,9,71,43,28,1.61,1,0,2,26,6,6,101,50,51,2.21,0,6,18,8,12,52,48,4,1.63,1,8,16,12,10,63,50,13,1.58,1
+Premier League,Norwich City,2012,11,10,14,14,41,58,-17,1.16,1,2,18,8,9,21,28,62,-34,0.87,2,0,0,0,0,0,0,0,0.0,2,19,9,7,22,39,67,-28,0.89,2
+Premier League,Southampton FC,2012,14,9,14,15,49,60,-11,1.08,1,1,8,15,11,12,54,46,8,1.47,1,7,18,6,14,54,33,21,1.58,0,6,18,9,11,59,41,18,1.66,0
+Premier League,Stoke City,2012,13,9,15,14,34,45,-11,1.11,1,1,9,13,11,14,45,52,-7,1.32,1,9,15,9,14,48,45,3,1.42,1,9,14,9,15,41,55,-14,1.34,1
+Premier League,Swansea City,2012,9,11,13,14,47,51,-4,1.21,1,1,12,11,9,18,54,54,0,1.11,1,8,16,8,14,46,49,-3,1.47,1,12,12,11,15,42,52,-10,1.24,1
+Premier League,West Bromwich Albion,2012,8,14,7,17,53,57,-4,1.29,1,2,17,7,15,16,43,59,-16,0.95,1,13,11,11,16,38,51,-13,1.16,1,14,10,13,15,34,48,-14,1.13,1
+Premier League,West Ham United,2012,10,12,10,16,45,53,-8,1.21,1,1,13,11,7,20,40,51,-11,1.05,1,12,12,11,15,44,47,-3,1.24,1,7,16,14,8,65,51,14,1.63,1
+Premier League,Aston Villa,2012,15,10,11,17,47,69,-22,1.08,2,2,15,10,8,20,39,61,-22,1.0,2,17,10,8,20,31,57,-26,1.0,2,20,3,8,27,27,76,-49,0.45,2
+Premier League,Newcastle United,2012,16,11,8,19,45,68,-23,1.08,2,1,10,15,4,19,43,59,-16,1.29,2,15,10,9,19,40,63,-23,1.03,2,18,9,10,19,44,65,-21,0.97,2
+Premier League,Queens Park Rangers,2012,20,4,13,21,30,60,-30,0.66,2,2,0,0,0,0,0,0,0,0.0,2,20,8,6,24,42,73,-31,0.79,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Reading FC,2012,19,6,10,22,43,73,-30,0.74,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Sunderland AFC,2012,17,9,12,17,41,54,-13,1.03,2,1,14,10,8,20,41,60,-19,1.0,2,16,7,17,14,31,53,-22,1.0,2,17,9,12,17,48,62,-14,1.03,2
+Premier League,Wigan Athletic,2012,18,9,9,20,47,73,-26,0.95,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Arsenal FC,2013,4,24,7,7,68,41,27,2.08,0,0,3,22,9,7,71,36,35,1.97,0,2,20,11,7,65,36,29,1.87,0,5,23,6,9,77,44,33,1.97,0
+Premier League,Chelsea FC,2013,3,25,7,6,71,27,44,2.16,0,0,1,26,9,3,73,32,41,2.29,1,10,12,14,12,59,53,6,1.32,0,1,30,3,5,85,33,52,2.45,0
+Premier League,Everton FC,2013,5,21,9,8,61,39,22,1.89,0,1,11,12,11,15,48,50,-2,1.24,1,11,11,14,13,59,55,4,1.24,1,7,17,10,11,62,44,18,1.61,1
+Premier League,Liverpool FC,2013,2,26,6,6,101,50,51,2.21,0,0,6,18,8,12,52,48,4,1.63,1,8,16,12,10,63,50,13,1.58,0,4,22,10,6,78,42,36,2.0,0
+Premier League,Manchester City,2013,1,27,5,6,102,37,65,2.26,0,0,2,24,7,7,83,38,45,2.08,0,4,19,9,10,71,41,30,1.74,0,3,23,9,6,80,39,41,2.05,0
+Premier League,Tottenham Hotspur,2013,6,21,6,11,55,51,4,1.82,0,0,5,19,7,12,58,53,5,1.68,0,3,19,13,6,69,35,34,1.84,0,2,26,8,4,86,26,60,2.26,0
+Premier League,Crystal Palace,2013,11,13,6,19,33,48,-15,1.18,1,1,10,13,9,16,47,51,-4,1.26,2,15,11,9,18,39,51,-12,1.11,1,14,12,5,21,50,63,-13,1.08,1
+Premier League,Manchester United,2013,7,19,7,12,64,43,21,1.68,1,0,4,20,10,8,62,37,25,1.84,0,5,19,9,10,49,35,14,1.74,0,6,18,15,5,54,29,25,1.82,0
+Premier League,Newcastle United,2013,10,15,4,19,43,59,-16,1.29,1,2,15,10,9,19,40,63,-23,1.03,2,18,9,10,19,44,65,-21,0.97,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Southampton FC,2013,8,15,11,12,54,46,8,1.47,1,1,7,18,6,14,54,33,21,1.58,0,6,18,9,11,59,41,18,1.66,1,8,12,10,16,41,48,-7,1.21,1
+Premier League,Stoke City,2013,9,13,11,14,45,52,-7,1.32,1,1,9,15,9,14,48,45,3,1.42,1,9,14,9,15,41,55,-14,1.34,1,13,11,11,16,41,56,-15,1.16,1
+Premier League,Sunderland AFC,2013,14,10,8,20,41,60,-19,1.0,1,2,16,7,17,14,31,53,-22,1.0,2,17,9,12,17,48,62,-14,1.03,2,20,6,6,26,29,69,-40,0.63,2
+Premier League,Swansea City,2013,12,11,9,18,54,54,0,1.11,1,1,8,16,8,14,46,49,-3,1.47,1,12,12,11,15,42,52,-10,1.24,2,15,12,5,21,45,70,-25,1.08,2
+Premier League,West Ham United,2013,13,11,7,20,40,51,-11,1.05,1,1,12,12,11,15,44,47,-3,1.24,1,7,16,14,8,65,51,14,1.63,1,11,12,9,17,47,64,-17,1.18,1
+Premier League,Aston Villa,2013,15,10,8,20,39,61,-22,1.0,2,2,17,10,8,20,31,57,-26,1.0,2,20,3,8,27,27,76,-49,0.45,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Cardiff City,2013,20,7,9,22,32,74,-42,0.79,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Fulham FC,2013,19,9,5,24,40,85,-45,0.84,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Hull City,2013,16,10,7,21,38,53,-15,0.97,2,2,18,8,11,19,33,51,-18,0.92,2,0,0,0,0,0,0,0,0.0,2,18,9,7,22,37,80,-43,0.89,2
+Premier League,Norwich City,2013,18,8,9,21,28,62,-34,0.87,2,2,0,0,0,0,0,0,0,0.0,2,19,9,7,22,39,67,-28,0.89,2,0,0,0,0,0,0,0,0.0,2
+Premier League,West Bromwich Albion,2013,17,7,15,16,43,59,-16,0.95,2,1,13,11,11,16,38,51,-13,1.16,1,14,10,13,15,34,48,-14,1.13,1,10,12,9,17,43,51,-8,1.18,1
+Premier League,Arsenal FC,2014,3,22,9,7,71,36,35,1.97,0,0,2,20,11,7,65,36,29,1.87,0,5,23,6,9,77,44,33,1.97,0,6,19,6,13,74,51,23,1.66,0
+Premier League,Chelsea FC,2014,1,26,9,3,73,32,41,2.29,0,1,10,12,14,12,59,53,6,1.32,0,1,30,3,5,85,33,52,2.45,0,5,21,7,10,62,38,24,1.84,0
+Premier League,Liverpool FC,2014,6,18,8,12,52,48,4,1.63,0,1,8,16,12,10,63,50,13,1.58,0,4,22,10,6,78,42,36,2.0,0,4,21,12,5,84,38,46,1.97,0
+Premier League,Manchester City,2014,2,24,7,7,83,38,45,2.08,0,0,4,19,9,10,71,41,30,1.74,0,3,23,9,6,80,39,41,2.05,0,1,32,4,2,106,27,79,2.63,0
+Premier League,Manchester United,2014,4,20,10,8,62,37,25,1.84,0,0,5,19,9,10,49,35,14,1.74,0,6,18,15,5,54,29,25,1.82,0,2,25,6,7,68,28,40,2.13,0
+Premier League,Tottenham Hotspur,2014,5,19,7,12,58,53,5,1.68,0,0,3,19,13,6,69,35,34,1.84,0,2,26,8,4,86,26,60,2.26,0,3,23,8,7,74,36,38,2.03,0
+Premier League,Crystal Palace,2014,10,13,9,16,47,51,-4,1.26,1,2,15,11,9,18,39,51,-12,1.11,1,14,12,5,21,50,63,-13,1.08,1,11,11,11,16,45,55,-10,1.16,1
+Premier League,Everton FC,2014,11,12,11,15,48,50,-2,1.24,1,1,11,11,14,13,59,55,4,1.24,1,7,17,10,11,62,44,18,1.61,1,8,13,10,15,44,58,-14,1.29,1
+Premier League,Leicester City,2014,14,11,8,19,46,55,-9,1.08,1,0,1,23,12,3,68,36,32,2.13,1,12,12,8,18,48,63,-15,1.16,1,9,12,11,15,56,60,-4,1.24,1
+Premier League,Southampton FC,2014,7,18,6,14,54,33,21,1.58,1,0,6,18,9,11,59,41,18,1.66,1,8,12,10,16,41,48,-7,1.21,2,17,7,15,16,37,56,-19,0.95,2
+Premier League,Stoke City,2014,9,15,9,14,48,45,3,1.42,1,1,9,14,9,15,41,55,-14,1.34,1,13,11,11,16,41,56,-15,1.16,2,19,7,12,19,35,68,-33,0.87,2
+Premier League,Swansea City,2014,8,16,8,14,46,49,-3,1.47,1,1,12,12,11,15,42,52,-10,1.24,2,15,12,5,21,45,70,-25,1.08,2,18,8,9,21,28,56,-28,0.87,2
+Premier League,West Bromwich Albion,2014,13,11,11,16,38,51,-13,1.16,1,1,14,10,13,15,34,48,-14,1.13,1,10,12,9,17,43,51,-8,1.18,2,20,6,13,19,31,56,-25,0.82,2
+Premier League,West Ham United,2014,12,12,11,15,44,47,-3,1.24,1,1,7,16,14,8,65,51,14,1.63,1,11,12,9,17,47,64,-17,1.18,1,13,10,12,16,48,68,-20,1.11,1
+Premier League,Aston Villa,2014,17,10,8,20,31,57,-26,1.0,2,2,20,3,8,27,27,76,-49,0.45,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Burnley FC,2014,19,7,12,19,28,53,-25,0.87,2,2,0,0,0,0,0,0,0,0.0,2,16,11,7,20,39,55,-16,1.05,1,7,14,12,12,36,39,-3,1.42,1
+Premier League,Hull City,2014,18,8,11,19,33,51,-18,0.92,2,2,0,0,0,0,0,0,0,0.0,2,18,9,7,22,37,80,-43,0.89,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Newcastle United,2014,15,10,9,19,40,63,-23,1.03,2,2,18,9,10,19,44,65,-21,0.97,2,0,0,0,0,0,0,0,0.0,1,10,12,8,18,39,47,-8,1.16,1
+Premier League,Queens Park Rangers,2014,20,8,6,24,42,73,-31,0.79,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Sunderland AFC,2014,16,7,17,14,31,53,-22,1.0,2,2,17,9,12,17,48,62,-14,1.03,2,20,6,6,26,29,69,-40,0.63,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Arsenal FC,2015,2,20,11,7,65,36,29,1.87,0,0,5,23,6,9,77,44,33,1.97,0,6,19,6,13,74,51,23,1.66,0,5,21,7,10,73,51,22,1.84,0
+Premier League,Leicester City,2015,1,23,12,3,68,36,32,2.13,0,1,12,12,8,18,48,63,-15,1.16,1,9,12,11,15,56,60,-4,1.24,1,9,15,7,16,51,48,3,1.37,1
+Premier League,Manchester City,2015,4,19,9,10,71,41,30,1.74,0,0,3,23,9,6,80,39,41,2.05,0,1,32,4,2,106,27,79,2.63,0,1,32,2,4,95,23,72,2.58,0
+Premier League,Manchester United,2015,5,19,9,10,49,35,14,1.74,0,0,6,18,15,5,54,29,25,1.82,0,2,25,6,7,68,28,40,2.13,0,6,19,9,10,65,54,11,1.74,0
+Premier League,Southampton FC,2015,6,18,9,11,59,41,18,1.66,0,1,8,12,10,16,41,48,-7,1.21,2,17,7,15,16,37,56,-19,0.95,2,16,9,12,17,45,65,-20,1.03,2
+Premier League,Tottenham Hotspur,2015,3,19,13,6,69,35,34,1.84,0,0,2,26,8,4,86,26,60,2.26,0,3,23,8,7,74,36,38,2.03,0,4,23,2,13,67,39,28,1.87,0
+Premier League,Chelsea FC,2015,10,12,14,12,59,53,6,1.32,1,0,1,30,3,5,85,33,52,2.45,0,5,21,7,10,62,38,24,1.84,0,3,21,9,8,63,39,24,1.89,0
+Premier League,Everton FC,2015,11,11,14,13,59,55,4,1.24,1,1,7,17,10,11,62,44,18,1.61,1,8,13,10,15,44,58,-14,1.29,1,8,15,9,14,54,46,8,1.42,1
+Premier League,Liverpool FC,2015,8,16,12,10,63,50,13,1.58,1,0,4,22,10,6,78,42,36,2.0,0,4,21,12,5,84,38,46,1.97,0,2,30,7,1,89,22,67,2.55,0
+Premier League,Stoke City,2015,9,14,9,15,41,55,-14,1.34,1,1,13,11,11,16,41,56,-15,1.16,2,19,7,12,19,35,68,-33,0.87,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Swansea City,2015,12,12,11,15,42,52,-10,1.24,1,2,15,12,5,21,45,70,-25,1.08,2,18,8,9,21,28,56,-28,0.87,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Watford FC,2015,13,12,9,17,40,50,-10,1.18,1,2,17,11,7,20,40,68,-28,1.05,1,14,11,8,19,44,64,-20,1.08,1,11,14,8,16,52,59,-7,1.32,1
+Premier League,West Bromwich Albion,2015,14,10,13,15,34,48,-14,1.13,1,1,10,12,9,17,43,51,-8,1.18,2,20,6,13,19,31,56,-25,0.82,2,0,0,0,0,0,0,0,0.0,2
+Premier League,West Ham United,2015,7,16,14,8,65,51,14,1.63,1,1,11,12,9,17,47,64,-17,1.18,1,13,10,12,16,48,68,-20,1.11,1,10,15,7,16,52,55,-3,1.37,1
+Premier League,AFC Bournemouth,2015,16,11,9,18,45,67,-22,1.11,2,1,9,12,10,16,55,67,-12,1.21,1,12,11,11,16,45,61,-16,1.16,1,14,13,6,19,56,70,-14,1.18,1
+Premier League,Aston Villa,2015,20,3,8,27,27,76,-49,0.45,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Crystal Palace,2015,15,11,9,18,39,51,-12,1.11,2,1,14,12,5,21,50,63,-13,1.08,1,11,11,11,16,45,55,-10,1.16,1,12,14,7,17,51,53,-2,1.29,1
+Premier League,Newcastle United,2015,18,9,10,19,44,65,-21,0.97,2,2,0,0,0,0,0,0,0,0.0,1,10,12,8,18,39,47,-8,1.16,1,13,12,9,17,42,48,-6,1.18,1
+Premier League,Norwich City,2015,19,9,7,22,39,67,-28,0.89,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Sunderland AFC,2015,17,9,12,17,48,62,-14,1.03,2,2,20,6,6,26,29,69,-40,0.63,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Arsenal FC,2016,5,23,6,9,77,44,33,1.97,0,0,6,19,6,13,74,51,23,1.66,0,5,21,7,10,73,51,22,1.84,1,8,14,14,10,56,48,8,1.47,1
+Premier League,Chelsea FC,2016,1,30,3,5,85,33,52,2.45,0,0,5,21,7,10,62,38,24,1.84,0,3,21,9,8,63,39,24,1.89,0,4,20,6,12,69,54,15,1.74,0
+Premier League,Liverpool FC,2016,4,22,10,6,78,42,36,2.0,0,0,4,21,12,5,84,38,46,1.97,0,2,30,7,1,89,22,67,2.55,0,1,32,3,3,85,33,52,2.61,0
+Premier League,Manchester City,2016,3,23,9,6,80,39,41,2.05,0,0,1,32,4,2,106,27,79,2.63,0,1,32,2,4,95,23,72,2.58,0,2,26,3,9,102,35,67,2.13,0
+Premier League,Manchester United,2016,6,18,15,5,54,29,25,1.82,0,0,2,25,6,7,68,28,40,2.13,0,6,19,9,10,65,54,11,1.74,0,3,18,12,8,66,36,30,1.74,0
+Premier League,Tottenham Hotspur,2016,2,26,8,4,86,26,60,2.26,0,0,3,23,8,7,74,36,38,2.03,0,4,23,2,13,67,39,28,1.87,0,6,16,11,11,61,47,14,1.55,0
+Premier League,AFC Bournemouth,2016,9,12,10,16,55,67,-12,1.21,1,1,12,11,11,16,45,61,-16,1.16,1,14,13,6,19,56,70,-14,1.18,2,18,9,7,22,40,65,-25,0.89,2
+Premier League,Crystal Palace,2016,14,12,5,21,50,63,-13,1.08,1,1,11,11,11,16,45,55,-10,1.16,1,12,14,7,17,51,53,-2,1.29,1,14,11,10,17,31,50,-19,1.13,1
+Premier League,Everton FC,2016,7,17,10,11,62,44,18,1.61,1,1,8,13,10,15,44,58,-14,1.29,1,8,15,9,14,54,46,8,1.42,1,12,13,10,15,44,56,-12,1.29,1
+Premier League,Leicester City,2016,12,12,8,18,48,63,-15,1.16,1,1,9,12,11,15,56,60,-4,1.24,1,9,15,7,16,51,48,3,1.37,0,5,18,8,12,67,41,26,1.63,0
+Premier League,Southampton FC,2016,8,12,10,16,41,48,-7,1.21,1,2,17,7,15,16,37,56,-19,0.95,2,16,9,12,17,45,65,-20,1.03,1,11,15,7,16,51,60,-9,1.37,1
+Premier League,Stoke City,2016,13,11,11,16,41,56,-15,1.16,1,2,19,7,12,19,35,68,-33,0.87,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,West Bromwich Albion,2016,10,12,9,17,43,51,-8,1.18,1,2,20,6,13,19,31,56,-25,0.82,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,West Ham United,2016,11,12,9,17,47,64,-17,1.18,1,1,13,10,12,16,48,68,-20,1.11,1,10,15,7,16,52,55,-3,1.37,2,16,10,9,19,49,62,-13,1.03,2
+Premier League,Burnley FC,2016,16,11,7,20,39,55,-16,1.05,2,1,7,14,12,12,36,39,-3,1.42,2,15,11,7,20,45,68,-23,1.05,1,10,15,9,14,43,50,-7,1.42,1
+Premier League,Hull City,2016,18,9,7,22,37,80,-43,0.89,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Middlesbrough FC,2016,19,5,13,20,27,53,-26,0.74,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Sunderland AFC,2016,20,6,6,26,29,69,-40,0.63,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Swansea City,2016,15,12,5,21,45,70,-25,1.08,2,2,18,8,9,21,28,56,-28,0.87,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Premier League,Watford FC,2016,17,11,7,20,40,68,-28,1.05,2,1,14,11,8,19,44,64,-20,1.08,1,11,14,8,16,52,59,-7,1.32,2,19,8,10,20,36,64,-28,0.89,2
+Serie A,AC Milan,2009,3,20,10,8,60,39,21,1.84,0,0,1,24,10,4,65,24,41,2.16,0,2,24,8,6,74,33,41,2.11,0,3,21,9,8,67,39,28,1.89,0
+Serie A,AS Roma,2009,2,24,8,6,68,41,27,2.11,0,0,6,18,9,11,59,52,7,1.66,1,7,16,8,14,60,54,6,1.47,0,6,18,8,12,71,56,15,1.63,0
+Serie A,FC Internazionale,2009,1,24,10,4,75,34,41,2.16,0,0,2,23,7,8,69,42,27,2.0,0,6,17,7,14,58,55,3,1.53,1,9,16,6,16,55,57,-2,1.42,1
+Serie A,SSC Napoli,2009,6,15,14,9,50,43,7,1.55,0,0,3,21,7,10,59,39,20,1.84,0,5,16,13,9,66,46,20,1.61,0,2,23,9,6,73,36,37,2.05,0
+Serie A,UC Sampdoria,2009,4,19,10,9,49,41,8,1.76,0,2,18,8,12,18,33,49,-16,0.95,2,0,0,0,0,0,0,0,0.0,1,14,11,10,17,43,51,-8,1.11,1
+Serie A,US Palermo,2009,5,18,11,9,59,47,12,1.71,0,1,8,17,5,16,58,63,-5,1.47,2,16,11,10,17,52,62,-10,1.13,2,18,6,14,18,34,54,-20,0.84,2
+Serie A,ACF Fiorentina,2009,11,13,8,17,48,47,1,1.24,1,1,9,12,15,11,49,44,5,1.34,1,13,11,13,14,37,43,-6,1.21,0,4,21,7,10,72,44,28,1.84,0
+Serie A,AS Bari,2009,10,13,11,14,49,49,0,1.32,1,2,20,5,9,24,27,56,-29,0.63,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Serie A,Catania SSD,2009,13,10,15,13,44,45,-1,1.18,1,1,13,12,10,16,40,52,-12,1.21,1,11,11,15,12,47,52,-5,1.26,1,8,15,11,12,50,46,4,1.47,1
+Serie A,Chievo Verona,2009,14,12,8,18,37,42,-5,1.16,1,1,11,11,13,14,38,40,-2,1.21,1,10,12,13,13,35,45,-10,1.29,1,12,12,9,17,37,52,-15,1.18,1
+Serie A,Genoa CFC,2009,9,14,9,15,57,61,-4,1.34,1,1,10,14,9,15,45,47,-2,1.34,2,17,11,9,18,50,69,-19,1.11,2,17,8,14,16,38,52,-14,1.0,2
+Serie A,Juventus FC,2009,7,16,7,15,55,56,-1,1.45,1,1,7,15,13,10,57,47,10,1.53,0,1,23,15,0,68,20,48,2.21,0,1,27,6,5,71,24,47,2.29,0
+Serie A,Parma Calcio 1913,2009,8,14,10,14,46,51,-5,1.37,1,1,12,11,13,14,39,47,-8,1.21,1,8,15,11,12,54,53,1,1.47,1,10,13,10,15,45,46,-1,1.29,1
+Serie A,SS Lazio,2009,12,11,13,14,39,43,-4,1.21,1,0,5,20,6,12,55,39,16,1.74,0,4,18,8,12,56,47,9,1.63,1,7,18,7,13,51,42,9,1.61,1
+Serie A,AC Siena,2009,19,7,10,21,40,67,-27,0.82,2,2,0,0,0,0,0,0,0,0.0,1,14,11,11,16,45,45,0,1.16,2,19,9,9,20,36,57,-21,0.79,2
+Serie A,AS Livorno,2009,20,7,8,23,27,61,-34,0.76,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Serie A,Atalanta BC,2009,18,9,8,21,37,53,-16,0.92,2,2,0,0,0,0,0,0,0,0.0,1,12,13,13,12,41,43,-2,1.21,2,15,11,9,18,39,56,-17,1.05,2
+Serie A,Bologna FC 1909,2009,17,10,12,16,42,55,-13,1.11,2,2,16,11,12,15,35,52,-17,1.11,1,9,13,12,13,41,43,-2,1.34,1,13,11,11,16,46,52,-6,1.16,1
+Serie A,Cagliari Calcio,2009,16,11,11,16,56,58,-2,1.16,2,1,14,12,9,17,44,51,-7,1.18,2,15,10,13,15,37,46,-9,1.13,1,11,12,11,15,43,55,-12,1.24,1
+Serie A,Udinese Calcio,2009,15,11,11,16,54,59,-5,1.16,2,0,4,20,6,12,65,43,22,1.74,0,3,18,10,10,52,35,17,1.68,0,5,18,12,8,59,45,14,1.74,0
+Serie A,AC Milan,2010,1,24,10,4,65,24,41,2.16,0,0,2,24,8,6,74,33,41,2.11,0,3,21,9,8,67,39,28,1.89,1,8,16,9,13,57,49,8,1.5,1
+Serie A,AS Roma,2010,6,18,9,11,59,52,7,1.66,0,1,7,16,8,14,60,54,6,1.47,0,6,18,8,12,71,56,15,1.63,0,2,26,7,5,72,25,47,2.24,0
+Serie A,FC Internazionale,2010,2,23,7,8,69,42,27,2.0,0,0,6,17,7,14,58,55,3,1.53,1,9,16,6,16,55,57,-2,1.42,0,5,15,15,8,62,39,23,1.58,0
+Serie A,SS Lazio,2010,5,20,6,12,55,39,16,1.74,0,0,4,18,8,12,56,47,9,1.63,1,7,18,7,13,51,42,9,1.61,1,9,15,11,12,54,54,0,1.47,1
+Serie A,SSC Napoli,2010,3,21,7,10,59,39,20,1.84,0,0,5,16,13,9,66,46,20,1.61,0,2,23,9,6,73,36,37,2.05,0,3,23,9,6,77,39,38,2.05,0
+Serie A,Udinese Calcio,2010,4,20,6,12,65,43,22,1.74,0,0,3,18,10,10,52,35,17,1.68,0,5,18,12,8,59,45,14,1.74,1,13,12,8,18,46,57,-11,1.16,1
+Serie A,ACF Fiorentina,2010,9,12,15,11,49,44,5,1.34,1,1,13,11,13,14,37,43,-6,1.21,0,4,21,7,10,72,44,28,1.84,0,4,19,8,11,65,44,21,1.71,0
+Serie A,Cagliari Calcio,2010,14,12,9,17,44,51,-7,1.18,1,2,15,10,13,15,37,46,-9,1.13,1,11,12,11,15,43,55,-12,1.24,2,15,9,12,17,34,53,-19,1.03,2
+Serie A,Catania SSD,2010,13,12,10,16,40,52,-12,1.21,1,1,11,11,15,12,47,52,-5,1.26,1,8,15,11,12,50,46,4,1.47,2,18,8,8,22,34,66,-32,0.84,2
+Serie A,Chievo Verona,2010,11,11,13,14,38,40,-2,1.21,1,1,10,12,13,13,35,45,-10,1.29,1,12,12,9,17,37,52,-15,1.18,2,16,10,6,22,34,54,-20,0.95,2
+Serie A,Genoa CFC,2010,10,14,9,15,45,47,-2,1.34,1,2,17,11,9,18,50,69,-19,1.11,2,17,8,14,16,38,52,-14,1.0,1,14,11,11,16,41,50,-9,1.16,1
+Serie A,Juventus FC,2010,7,15,13,10,57,47,10,1.53,1,0,1,23,15,0,68,20,48,2.21,0,1,27,6,5,71,24,47,2.29,0,1,33,3,2,80,23,57,2.68,0
+Serie A,Parma Calcio 1913,2010,12,11,13,14,39,47,-8,1.21,1,1,8,15,11,12,54,53,1,1.47,1,10,13,10,15,45,46,-1,1.29,0,6,15,13,10,58,46,12,1.53,0
+Serie A,US Palermo,2010,8,17,5,16,58,63,-5,1.47,1,2,16,11,10,17,52,62,-10,1.13,2,18,6,14,18,34,54,-20,0.84,2,0,0,0,0,0,0,0,0.0,2
+Serie A,AC Cesena,2010,15,11,10,17,38,50,-12,1.13,2,2,20,4,10,24,24,60,-36,0.58,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Serie A,AS Bari,2010,20,5,9,24,27,56,-29,0.63,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Serie A,Bologna FC 1909,2010,16,11,12,15,35,52,-17,1.11,2,1,9,13,12,13,41,43,-2,1.34,1,13,11,11,16,46,52,-6,1.16,2,19,5,14,19,28,58,-30,0.76,2
+Serie A,Brescia Calcio,2010,19,7,11,20,34,52,-18,0.84,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Serie A,UC Sampdoria,2010,18,8,12,18,33,49,-16,0.95,2,2,0,0,0,0,0,0,0,0.0,1,14,11,10,17,43,51,-8,1.11,1,12,12,9,17,48,62,-14,1.18,1
+Serie A,US Lecce,2010,17,11,8,19,46,66,-20,1.08,2,2,18,8,12,18,40,56,-16,0.95,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Serie A,AC Milan,2011,2,24,8,6,74,33,41,2.11,0,0,3,21,9,8,67,39,28,1.89,1,8,16,9,13,57,49,8,1.5,1,10,13,13,12,56,50,6,1.37,1
+Serie A,FC Internazionale,2011,6,17,7,14,58,55,3,1.53,0,1,9,16,6,16,55,57,-2,1.42,0,5,15,15,8,62,39,23,1.58,1,8,14,13,11,59,48,11,1.45,1
+Serie A,Juventus FC,2011,1,23,15,0,68,20,48,2.21,0,0,1,27,6,5,71,24,47,2.29,0,1,33,3,2,80,23,57,2.68,0,1,26,9,3,72,24,48,2.29,0
+Serie A,SS Lazio,2011,4,18,8,12,56,47,9,1.63,0,1,7,18,7,13,51,42,9,1.61,1,9,15,11,12,54,54,0,1.47,0,3,21,6,11,71,38,33,1.82,0
+Serie A,SSC Napoli,2011,5,16,13,9,66,46,20,1.61,0,0,2,23,9,6,73,36,37,2.05,0,3,23,9,6,77,39,38,2.05,0,5,18,9,11,70,54,16,1.66,0
+Serie A,Udinese Calcio,2011,3,18,10,10,52,35,17,1.68,0,0,5,18,12,8,59,45,14,1.74,1,13,12,8,18,46,57,-11,1.16,2,16,10,11,17,43,56,-13,1.08,2
+Serie A,AC Siena,2011,14,11,11,16,45,45,0,1.16,1,2,19,9,9,20,36,57,-21,0.79,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Serie A,ACF Fiorentina,2011,13,11,13,14,37,43,-6,1.21,1,0,4,21,7,10,72,44,28,1.84,0,4,19,8,11,65,44,21,1.71,0,4,18,10,10,61,46,15,1.68,0
+Serie A,AS Roma,2011,7,16,8,14,60,54,6,1.47,1,0,6,18,8,12,71,56,15,1.63,0,2,26,7,5,72,25,47,2.24,0,2,19,13,6,54,31,23,1.84,0
+Serie A,Atalanta BC,2011,12,13,13,12,41,43,-2,1.21,1,2,15,11,9,18,39,56,-17,1.05,1,11,15,5,18,43,51,-8,1.32,2,17,7,16,15,38,57,-19,0.97,2
+Serie A,Bologna FC 1909,2011,9,13,12,13,41,43,-2,1.34,1,1,13,11,11,16,46,52,-6,1.16,2,19,5,14,19,28,58,-30,0.76,2,0,0,0,0,0,0,0,0.0,2
+Serie A,Catania SSD,2011,11,11,15,12,47,52,-5,1.26,1,1,8,15,11,12,50,46,4,1.47,2,18,8,8,22,34,66,-32,0.84,2,0,0,0,0,0,0,0,0.0,2
+Serie A,Chievo Verona,2011,10,12,13,13,35,45,-10,1.29,1,1,12,12,9,17,37,52,-15,1.18,2,16,10,6,22,34,54,-20,0.95,1,14,10,13,15,28,41,-13,1.13,1
+Serie A,Parma Calcio 1913,2011,8,15,11,12,54,53,1,1.47,1,1,10,13,10,15,45,46,-1,1.29,0,6,15,13,10,58,46,12,1.53,2,20,6,8,24,33,75,-42,0.5,2
+Serie A,AC Cesena,2011,20,4,10,24,24,60,-36,0.58,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,19,4,12,22,36,73,-37,0.63,2
+Serie A,Cagliari Calcio,2011,15,10,13,15,37,46,-9,1.13,2,1,11,12,11,15,43,55,-12,1.24,2,15,9,12,17,34,53,-19,1.03,2,18,8,10,20,48,68,-20,0.89,2
+Serie A,Genoa CFC,2011,17,11,9,18,50,69,-19,1.11,2,2,17,8,14,16,38,52,-14,1.0,1,14,11,11,16,41,50,-9,1.16,0,6,16,11,11,62,47,15,1.55,0
+Serie A,Novara Calcio 1908,2011,19,7,11,20,35,65,-30,0.84,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Serie A,US Lecce,2011,18,8,12,18,40,56,-16,0.95,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Serie A,US Palermo,2011,16,11,10,17,52,62,-10,1.13,2,2,18,6,14,18,34,54,-20,0.84,2,0,0,0,0,0,0,0,0.0,1,11,12,13,13,53,55,-2,1.29,1
+Serie A,AC Milan,2012,3,21,9,8,67,39,28,1.89,0,1,8,16,9,13,57,49,8,1.5,1,10,13,13,12,56,50,6,1.37,1,7,15,12,11,49,43,6,1.5,1
+Serie A,ACF Fiorentina,2012,4,21,7,10,72,44,28,1.84,0,0,4,19,8,11,65,44,21,1.71,0,4,18,10,10,61,46,15,1.68,0,5,18,10,10,60,42,18,1.68,0
+Serie A,AS Roma,2012,6,18,8,12,71,56,15,1.63,0,0,2,26,7,5,72,25,47,2.24,0,2,19,13,6,54,31,23,1.84,0,3,23,11,4,83,41,42,2.11,0
+Serie A,Juventus FC,2012,1,27,6,5,71,24,47,2.29,0,0,1,33,3,2,80,23,57,2.68,0,1,26,9,3,72,24,48,2.29,0,1,29,4,5,75,20,55,2.39,0
+Serie A,SSC Napoli,2012,2,23,9,6,73,36,37,2.05,0,0,3,23,9,6,77,39,38,2.05,0,5,18,9,11,70,54,16,1.66,0,2,25,7,6,80,32,48,2.16,0
+Serie A,Udinese Calcio,2012,5,18,12,8,59,45,14,1.74,0,1,13,12,8,18,46,57,-11,1.16,2,16,10,11,17,43,56,-13,1.08,2,17,10,9,19,35,60,-25,1.03,2
+Serie A,Bologna FC 1909,2012,13,11,11,16,46,52,-6,1.16,1,2,19,5,14,19,28,58,-30,0.76,2,0,0,0,0,0,0,0,0.0,1,14,11,9,18,33,45,-12,1.11,1
+Serie A,Cagliari Calcio,2012,11,12,11,15,43,55,-12,1.24,1,2,15,9,12,17,34,53,-19,1.03,2,18,8,10,20,48,68,-20,0.89,2,0,0,0,0,0,0,0,0.0,2
+Serie A,Catania SSD,2012,8,15,11,12,50,46,4,1.47,1,2,18,8,8,22,34,66,-32,0.84,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Serie A,Chievo Verona,2012,12,12,9,17,37,52,-15,1.18,1,2,16,10,6,22,34,54,-20,0.95,1,14,10,13,15,28,41,-13,1.13,1,9,13,11,14,43,45,-2,1.32,1
+Serie A,FC Internazionale,2012,9,16,6,16,55,57,-2,1.42,1,0,5,15,15,8,62,39,23,1.58,1,8,14,13,11,59,48,11,1.45,0,4,20,7,11,50,38,12,1.76,0
+Serie A,Parma Calcio 1913,2012,10,13,10,15,45,46,-1,1.29,1,0,6,15,13,10,58,46,12,1.53,2,20,6,8,24,33,75,-42,0.5,2,0,0,0,0,0,0,0,0.0,2
+Serie A,SS Lazio,2012,7,18,7,13,51,42,9,1.61,1,1,9,15,11,12,54,54,0,1.47,0,3,21,6,11,71,38,33,1.82,1,8,15,9,14,52,52,0,1.42,1
+Serie A,UC Sampdoria,2012,14,11,10,17,43,51,-8,1.11,1,1,12,12,9,17,48,62,-14,1.18,1,7,13,17,8,48,42,6,1.47,2,15,10,10,18,48,61,-13,1.05,2
+Serie A,AC Siena,2012,19,9,9,20,36,57,-21,0.79,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Serie A,Atalanta BC,2012,15,11,9,18,39,56,-17,1.05,2,1,11,15,5,18,43,51,-8,1.32,2,17,7,16,15,38,57,-19,0.97,1,13,11,12,15,41,47,-6,1.18,1
+Serie A,Genoa CFC,2012,17,8,14,16,38,52,-14,1.0,2,1,14,11,11,16,41,50,-9,1.16,0,6,16,11,11,62,47,15,1.55,1,11,13,7,18,45,48,-3,1.21,1
+Serie A,Pescara Calcio,2012,20,6,4,28,27,84,-57,0.58,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Serie A,Torino FC,2012,16,8,16,14,46,55,-9,1.03,2,1,7,15,12,11,58,48,10,1.5,1,9,14,12,12,48,45,3,1.42,1,12,12,9,17,52,55,-3,1.18,1
+Serie A,US Palermo,2012,18,6,14,18,34,54,-20,0.84,2,2,0,0,0,0,0,0,0,0.0,1,11,12,13,13,53,55,-2,1.29,2,16,10,9,19,38,65,-27,1.03,2
+Serie A,ACF Fiorentina,2013,4,19,8,11,65,44,21,1.71,0,0,4,18,10,10,61,46,15,1.68,0,5,18,10,10,60,42,18,1.68,1,8,16,12,10,63,57,6,1.58,1
+Serie A,AS Roma,2013,2,26,7,5,72,25,47,2.24,0,0,2,19,13,6,54,31,23,1.84,0,3,23,11,4,83,41,42,2.11,0,2,28,3,7,90,38,52,2.29,0
+Serie A,FC Internazionale,2013,5,15,15,8,62,39,23,1.58,0,1,8,14,13,11,59,48,11,1.45,0,4,20,7,11,50,38,12,1.76,1,7,19,5,14,72,49,23,1.63,1
+Serie A,Juventus FC,2013,1,33,3,2,80,23,57,2.68,0,0,1,26,9,3,72,24,48,2.29,0,1,29,4,5,75,20,55,2.39,0,1,29,4,5,77,27,50,2.39,0
+Serie A,Parma Calcio 1913,2013,6,15,13,10,58,46,12,1.53,0,2,20,6,8,24,33,75,-42,0.5,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Serie A,SSC Napoli,2013,3,23,9,6,77,39,38,2.05,0,0,5,18,9,11,70,54,16,1.66,0,2,25,7,6,80,32,48,2.16,0,3,26,8,4,94,39,55,2.26,0
+Serie A,AC Milan,2013,8,16,9,13,57,49,8,1.5,1,1,10,13,13,12,56,50,6,1.37,1,7,15,12,11,49,43,6,1.5,0,6,18,9,11,57,45,12,1.66,0
+Serie A,Atalanta BC,2013,11,15,5,18,43,51,-8,1.32,1,2,17,7,16,15,38,57,-19,0.97,1,13,11,12,15,41,47,-6,1.18,0,4,21,9,8,62,41,21,1.89,0
+Serie A,Genoa CFC,2013,14,11,11,16,41,50,-9,1.16,1,0,6,16,11,11,62,47,15,1.55,1,11,13,7,18,45,48,-3,1.21,2,16,9,9,20,38,64,-26,0.95,2
+Serie A,Hellas Verona,2013,10,16,6,16,62,68,-6,1.42,1,1,13,11,13,14,49,65,-16,1.21,2,20,5,13,20,34,63,-29,0.74,2,0,0,0,0,0,0,0,0.0,2
+Serie A,SS Lazio,2013,9,15,11,12,54,54,0,1.47,1,0,3,21,6,11,71,38,33,1.82,1,8,15,9,14,52,52,0,1.42,0,5,21,7,10,74,51,23,1.84,0
+Serie A,Torino FC,2013,7,15,12,11,58,48,10,1.5,1,1,9,14,12,12,48,45,3,1.42,1,12,12,9,17,52,55,-3,1.18,1,9,13,14,11,71,66,5,1.39,1
+Serie A,UC Sampdoria,2013,12,12,9,17,48,62,-14,1.18,1,1,7,13,17,8,48,42,6,1.47,2,15,10,10,18,48,61,-13,1.05,1,10,12,12,14,49,55,-6,1.26,1
+Serie A,Udinese Calcio,2013,13,12,8,18,46,57,-11,1.16,1,2,16,10,11,17,43,56,-13,1.08,2,17,10,9,19,35,60,-25,1.03,1,13,12,9,17,47,56,-9,1.18,1
+Serie A,AS Livorno,2013,20,6,7,25,39,77,-38,0.66,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Serie A,Bologna FC 1909,2013,19,5,14,19,28,58,-30,0.76,2,2,0,0,0,0,0,0,0,0.0,1,14,11,9,18,33,45,-12,1.11,2,15,11,8,19,40,58,-18,1.08,2
+Serie A,Cagliari Calcio,2013,15,9,12,17,34,53,-19,1.03,2,2,18,8,10,20,48,68,-20,0.89,2,0,0,0,0,0,0,0,0.0,1,11,14,5,19,55,76,-21,1.24,1
+Serie A,Catania SSD,2013,18,8,8,22,34,66,-32,0.84,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Serie A,Chievo Verona,2013,16,10,6,22,34,54,-20,0.95,2,1,14,10,13,15,28,41,-13,1.13,1,9,13,11,14,43,45,-2,1.32,1,14,12,7,19,43,61,-18,1.13,1
+Serie A,US Sassuolo,2013,17,9,7,22,43,72,-29,0.89,2,1,12,12,13,13,49,57,-8,1.29,0,6,16,13,9,49,40,9,1.61,1,12,13,7,18,58,63,-5,1.21,1
+Serie A,ACF Fiorentina,2014,4,18,10,10,61,46,15,1.68,0,0,5,18,10,10,60,42,18,1.68,1,8,16,12,10,63,57,6,1.58,1,8,16,9,13,54,46,8,1.5,1
+Serie A,AS Roma,2014,2,19,13,6,54,31,23,1.84,0,0,3,23,11,4,83,41,42,2.11,0,2,28,3,7,90,38,52,2.29,0,3,23,8,7,61,28,33,2.03,0
+Serie A,Genoa CFC,2014,6,16,11,11,62,47,15,1.55,0,1,11,13,7,18,45,48,-3,1.21,2,16,9,9,20,38,64,-26,0.95,1,12,11,8,19,33,43,-10,1.08,1
+Serie A,Juventus FC,2014,1,26,9,3,72,24,48,2.29,0,0,1,29,4,5,75,20,55,2.39,0,1,29,4,5,77,27,50,2.39,0,1,30,5,3,86,24,62,2.5,0
+Serie A,SS Lazio,2014,3,21,6,11,71,38,33,1.82,0,1,8,15,9,14,52,52,0,1.42,0,5,21,7,10,74,51,23,1.84,0,5,21,9,8,89,49,40,1.89,0
+Serie A,SSC Napoli,2014,5,18,9,11,70,54,16,1.66,0,0,2,25,7,6,80,32,48,2.16,0,3,26,8,4,94,39,55,2.26,0,2,28,7,3,77,29,48,2.39,0
+Serie A,AC Milan,2014,10,13,13,12,56,50,6,1.37,1,1,7,15,12,11,49,43,6,1.5,0,6,18,9,11,57,45,12,1.66,0,6,18,10,10,56,42,14,1.68,0
+Serie A,Chievo Verona,2014,14,10,13,15,28,41,-13,1.13,1,1,9,13,11,14,43,45,-2,1.32,1,14,12,7,19,43,61,-18,1.13,1,13,10,10,18,36,59,-23,1.05,1
+Serie A,FC Internazionale,2014,8,14,13,11,59,48,11,1.45,1,0,4,20,7,11,50,38,12,1.76,1,7,19,5,14,72,49,23,1.63,0,4,20,12,6,66,30,36,1.89,0
+Serie A,Hellas Verona,2014,13,11,13,14,49,65,-16,1.21,1,2,20,5,13,20,34,63,-29,0.74,2,0,0,0,0,0,0,0,0.0,2,19,7,4,27,30,78,-48,0.66,2
+Serie A,Torino FC,2014,9,14,12,12,48,45,3,1.42,1,1,12,12,9,17,52,55,-3,1.18,1,9,13,14,11,71,66,5,1.39,1,9,13,15,10,54,46,8,1.42,1
+Serie A,UC Sampdoria,2014,7,13,17,8,48,42,6,1.47,1,2,15,10,10,18,48,61,-13,1.05,1,10,12,12,14,49,55,-6,1.26,1,10,16,6,16,56,60,-4,1.42,1
+Serie A,US Palermo,2014,11,12,13,13,53,55,-2,1.29,1,2,16,10,9,19,38,65,-27,1.03,2,19,6,8,24,33,77,-44,0.68,2,0,0,0,0,0,0,0,0.0,2
+Serie A,US Sassuolo,2014,12,12,13,13,49,57,-8,1.29,1,0,6,16,13,9,49,40,9,1.61,1,12,13,7,18,58,63,-5,1.21,1,11,11,10,17,29,59,-30,1.13,1
+Serie A,AC Cesena,2014,19,4,12,22,36,73,-37,0.63,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Serie A,Atalanta BC,2014,17,7,16,15,38,57,-19,0.97,2,1,13,11,12,15,41,47,-6,1.18,0,4,21,9,8,62,41,21,1.89,1,7,16,12,10,57,39,18,1.58,1
+Serie A,Cagliari Calcio,2014,18,8,10,20,48,68,-20,0.89,2,2,0,0,0,0,0,0,0,0.0,1,11,14,5,19,55,76,-21,1.24,2,16,11,6,21,33,61,-28,1.03,2
+Serie A,Empoli FC,2014,15,8,18,12,46,52,-6,1.11,2,1,10,12,10,16,40,49,-9,1.21,2,18,8,8,22,29,61,-32,0.84,2,0,0,0,0,0,0,0,0.0,2
+Serie A,Parma Calcio 1913,2014,20,6,8,24,33,75,-42,0.5,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Serie A,Udinese Calcio,2014,16,10,11,17,43,56,-13,1.08,2,2,17,10,9,19,35,60,-25,1.03,1,13,12,9,17,47,56,-9,1.18,1,14,12,4,22,48,63,-15,1.05,1
+Serie A,ACF Fiorentina,2015,5,18,10,10,60,42,18,1.68,0,1,8,16,12,10,63,57,6,1.58,1,8,16,9,13,54,46,8,1.5,2,16,8,17,13,47,45,2,1.08,2
+Serie A,AS Roma,2015,3,23,11,4,83,41,42,2.11,0,0,2,28,3,7,90,38,52,2.29,0,3,23,8,7,61,28,33,2.03,0,6,18,12,8,66,48,18,1.74,0
+Serie A,FC Internazionale,2015,4,20,7,11,50,38,12,1.76,0,1,7,19,5,14,72,49,23,1.63,0,4,20,12,6,66,30,36,1.89,0,4,20,9,9,57,33,24,1.82,0
+Serie A,Juventus FC,2015,1,29,4,5,75,20,55,2.39,0,0,1,29,4,5,77,27,50,2.39,0,1,30,5,3,86,24,62,2.5,0,1,28,6,4,70,30,40,2.37,0
+Serie A,SSC Napoli,2015,2,25,7,6,80,32,48,2.16,0,0,3,26,8,4,94,39,55,2.26,0,2,28,7,3,77,29,48,2.39,0,2,24,7,7,74,36,38,2.08,0
+Serie A,US Sassuolo,2015,6,16,13,9,49,40,9,1.61,0,1,12,13,7,18,58,63,-5,1.21,1,11,11,10,17,29,59,-30,1.13,1,11,9,16,13,53,60,-7,1.13,1
+Serie A,AC Milan,2015,7,15,12,11,49,43,6,1.5,1,0,6,18,9,11,57,45,12,1.66,0,6,18,10,10,56,42,14,1.68,0,5,19,11,8,55,36,19,1.79,0
+Serie A,Atalanta BC,2015,13,11,12,15,41,47,-6,1.18,1,0,4,21,9,8,62,41,21,1.89,1,7,16,12,10,57,39,18,1.58,0,3,20,9,9,77,46,31,1.82,0
+Serie A,Bologna FC 1909,2015,14,11,9,18,33,45,-12,1.11,1,2,15,11,8,19,40,58,-18,1.08,2,15,11,6,21,40,52,-12,1.03,1,10,11,11,16,48,56,-8,1.16,1
+Serie A,Chievo Verona,2015,9,13,11,14,43,45,-2,1.32,1,1,14,12,7,19,43,61,-18,1.13,1,13,10,10,18,36,59,-23,1.05,2,20,2,14,22,25,75,-50,0.45,2
+Serie A,Empoli FC,2015,10,12,10,16,40,49,-9,1.21,1,2,18,8,8,22,29,61,-32,0.84,2,0,0,0,0,0,0,0,0.0,2,18,10,8,20,51,70,-19,1.0,2
+Serie A,Genoa CFC,2015,11,13,7,18,45,48,-3,1.21,1,2,16,9,9,20,38,64,-26,0.95,1,12,11,8,19,33,43,-10,1.08,2,17,8,14,16,39,57,-18,1.0,2
+Serie A,SS Lazio,2015,8,15,9,14,52,52,0,1.42,1,0,5,21,7,10,74,51,23,1.84,0,5,21,9,8,89,49,40,1.89,1,8,17,8,13,56,46,10,1.55,1
+Serie A,Torino FC,2015,12,12,9,17,52,55,-3,1.18,1,1,9,13,14,11,71,66,5,1.39,1,9,13,15,10,54,46,8,1.42,1,7,16,15,7,52,37,15,1.66,1
+Serie A,Carpi FC 1909,2015,18,9,11,18,37,57,-20,1.0,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Serie A,Frosinone Calcio,2015,19,8,7,23,35,76,-41,0.82,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,19,5,10,23,29,69,-40,0.66,2
+Serie A,Hellas Verona,2015,20,5,13,20,34,63,-29,0.74,2,2,0,0,0,0,0,0,0,0.0,2,19,7,4,27,30,78,-48,0.66,2,0,0,0,0,0,0,0,0.0,2
+Serie A,UC Sampdoria,2015,15,10,10,18,48,61,-13,1.05,2,1,10,12,12,14,49,55,-6,1.26,1,10,16,6,16,56,60,-4,1.42,1,9,15,8,15,60,51,9,1.39,1
+Serie A,US Palermo,2015,16,10,9,19,38,65,-27,1.03,2,2,19,6,8,24,33,77,-44,0.68,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Serie A,Udinese Calcio,2015,17,10,9,19,35,60,-25,1.03,2,1,13,12,9,17,47,56,-9,1.18,1,14,12,4,22,48,63,-15,1.05,1,12,11,10,17,39,53,-14,1.13,1
+Serie A,AC Milan,2016,6,18,9,11,57,45,12,1.66,0,0,6,18,10,10,56,42,14,1.68,0,5,19,11,8,55,36,19,1.79,0,6,19,9,10,63,46,17,1.74,0
+Serie A,AS Roma,2016,2,28,3,7,90,38,52,2.29,0,0,3,23,8,7,61,28,33,2.03,0,6,18,12,8,66,48,18,1.74,0,5,21,7,10,77,51,26,1.84,0
+Serie A,Atalanta BC,2016,4,21,9,8,62,41,21,1.89,0,1,7,16,12,10,57,39,18,1.58,0,3,20,9,9,77,46,31,1.82,0,3,23,9,6,98,48,50,2.05,0
+Serie A,Juventus FC,2016,1,29,4,5,77,27,50,2.39,0,0,1,30,5,3,86,24,62,2.5,0,1,28,6,4,70,30,40,2.37,0,1,26,5,7,76,43,33,2.18,0
+Serie A,SS Lazio,2016,5,21,7,10,74,51,23,1.84,0,0,5,21,9,8,89,49,40,1.89,1,8,17,8,13,56,46,10,1.55,0,4,24,6,8,79,42,37,2.05,0
+Serie A,SSC Napoli,2016,3,26,8,4,94,39,55,2.26,0,0,2,28,7,3,77,29,48,2.39,0,2,24,7,7,74,36,38,2.08,1,7,18,8,12,61,50,11,1.63,1
+Serie A,ACF Fiorentina,2016,8,16,12,10,63,57,6,1.58,1,1,8,16,9,13,54,46,8,1.5,2,16,8,17,13,47,45,2,1.08,1,10,12,13,13,51,48,3,1.29,1
+Serie A,Cagliari Calcio,2016,11,14,5,19,55,76,-21,1.24,1,2,16,11,6,21,33,61,-28,1.03,2,15,10,11,17,36,54,-18,1.08,1,14,11,12,15,52,56,-4,1.18,1
+Serie A,Chievo Verona,2016,14,12,7,19,43,61,-18,1.13,1,1,13,10,10,18,36,59,-23,1.05,2,20,2,14,22,25,75,-50,0.45,2,0,0,0,0,0,0,0,0.0,2
+Serie A,FC Internazionale,2016,7,19,5,14,72,49,23,1.63,1,0,4,20,12,6,66,30,36,1.89,0,4,20,9,9,57,33,24,1.82,0,2,24,10,4,81,36,45,2.16,0
+Serie A,Torino FC,2016,9,13,14,11,71,66,5,1.39,1,1,9,13,15,10,54,46,8,1.42,1,7,16,15,7,52,37,15,1.66,2,16,11,7,20,46,68,-22,1.05,2
+Serie A,UC Sampdoria,2016,10,12,12,14,49,55,-6,1.26,1,1,10,16,6,16,56,60,-4,1.42,1,9,15,8,15,60,51,9,1.39,2,15,12,6,20,48,65,-17,1.11,2
+Serie A,US Sassuolo,2016,12,13,7,18,58,63,-5,1.21,1,1,11,11,10,17,29,59,-30,1.13,1,11,9,16,13,53,60,-7,1.13,1,8,14,9,15,69,63,6,1.34,1
+Serie A,Udinese Calcio,2016,13,12,9,17,47,56,-9,1.18,1,1,14,12,4,22,48,63,-15,1.05,1,12,11,10,17,39,53,-14,1.13,1,13,12,9,17,37,51,-14,1.18,1
+Serie A,Bologna FC 1909,2016,15,11,8,19,40,58,-18,1.08,2,2,15,11,6,21,40,52,-12,1.03,1,10,11,11,16,48,56,-8,1.16,1,12,12,11,15,52,65,-13,1.24,1
+Serie A,Empoli FC,2016,18,8,8,22,29,61,-32,0.84,2,2,0,0,0,0,0,0,0,0.0,2,18,10,8,20,51,70,-19,1.0,2,0,0,0,0,0,0,0,0.0,2
+Serie A,FC Crotone,2016,17,9,7,22,34,58,-24,0.89,2,2,18,9,8,21,40,66,-26,0.92,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Serie A,Genoa CFC,2016,16,9,9,20,38,64,-26,0.95,2,1,12,11,8,19,33,43,-10,1.08,2,17,8,14,16,39,57,-18,1.0,2,17,10,9,19,47,73,-26,1.03,2
+Serie A,Pescara Calcio,2016,20,3,9,26,37,81,-44,0.47,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
+Serie A,US Palermo,2016,19,6,8,24,33,77,-44,0.68,2,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0,0,0,0.0,2
