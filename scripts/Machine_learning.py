@@ -17,8 +17,8 @@ import seaborn as sns
 # === Diretórios ===
 current_dir = os.getcwd()
 parent_dir = os.path.dirname(current_dir)
-input_dir = os.path.join(parent_dir, 'data', 'pre_process')
-output_dir = os.path.join(parent_dir, 'results')
+input_dir = os.path.join(parent_dir, 'data', 'pre_process_without_relegated')
+output_dir = os.path.join(parent_dir, 'results_without_relegated')
 
 # Criar pasta de resultados, se não existir
 os.makedirs(output_dir, exist_ok=True)
