@@ -25,8 +25,8 @@ from scipy.stats import friedmanchisquare
 # Diretórios
 current_dir = os.getcwd()
 parent_dir = os.path.dirname(current_dir)
-input_dir = os.path.join(parent_dir, 'data', 'pre_process_boost')
-output_dir = os.path.join(parent_dir, 'results_boost')
+input_dir = os.path.join(parent_dir, 'data', 'pre_process_boost_test')
+output_dir = os.path.join(parent_dir, 'results_boost_test')
 os.makedirs(output_dir, exist_ok=True)
 
 # Modelos e hiperparâmetros
@@ -169,7 +169,16 @@ for file in os.listdir(input_dir):
         # Estatística
         for metrica in ['f1_macro', 'accuracy', 'precision_macro', 'recall_macro']:
             df_met = all_metrics_df.pivot(columns='Modelo', values=metrica)
+        
+            # Teste de Friedman
             stat, p = friedmanchisquare(*[df_met[c].dropna() for c in df_met.columns])
+        
+            # Salva valor de p em um arquivo
+            with open(os.path.join(output_dir, f'{file[:-4]}_friedman_{metrica}.txt'), 'w') as f:
+                f.write(f'Estatística de Friedman: {stat:.4f}\n')
+                f.write(f'p-valor: {p:.6f}\n')
+        
+            # Teste post hoc apenas se p < 0.05
             if p < 0.05:
                 posthoc = sp.posthoc_nemenyi_friedman(df_met.values)
                 posthoc.columns = df_met.columns
