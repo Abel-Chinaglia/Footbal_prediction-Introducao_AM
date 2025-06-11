@@ -4,21 +4,22 @@ import numpy as np
 from sklearn.model_selection import GridSearchCV, StratifiedKFold
 from sklearn.preprocessing import StandardScaler
 from sklearn.pipeline import Pipeline
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import RandomForestClassifier, AdaBoostClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.svm import SVC
 from sklearn.naive_bayes import GaussianNB
+from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score, balanced_accuracy_score, precision_score, recall_score, f1_score, confusion_matrix
-
+from xgboost import XGBClassifier
 import matplotlib.pyplot as plt
 import seaborn as sns
 
 # === Diretórios ===
 current_dir = os.getcwd()
 parent_dir = os.path.dirname(current_dir)
-input_dir = os.path.join(parent_dir, 'data', 'pre_process_boost')
-output_dir = os.path.join(parent_dir, 'results_boost')
+input_dir = os.path.join(parent_dir, 'data', 'pre_process_without_relegated')
+output_dir = os.path.join(parent_dir, 'results_without_relegated')
 
 # Criar pasta de resultados, se não existir
 os.makedirs(output_dir, exist_ok=True)
@@ -26,15 +27,26 @@ os.makedirs(output_dir, exist_ok=True)
 # === Modelos e hiperparâmetros ===
 models = {
     'RandomForest': RandomForestClassifier(random_state=42),
+    'RandomForest_1000': RandomForestClassifier(n_estimators=1000, random_state=42),
     'LogisticRegression': LogisticRegression(max_iter=1000, random_state=42),
     'KNN': KNeighborsClassifier(),
     'SVM': SVC(probability=False, random_state=42),
-    'GaussianNB': GaussianNB()
+    'GaussianNB': GaussianNB(),
+    'AdaBoost_DT': AdaBoostClassifier(estimator=DecisionTreeClassifier(max_depth=1), random_state=42),
+    'AdaBoost_LR': AdaBoostClassifier(estimator=LogisticRegression(max_iter=1000), random_state=42),
+    'AdaBoost_NB': AdaBoostClassifier(estimator=GaussianNB(), random_state=42),
+    'XGBoost': XGBClassifier(random_state=42, eval_metric='logloss'),
+    'XGBoost_Tuned': XGBClassifier(random_state=42, eval_metric='logloss'),
+    'AdaBoost_XGB': AdaBoostClassifier(estimator=XGBClassifier(n_estimators=50, max_depth=3, random_state=42, eval_metric='logloss'), random_state=42)
 }
 
 param_grids = {
     'RandomForest': {
         'clf__n_estimators': [50, 100, 200],
+        'clf__max_depth': [None, 5, 10],
+        'clf__min_samples_split': [2, 5]
+    },
+    'RandomForest_1000': {
         'clf__max_depth': [None, 5, 10],
         'clf__min_samples_split': [2, 5]
     },
@@ -51,7 +63,35 @@ param_grids = {
         'clf__C': [0.1, 1, 10],
         'clf__kernel': ['linear', 'rbf']
     },
-    'GaussianNB': {}  # Sem hiperparâmetros
+    'GaussianNB': {},  # Sem hiperparâmetros
+    'AdaBoost_DT': {
+        'clf__n_estimators': [50, 100, 200],
+        'clf__learning_rate': [0.01, 0.1, 1.0]
+    },
+    'AdaBoost_LR': {
+        'clf__n_estimators': [50, 100, 200],
+        'clf__learning_rate': [0.01, 0.1, 1.0]
+    },
+    'AdaBoost_NB': {
+        'clf__n_estimators': [50, 100, 200],
+        'clf__learning_rate': [0.01, 0.1, 1.0]
+    },
+    'XGBoost': {
+        'clf__n_estimators': [100, 200],
+        'clf__max_depth': [3, 5, 7],
+        'clf__learning_rate': [0.01, 0.1]
+    },
+    'XGBoost_Tuned': {
+        'clf__n_estimators': [100, 200, 300],
+        'clf__max_depth': [3, 5, 7, 9],
+        'clf__learning_rate': [0.01, 0.05, 0.1, 0.2],
+        'clf__subsample': [0.6, 0.8, 1.0],
+        'clf__colsample_bytree': [0.6, 0.8, 1.0]
+    },
+    'AdaBoost_XGB': {
+        'clf__n_estimators': [50, 100],
+        'clf__learning_rate': [0.01, 0.1, 1.0]
+    }
 }
 
 # === Função de métricas ===
@@ -79,6 +119,12 @@ for file in os.listdir(input_dir):
         # Definir X e y
         X = data.iloc[:, :-1].values
         y = data.iloc[:, -1].values
+
+        # === Verificar e codificar rótulos, se necessário ===
+        if not np.issubdtype(y.dtype, np.integer):
+            from sklearn.preprocessing import LabelEncoder
+            le = LabelEncoder()
+            y = le.fit_transform(y)
 
         # === Nested CV ===
         cv_outer = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
@@ -134,10 +180,9 @@ for file in os.listdir(input_dir):
 
         # === Matrizes de confusão ===
         num_models = len(models)
-        fig, axes = plt.subplots(1, num_models, figsize=(5*num_models, 5))
+        fig, axes = plt.subplots(2, (num_models + 1) // 2, figsize=(5*((num_models + 1) // 2), 10))
 
-        if num_models == 1:
-            axes = [axes]  # Garantir iterabilidade
+        axes = axes.flatten()  # Achatar para facilitar iteração
 
         for ax, model_name in zip(axes, models.keys()):
             cm = confusion_matrix(y_true_all[model_name], y_pred_all[model_name])
@@ -146,6 +191,10 @@ for file in os.listdir(input_dir):
             ax.set_title(f'{model_name}\nAcurácia: {acc:.3f}')
             ax.set_xlabel('Predito')
             ax.set_ylabel('Verdadeiro')
+
+        # Desativar eixos extras, se houver
+        for i in range(len(models), len(axes)):
+            axes[i].axis('off')
 
         plt.tight_layout()
         plt.savefig(os.path.join(output_dir, f'{file[:-4]}_matriz_confusao.png'))
@@ -188,8 +237,6 @@ for file in os.listdir(input_dir):
         df_medias = pd.DataFrame(medias_dict).T.reset_index().rename(columns={'index': 'Modelo'})
         df_medias.to_excel(os.path.join(output_dir, f'{file[:-4]}_medias_metricas.xlsx'), index=False)
 
-        print(f"\n✅ Resultados salvos para {file} na pasta 'results'.")
+        print(f"\nResultados salvos para {file} na pasta 'results'.")
 
 print("\n=== Processo concluído para todos os arquivos CSV ===")
-
-
