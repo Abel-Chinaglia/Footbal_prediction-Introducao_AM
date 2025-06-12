@@ -1,0 +1,2 @@
+Estatística de Friedman: 10.5422
+p-valor: 0.159874

@@ -25,7 +25,7 @@ from scipy.stats import friedmanchisquare
 # Diretórios
 current_dir = os.getcwd()
 parent_dir = os.path.dirname(current_dir)
-input_dir = os.path.join(parent_dir, 'data', 'pre_process_repeated_ensemble')
+input_dir = os.path.join(parent_dir, 'data', 'pre_process_repeated')
 output_dir = os.path.join(parent_dir, 'results_repeated_boost_ensemble')
 os.makedirs(output_dir, exist_ok=True)
 
