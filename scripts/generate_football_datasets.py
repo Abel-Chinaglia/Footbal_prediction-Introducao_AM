@@ -1,3 +1,58 @@
+# =============================================================================
+# generate_football_datasets.py
+# =============================================================================
+# Autor: Abel Gonçalves Chinaglia
+# Doutorando no PPGRDF - FMRP - USP
+# Data: 5 jun. 2025
+# Versão do Python: 3.11
+
+# Descrição:
+# ----------
+# Este script processa dados brutos de clubes de futebol das principais ligas europeias
+# e gera três tipos de datasets prontos para análise e modelagem:
+# (1) dados de transferências, (2) dados de desempenho esportivo e (3) combinação de ambos.
+# Para cada tipo, o script cria janelas temporais de 1, 3 e 5 anos, incluindo dados do
+# ano atual e projeções de anos futuros.
+
+# Funcionalidades Principais:
+# ----------------------------
+# - Lê arquivos CSV de cinco ligas: Bundesliga, La Liga, Ligue 1, Premier League e Serie A
+# - Calcula métricas agregadas de transferências (valores, idades e posições)
+# - Organiza dados de desempenho por temporada (vitórias, gols, ranking etc.)
+# - Gera datasets com janelas temporais de 1, 3 e 5 anos
+# - Adiciona colunas de previsão (anos futuros) e variável alvo (PF futura)
+# - Combina dados de transferências e desempenho em um terceiro dataset
+# - Salva todos os datasets gerados em formato CSV no diretório `results/`
+
+# Execução:
+# ---------
+# - Verifique se os arquivos CSV de entrada estão em: ../data/
+#   Arquivos esperados:
+#     * bundesliga_full.csv
+#     * la_liga_full.csv
+#     * ligue_1_fr_full.csv
+#     * premier_league_full.csv
+#     * serie_a_it_full.csv
+# - Execute o script:
+#   $ python generate_football_datasets.py
+# - Os arquivos gerados serão salvos em:
+#   ./results/
+
+# Estrutura dos Datasets Gerados:
+# -------------------------------
+# Dataset 1 (transferências): dados por clube e ano com projeções futuras
+# Dataset 2 (desempenho): métricas esportivas com projeções e PF futura como alvo
+# Dataset 3 (combinado): junção dos datasets 1 e 2 para análises integradas
+# - Para cada dataset: versões com janelas de 1, 3 e 5 anos
+# - Arquivos por liga e versões agregadas com todas as ligas
+
+# Licença:
+# --------
+# Este programa está licenciado sob a GNU Lesser General Public License v3.0.
+# Para mais informações, acesse: https://www.gnu.org/licenses/lgpl-3.0.html
+
+# =============================================================================
+
 import os
 import pandas as pd
 import numpy as np

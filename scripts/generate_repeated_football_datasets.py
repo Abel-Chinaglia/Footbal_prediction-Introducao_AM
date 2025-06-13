@@ -1,3 +1,56 @@
+# =============================================================================
+# generate_repeated_football_datasets.py
+# =============================================================================
+# Autor: Abel Gonçalves Chinaglia
+# Doutorando no PPGRDF - FMRP - USP
+# Data: 5 jun. 2025
+# Versão do Python: 3.11
+
+# Descrição:
+# ----------
+# Este script gera bancos de dados estruturados a partir de dados brutos de clubes
+# de futebol das principais ligas europeias. A partir dos dados de transferências e
+# desempenho esportivo, o script cria três conjuntos de dados (transferências, desempenho
+# e combinado) com janelas temporais de 1, 3 e 5 anos, incluindo projeções para anos futuros.
+
+# Funcionalidades Principais:
+# ----------------------------
+# - Processa dados de cinco ligas europeias (Bundesliga, La Liga, Ligue 1, Premier League e Serie A)
+# - Agrupa e calcula métricas de transferências por posição e tipo (entrada/saída)
+# - Calcula métricas de desempenho esportivo por temporada
+# - Gera datasets com dados atuais e projeções para anos futuros (1, 3 e 5 anos)
+# - Implementa lógica para preencher valores faltantes com dados do ano anterior mais próximo
+# - Salva os datasets formatados em arquivos CSV organizados por liga e por tipo de dataset
+
+# Execução:
+# ---------
+# - Certifique-se de que os arquivos de entrada estejam no diretório: /data/
+#   Arquivos esperados: bundesliga_full.csv, la_liga_full.csv, ligue_1_fr_full.csv,
+#   premier_league_full.csv, serie_a_it_full.csv
+# - Execute o script com:
+#   $ python generate_repeated_football_datasets.py
+# - Os arquivos gerados serão salvos no diretório: /data/pre_process_repeated/
+
+# Estrutura dos Datasets Gerados:
+# -------------------------------
+# Dataset 1: Dados de transferências com projeções futuras
+# Dataset 2: Dados de desempenho com projeções e alvo (PF em n anos)
+# Dataset 3: Combinação dos dados de transferências e desempenho
+# - Para cada dataset: versões com janelas de 1, 3 e 5 anos
+# - Arquivos CSV separados por liga e arquivos combinados com todas as ligas
+
+# Formato dos Arquivos de Entrada:
+# --------------------------------
+# - Dados brutos com colunas como: league_name, club_name, year, Rk, W, D, L, GF, GA, fee_cleaned, position, etc.
+# - Os valores de PF (Performance Final) são atribuídos com base no ranking da temporada
+
+# Licença:
+# --------
+# Este programa está licenciado sob a GNU Lesser General Public License v3.0.
+# Para mais informações, acesse: https://www.gnu.org/licenses/lgpl-3.0.html
+
+# =============================================================================
+
 import os
 import pandas as pd
 import numpy as np

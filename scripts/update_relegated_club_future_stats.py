@@ -1,3 +1,52 @@
+# =============================================================================
+# update_relegated_club_future_stats.py
+# =============================================================================
+# Autor: Abel Gonçalves Chinaglia
+# Doutorando no PPGRDF - FMRP - USP
+# Data: 5 jun. 2025
+# Versão do Python: 3.11
+
+# Descrição:
+# ----------
+# Este script atualiza os dados futuros de desempenho de clubes rebaixados em datasets
+# temporais (data_2 e data_3) com informações históricas não padrão do ano imediatamente
+# anterior. O objetivo é evitar que valores futuros nulos/padrão prejudiquem a modelagem
+# de aprendizado de máquina ao fornecer estimativas mais realistas baseadas em dados prévios.
+
+# Funcionalidades Principais:
+# ----------------------------
+# - Identifica valores padrão (PF=2, estatísticas zeradas) em colunas de anos futuros
+# - Busca dados reais do ano anterior para substituir valores padrão
+# - Atualiza arquivos para janelas temporais de 3 e 5 anos (data_2 e data_3)
+# - Garante continuidade temporal nos dados para clubes rebaixados
+# - Trabalha com arquivos separados por liga e com agregação geral (all_leagues)
+# - Realiza cópia segura de arquivos antes da modificação
+
+# Execução:
+# ---------
+# - Certifique-se de que os arquivos estejam na pasta: ../data/pre_process/
+# - Execute o script com:
+#   $ python update_relegated_club_future_stats.py
+# - Os arquivos corrigidos serão salvos em:
+#   ../data/pre_process_repeated/
+
+# Estrutura dos Arquivos Atualizados:
+# -----------------------------------
+# Arquivos esperados:
+#   * data_2_3years_*.csv
+#   * data_2_5years_*.csv
+#   * data_3_3years_*.csv
+#   * data_3_5years_*.csv
+# Colunas atualizadas:
+#   * {col}_N_years_future para colunas de desempenho (PF, Rk, W, D, L, GF, GA, GD, Pts/MP)
+#   * PF_next_N_years (variável alvo da regressão/classificação)
+
+# Licença:
+# --------
+# Este programa está licenciado sob a GNU Lesser General Public License v3.0.
+# Para mais informações, acesse: https://www.gnu.org/licenses/lgpl-3.0.html
+
+# =============================================================================
 
 import os
 import pandas as pd
