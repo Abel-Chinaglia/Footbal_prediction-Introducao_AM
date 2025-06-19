@@ -13,8 +13,7 @@ except ImportError:
 
 # 1. Leitura dos arquivos
 datapath = 'D:/Introducao_AM-5955006/results_repeated_boost_ensemble'
-output_path = os.path.join(datapath, 'comparison_by_dataset')
-os.makedirs(output_path, exist_ok=True)
+
 
 files = glob.glob(os.path.join(datapath, '*_resultados_folds.xlsx'))
 records = []
@@ -48,7 +47,7 @@ idx = data_mean.groupby(['dataset', 'duration', 'league'])['accuracy'].idxmax()
 best = data_mean.loc[idx].reset_index(drop=True)
 
 # 5. Exporta novo CSV sem sobrescrever o antigo
-best.to_csv(os.path.join(output_path, 'final_best_models_by_dataset.csv'), index=False)
+best.to_csv(os.path.join(datapath, 'final_best_models_by_dataset.csv'), index=False)
 
 # 6. Parâmetros de datasets
 dataset_orders = ['data_1', 'data_2', 'data_3']
