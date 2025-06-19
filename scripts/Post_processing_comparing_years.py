@@ -50,86 +50,8 @@ duration_map = {'1year': '1 year', '3years': '3 years', '5years': '5 years'}
 x_labels = [duration_map[d] for d in x_orders]
 x_pos = np.arange(len(x_orders))
 
-# 7. Friedman + Nemenyi (Comparando os melhores modelos de cada liga, por duração)
-sig = {}
-pvals = {}
-nemenyi_results = {}
 
-for ds in best['dataset'].unique():
-    df_ds = best[best['dataset'] == ds]
-
-    # Criar uma tabela: index = liga, columns = duration, values = melhor accuracy (melhor modelo por liga e duração)
-    pivot_data = []
-
-    for duration in x_orders:
-        df_duration = df_ds[df_ds['duration'] == duration]
-
-        # Para cada liga, pegar o modelo com maior acurácia naquela duração
-        for league in df_duration['league'].unique():
-            df_league = df_duration[df_duration['league'] == league]
-
-            if df_league.empty:
-                continue
-
-            best_row = df_league.loc[df_league['accuracy'].idxmax()]
-            pivot_data.append({
-                'league': league,
-                'duration': duration,
-                'accuracy': best_row['accuracy']
-            })
-
-    # Montar o DataFrame final (ligas x durations)
-    df_best = pd.DataFrame(pivot_data)
-    df_best['accuracy'] = pd.to_numeric(df_best['accuracy'], errors='coerce')
-    piv = df_best.pivot(index='league', columns='duration', values='accuracy')
-
-    # Remover ligas que tenham NaN em alguma duração
-    piv = piv.dropna()
-
-    # Continuar só se houver pelo menos 2 ligas com dados completos
-    if piv.shape[0] < 2:
-        print(f"Dataset {ds} - Não há pelo menos 2 ligas com dados completos em todas as durações.")
-        sig[ds] = False
-        pvals[ds] = np.nan
-        continue
-
-    try:
-        # Friedman: comparando as durações
-        stat = friedmanchisquare(*[piv[col] for col in x_orders])
-        pval = stat.pvalue
-        pvals[ds] = pval
-        signif = pval < 0.05
-        sig[ds] = signif
-
-        print(f"Dataset {ds} - p-valor Friedman: {pval:.5f}")
-              
-
-        if signif:
-            df_long = piv.reset_index().melt(id_vars='league', var_name='duration', value_name='accuracy')
-        
-            df_long['duration'] = df_long['duration'].astype(str).str.strip()
-            df_long['accuracy'] = pd.to_numeric(df_long['accuracy'], errors='coerce')
-            df_long = df_long.dropna()
-        
-            # Transformar em categoria e reindexar
-            df_long['league'] = df_long['league'].astype('category')
-            df_long['duration'] = df_long['duration'].astype('category')
-            df_long['league'] = df_long['league'].cat.set_categories(sorted(df_long['league'].unique()))
-            df_long['duration'] = df_long['duration'].cat.set_categories(sorted(df_long['duration'].unique()))
-        
-            nemenyi = sp.posthoc_nemenyi_friedman(df_long, y_col='accuracy', block_col='league', group_col='duration')
-            nemenyi_results[ds] = nemenyi
-        
-            outpath = os.path.join(datapath, f'nemenyi_{ds}_by_duration_best_per_league.xlsx')
-            nemenyi.to_excel(outpath)
-
-    except Exception as e:
-        print(f"Erro no Friedman/Nemenyi para dataset {ds}: {e}")
-        sig[ds] = False
-        pvals[ds] = np.nan
-
-
-# 8. Plotagem com duas legendas e significância visual
+# 7. Plotagem com duas legendas e significância visual
 markers = ['o', 's', 'D', '^', 'v', '<', '>']
 models = best['model'].unique()
 leagues_all = best['league'].unique()
@@ -142,6 +64,11 @@ for ds in best['dataset'].unique():
     leagues = dfb['league'].unique()
 
     fig, ax = plt.subplots(figsize=(10, 6))
+    
+    # Remove as bordas superior e esquerda
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+
 
     for lg in leagues:
         seq = dfb[dfb['league'] == lg].set_index('duration').reindex(x_orders)
@@ -155,30 +82,13 @@ for ds in best['dataset'].unique():
         for xi, yi, md in zip(x_pos, y, seq['model']):
             ax.scatter(xi, yi, marker=marker, s=120, facecolor=color_map[md], edgecolor='black')
 
-        # Asteriscos para Friedman
-        if sig.get((ds, lg), False):
-            ylim = ax.get_ylim()
-            y_asterisk = y[0] + (ylim[1] - ylim[0]) * 0.03
-            ax.text(x_pos[0], y_asterisk, '*', color='red', fontsize=16, ha='center')
-
-            # Marcação dos pares do Nemenyi
-            nemenyi = nemenyi_results[(ds, lg)]
-            for i in range(len(x_orders)):
-                for j in range(i + 1, len(x_orders)):
-                    d1, d2 = x_orders[i], x_orders[j]
-                    pval = nemenyi.loc[d1, d2]
-                    if pval < 0.05:
-                        y_max = max(y[i], y[j]) + (ylim[1] - ylim[0]) * 0.05
-                        ax.plot([x_pos[i], x_pos[j]], [y_max, y_max], color='red', linewidth=1.5)
-                        ax.text((x_pos[i] + x_pos[j]) / 2, y_max + (ylim[1] - ylim[0]) * 0.015, '*',
-                                color='red', fontsize=14, ha='center')
 
     # Eixos
     ax.set_xticks(x_pos)
     ax.set_xticklabels(x_labels)
     ax.set_title(f"Melhores Modelos - {ds}")
-    ax.set_xlabel('Duration')
-    ax.set_ylabel('Mean Accuracy')
+    ax.set_xlabel('Cortes temporais')
+    ax.set_ylabel('Acurácia média (%)')
 
     # Legenda 1: Modelos (cores)
     model_handles = [
