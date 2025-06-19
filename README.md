@@ -1,90 +1,126 @@
 # Previsão de Desempenho de Clubes de Futebol com Aprendizado de Máquina
 
-Este projeto aplica algoritmos de aprendizado de máquina supervisionado para prever o desempenho futuro de clubes de futebol das cinco principais ligas europeias (Bundesliga, Premier League, La Liga, Serie A e Ligue 1). Utilizando dados de transferências de jogadores e desempenho em temporadas anteriores, o objetivo é auxiliar os clubes a tomar decisões mais informadas sobre investimentos no mercado de transferências, considerando o impacto financeiro crescente dessas transações.
+Este projeto aplica algoritmos de aprendizado de máquina supervisionado para prever o desempenho futuro de clubes de futebol das cinco principais ligas europeias (Bundesliga, Premier League, La Liga, Serie A e Ligue 1). Utilizando dados de transferências de jogadores e desempenho em temporadas anteriores, o objetivo é fornecer suporte estratégico baseado em dados para decisões no mercado de transferências.
 
 ## Objetivos
 
 ### Geral
-- Aplicar algoritmos de aprendizado de máquina para predizer o desempenho futuro de times de futebol com base em suas atividades no mercado de transferências e desempenho em temporadas anteriores, abrangendo as temporadas de 2009/2010 a 2019/2020.
+Aplicar algoritmos de aprendizado de máquina para predizer o desempenho futuro de clubes de futebol com base em atividades no mercado de transferências e desempenho histórico nas temporadas anteriores, no intervalo de 2009/2010 a 2019/2020.
 
 ### Específicos
-- Comparar a capacidade de predição dos algoritmos com diferentes filtros temporais (1, 3 e 5 anos anteriores).
-- Comparar a acurácia das predições utilizando diferentes conjuntos de variáveis preditoras:
-  1. Dados de transferências de jogadores.
-  2. Dados de desempenho nas temporadas anteriores.
-  3. Combinação dos dois anteriores.
-- Comparar a acurácia das predições entre as diferentes ligas europeias.
+- Avaliar o impacto de diferentes filtros temporais (1, 3 e 5 anos) nas variáveis preditoras.
+- Comparar o desempenho dos modelos com diferentes conjuntos de variáveis:
+  1. Somente transferências.
+  2. Somente desempenho histórico.
+  3. Combinação de ambos.
+- Avaliar os resultados separadamente para cada liga.
+- Analisar o impacto de diferentes estratégias de tratamento para clubes rebaixados.
 
-## Dados
-Os dados utilizados neste projeto foram extraídos de duas fontes principais:
-- **Dados de transferências de jogadores**: Disponíveis em [github.com/ewenne/transfers](https://github.com/ewenne/transfers).
-- **Dados de classificação dos clubes**: Extraídos manualmente de [fbref.com](https://fbref.com) para conformidade com os termos de uso, cobrindo temporadas de 1992/1993 a 2021/2022.
+## Conjunto de Dados
 
-Os datasets estão organizados no diretório `data/` e incluem arquivos CSV para cada liga:
-- `bundesliga_full.csv` (13.446 linhas)
-- `la_liga_full.csv` (15.140 linhas)
-- `ligue_1_fr_full.csv` (15.764 linhas)
-- `premier_league_full.csv` (22.976 linhas)
-- `serie_a_it_full.csv` (27.147 linhas)
+Os dados foram extraídos de:
+- [github.com/ewenme/transfers](https://github.com/ewenme/transfers) – transferências de jogadores.
+- [fbref.com](https://fbref.com) – desempenho esportivo dos clubes (extração manual para obedecer aos termos de uso).
 
-Cada arquivo contém colunas como nome do clube, nome do jogador, idade, posição, valor da negociação, vitórias, gols, pontos, entre outros.
+As variáveis incluem:
+- Informações de transferências: valor, posição, tipo, idade dos jogadores, entre outras.
+- Métricas de desempenho: vitórias, empates, derrotas, gols, pontos, saldo de gols, etc.
+- Estatísticas avançadas (xG, clean sheets, artilheiro).
 
-## Metodologia
+## Pré-processamento
 
-### Pré-processamento
-- **Filtragem temporal**: Temporadas de 2009/2010 a 2019/2020, excluindo o período da pandemia de COVID-19.
-- **Seleção de dados**: Apenas transferências envolvendo dinheiro (excluindo empréstimos gratuitos ou fim de contrato).
-- **Bancos de dados**:
-  1. **Transferências**: Idade, janela de transferência, valor e quantidade de contratações/vendas por posição (goleiros, defesa, meio-campo, ataque).
-  2. **Desempenho anterior**: Posição, vitórias, empates, derrotas, gols feitos, gols sofridos, saldo de gols e pontos por partida.
-  3. **Combinado**: Variáveis dos bancos 1 e 2.
-- **Variável alvo**: Posição final na temporada seguinte, categorizada em: topo (1º-6º), meio (7º-14º) e base (15º-20º).
-- **Padronização**: Uso de `StandardScaler` para normalizar as variáveis.
+- Foco no período de 2009/2010 a 2019/2020, evitando vieses da pandemia.
+- Exclusão de transferências sem compensação financeira (empréstimos gratuitos ou fim de contrato).
+- Construção de três bancos:
+  1. Transferências.
+  2. Desempenho anterior.
+  3. Combinação dos dois.
 
-### Algoritmos
-Os seguintes modelos de classificação serão utilizados via Scikit-learn:
+### Estratégias para Clubes Rebaixados
+- **Exclusão**: remoção completa quando faltam dados futuros.
+- **Preenchimento com zeros**: uso de valores padrão para manter integridade.
+- **Repetição**: replicação dos últimos dados disponíveis.
+
+Cada estratégia gerou um subconjunto de dados salvo em diretórios separados.
+
+## Modelagem
+
+Modelos utilizados:
 - Random Forest
 - Logistic Regression
-- K-nearest Neighbors
+- K-Nearest Neighbors
 - Support Vector Machine
 - Gaussian Naive Bayes
+- AdaBoost
+- XGBoost
 
-### Avaliação
-- **Otimização**: Grid Search para hiperparâmetros, priorizando acurácia balanceada.
-- **Validação**: Validação cruzada com k=5.
-- **Métricas**: Acurácia, acurácia balanceada, precisão, revocação e F1 Score.
+### Validação e Otimização
+- Validação cruzada (5-fold interna e externa).
+- Busca de hiperparâmetros via Grid Search.
+- Padronização dos dados via `StandardScaler`.
 
-### Análise Estatística
-- Comparação das métricas com testes estatísticos (ANOVA ou Kruskal-Wallis, conforme normalidade dos dados), com significância de p<0,05.
+### Métricas de Avaliação
+- Acurácia
+- Acurácia Balanceada
+- Precisão
+- Revocação
+- F1-Score
+- AUC-ROC (quando aplicável)
 
-## Estrutura do Repositório
-- **`data/`**: Datasets em CSV para cada liga.
-- **`models/`**: Futuro armazenamento de modelos treinados (atualmente com `deletar_depois.pkl` como placeholder).
-- **`scripts/`**: Scripts Python, incluindo `test.py` como ponto de partida.
-- **`text/`**: Arquivos LaTeX para documentação (`main.tex`, `Makefile`, `mplainnat.bst`, `refs.bib`).
-- **`Proposta_Abel_Rafael_Monteiro-5955006_Introducao_aprendizado_maquina.pdf`**: Proposta completa do projeto.
-- **`README.md`**: Este arquivo.
+### Ensemble
+Os três modelos com melhor F1-Score foram combinados em um ensemble (VotingClassifier) com estratégia de votação `soft` (quando possível) ou `hard`.
+
+## Análise Estatística
+
+- Boxplots com métricas de desempenho.
+- Matrizes de confusão.
+- Testes de Friedman e post-hoc de Nemenyi (`scikit-posthocs`) para avaliar diferenças significativas entre modelos.
+
+## Estrutura do Projeto
+
+```
+.
+├── data/
+│   ├── pre_process/
+│   ├── pre_process_boost/
+│   ├── pre_process_repeated/
+│   └── pre_process_without_relegated/
+├── models/
+├── results/
+├── results_boost/
+├── results_repeated_boost/
+├── results_repeated_boost_ensemble/
+├── results_without_relegated/
+├── scripts/
+│   └── __pycache__/
+├── text/
+├── environment.yml
+├── requirements.txt
+├── README.md
+└── Apresentacao_IAM-Abel_Rafael_2025.pptx
+```
 
 ## Como Executar
+
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Abel-Chinaglia/Introducao_AM-5955006.git
+   git clone https://github.com/Abel-Chinaglia/Footbal_prediction-Introducao_AM.git
+   cd Footbal_prediction-Introducao_AM
    ```
-2. Instale as dependências:
+
+2. Crie o ambiente:
+   ```bash
+   conda env create -f environment.yml
+   conda activate futebol_ml_env
+   ```
+
+   Ou instale via pip:
    ```bash
    pip install -r requirements.txt
    ```
-3. Execute o script principal (quando disponível):
-   ```bash
-   python scripts/test.py
-   ```
 
-**Nota**: Atualize esta seção com instruções específicas conforme os scripts forem desenvolvidos.
+3. Execute os scripts desejados no diretório `scripts/`.
 
-## Resultados Esperados
-- Desempenho dos algoritmos deve variar entre as ligas, sem indicativo prévio de qual será superior.
-- Dados de desempenho anterior devem superar os de transferências isoladamente, mas a combinação de ambos deve apresentar os melhores resultados.
-- Filtros temporais mais longos (ex., 5 anos) devem melhorar a acurácia.
 
 ## Contribuições
 Contribuições são bem-vindas! Siga os passos:
@@ -93,9 +129,6 @@ Contribuições são bem-vindas! Siga os passos:
 3. Commit suas mudanças (`git commit -am 'Adiciona nova feature'`).
 4. Push para a branch (`git push origin feature/nova-feature`).
 5. Abra um Pull Request.
-
-## Disponibilidade
-O projeto está versionado no GitHub, e os códigos e dados serão disponibilizados ao final.
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.

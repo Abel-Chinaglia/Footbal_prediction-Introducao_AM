@@ -1,3 +1,59 @@
+# =============================================================================
+# machine_learning_boosted_enssemble_v1_0.py
+# =============================================================================
+# Autor: Rafael Luiz Martins Monteiro
+# Doutorando no PPGRDF - FMRP - USP
+# Data: 8 jun. 2025
+# Versão do Python: 3.11
+
+# Descrição:
+# ----------
+# Este script realiza tarefas de classificação em conjuntos de dados relacionados à marcha,
+# utilizando diversos algoritmos de aprendizado de máquina com validação cruzada aninhada.
+# Inclui ajuste de hiperparâmetros via GridSearchCV e gera previsões por meio de um modelo
+# de ensemble baseado em votação (soft ou hard). Calcula diversas métricas de desempenho e
+# executa testes estatísticos para comparação entre modelos.
+
+# Funcionalidades Principais:
+# ----------------------------
+# - Implementa diversos classificadores (RandomForest, LogisticRegression, KNN, SVM, etc.)
+# - Utiliza validação cruzada aninhada para avaliação robusta dos modelos
+# - Realiza otimização de hiperparâmetros com GridSearchCV
+# - Calcula métricas como: acurácia, acurácia balanceada, precisão, recall, F1-score e AUC-ROC
+# - Constrói modelos de ensemble com os classificadores de melhor desempenho
+# - Gera gráficos: curvas ROC, boxplots e matrizes de confusão
+# - Realiza testes estatísticos de Friedman e pós-teste de Nemenyi para comparação de desempenho
+# - Salva todos os resultados e visualizações em diretório de saída
+
+# Execução:
+# ---------
+# - Certifique-se de que os arquivos CSV de entrada estejam no diretório: ../data/pre_process_repeated
+# - Execute o script com:
+#   $ python machine_learning_boosted_enssemble_v1_0.py
+# - O script processará cada arquivo CSV, aplicará os modelos e salvará os resultados em:
+#   ../results_repeated_boost_ensemble/
+
+# Formato dos Dados de Entrada:
+# -----------------------------
+# Arquivos CSV contendo características numéricas e a variável alvo na última coluna.
+# Colunas opcionais como 'league_name', 'club_name' e 'year' são removidas automaticamente se existirem.
+
+# Estrutura de Saída:
+# -------------------
+# Para cada arquivo CSV processado:
+# - Arquivos Excel com métricas por divisão (fold) e médias
+# - Gráficos de curva ROC para modelos com saída de probabilidade
+# - Boxplots das principais métricas entre os modelos
+# - Matrizes de confusão para cada classificador
+# - Resultados dos testes estatísticos de comparação de desempenho
+
+# Licença:
+# --------
+# Este programa está licenciado sob a GNU Lesser General Public License v3.0.
+# Para mais detalhes, acesse: https://www.gnu.org/licenses/lgpl-3.0.html
+
+# =============================================================================
+
 import os
 import pandas as pd
 import numpy as np
