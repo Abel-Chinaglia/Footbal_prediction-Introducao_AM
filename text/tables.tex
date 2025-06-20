@@ -1,0 +1,105 @@
+\begin{table}[h]
+\centering
+\caption{Hiperparâmetros para Floresta Aleatória}
+\label{tab:rf_hyperparams}
+\begin{tabular}{ll}
+\hline
+\textbf{Hiperparâmetro} & \textbf{Valores} \\
+\hline
+\texttt{n\_estimators} & 50, 100, 1000 \\
+\texttt{max\_depth} & None, 5 \\
+\texttt{min\_samples\_split} & 2, 5 \\
+\hline
+\end{tabular}
+
+\end{table}
+
+\begin{table}[h]
+\centering
+\caption{Hiperparâmetros para Regressão Logística}
+\label{tab:lr_hyperparams}
+
+\begin{tabular}{ll}
+\hline
+\textbf{Hiperparâmetro} & \textbf{Valores} \\
+\hline
+\texttt{C} & 0.01, 0.1, 1, 10 \\
+\texttt{penalty} & 'l2' \\
+\texttt{solver} & 'lbfgs' \\
+\hline
+\end{tabular}
+
+\end{table}
+
+\begin{table}[h]
+\centering
+\caption{Hiperparâmetros para K-Vizinhos Mais Próximos}
+\label{tab:knn_hyperparams}
+
+\begin{tabular}{ll}
+\hline
+\textbf{Hiperparâmetro} & \textbf{Valores} \\
+\hline
+\texttt{n\_neighbors} & 3, 5, 7, 9 \\
+\texttt{weights} & 'uniform', 'distance' \\
+\hline
+\end{tabular}
+
+\end{table}
+
+\begin{table}[h]
+\centering
+\caption{Hiperparâmetros para Máquina de Vetores de Suporte}
+\label{tab:svm_hyperparams}
+
+\begin{tabular}{lll}
+\hline
+\textbf{Kernel} & \textbf{Hiperparâmetro} & \textbf{Valores} \\
+\hline
+linear & \texttt{C} & 0.01, 0.1, 1, 10 \\
+rbf & \texttt{C} & 0.1, 1, 10 \\
+rbf & \texttt{gamma} & 'scale', 'auto', 0.01, 0.1 \\
+poly & \texttt{C} & 0.1, 1 \\
+poly & \texttt{degree} & 2, 3 \\
+poly & \texttt{gamma} & 'scale', 0.01 \\
+poly & \texttt{coef0} & 0.0, 0.5 \\
+sigmoid & \texttt{C} & 0.1, 1 \\
+sigmoid & \texttt{gamma} & 'scale', 0.01 \\
+sigmoid & \texttt{coef0} & 0.0, 0.5 \\
+\hline
+\end{tabular}
+
+\end{table}
+
+\begin{table}[h]
+\centering
+\caption{Hiperparâmetros para AdaBoost com Árvore de Decisão}
+\label{tab:adaboost_hyperparams}
+
+\begin{tabular}{ll}
+\hline
+\textbf{Hiperparâmetro} & \textbf{Valores} \\
+\hline
+\texttt{n\_estimators} & 50, 100 \\
+\texttt{learning\_rate} & 0.1, 1.0 \\
+\hline
+\end{tabular}
+
+\end{table}
+
+\begin{table}[h]
+\centering
+\caption{Hiperparâmetros para XGBoost}
+\label{tab:xgboost_hyperparams}
+
+\begin{tabular}{ll}
+\hline
+\textbf{Hiperparâmetro} & \textbf{Valores} \\
+\hline
+\texttt{n\_estimators} & 10, 100, 500 \\
+\texttt{max\_depth} & 3, 5 \\
+\texttt{learning\_rate} & 0.01, 0.1 \\
+\hline
+\end{tabular}
+
+\end{table}

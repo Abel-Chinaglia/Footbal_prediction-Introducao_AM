@@ -85,18 +85,17 @@ Os três modelos com melhor F1-Score foram combinados em um ensemble (VotingClas
 │   ├── pre_process_boost/
 │   ├── pre_process_repeated/
 │   └── pre_process_without_relegated/
-├── models/
 ├── results/
 ├── results_boost/
 ├── results_repeated_boost/
 ├── results_repeated_boost_ensemble/
 ├── results_without_relegated/
 ├── scripts/
-│   └── __pycache__/
 ├── text/
 ├── environment.yml
 ├── requirements.txt
 ├── README.md
+├── Texto_Introdicao_AM-5955006-Abel_Rafael.pdf
 └── Apresentacao_IAM-Abel_Rafael_2025.pptx
 ```
 
